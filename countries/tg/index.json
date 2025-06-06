@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Togo",
+    "fr": "Togo (le)"
+  },
+  "alternate_names": [
+    "Togo",
+    "Togo (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "TG",
+    "iso_3166_1_alpha3": "TGO",
+    "iso_3166_1_numeric": "768",
+    "iso_path": "/content/iso/code/3166/TG_82.xml"
+  },
+  "valid_from": null
+}

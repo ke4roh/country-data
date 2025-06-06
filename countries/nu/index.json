@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Niue",
+    "fr": "Niue"
+  },
+  "alternate_names": [
+    "Niue",
+    "Niue",
+    "Niue"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "NU",
+    "iso_3166_1_alpha3": "NIU",
+    "iso_3166_1_numeric": "570",
+    "iso_path": "/content/iso/code/3166/NU_82.xml"
+  },
+  "valid_from": null
+}

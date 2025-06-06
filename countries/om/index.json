@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Oman",
+    "fr": "Oman"
+  },
+  "alternate_names": [
+    "‘Umān",
+    "Oman",
+    "Oman"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "OM",
+    "iso_3166_1_alpha3": "OMN",
+    "iso_3166_1_numeric": "512",
+    "iso_path": "/content/iso/code/3166/OM_82.xml"
+  },
+  "valid_from": null
+}

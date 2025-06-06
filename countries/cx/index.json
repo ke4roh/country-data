@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Christmas Island",
+    "fr": "Christmas (l'Île)"
+  },
+  "alternate_names": [
+    "Christmas Island",
+    "Christmas (l'Île)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "CX",
+    "iso_3166_1_alpha3": "CXR",
+    "iso_3166_1_numeric": "162",
+    "iso_path": "/content/iso/code/3166/CX_82.xml"
+  },
+  "valid_from": null
+}

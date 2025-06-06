@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Bangladesh",
+    "fr": "Bangladesh (le)"
+  },
+  "alternate_names": [
+    "Bāṁlādesh",
+    "Bangladesh",
+    "Bangladesh (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "BD",
+    "iso_3166_1_alpha3": "BGD",
+    "iso_3166_1_numeric": "050",
+    "iso_path": "/content/iso/code/3166/BD_82.xml"
+  },
+  "valid_from": null
+}

@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Nauru",
+    "fr": "Nauru"
+  },
+  "alternate_names": [
+    "Nauru",
+    "Nauru",
+    "Naoero"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "NR",
+    "iso_3166_1_alpha3": "NRU",
+    "iso_3166_1_numeric": "520",
+    "iso_path": "/content/iso/code/3166/NR_82.xml"
+  },
+  "valid_from": null
+}

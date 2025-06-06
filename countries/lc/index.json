@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Saint Lucia",
+    "fr": "Sainte-Lucie"
+  },
+  "alternate_names": [
+    "Saint Lucia",
+    "Sainte-Lucie"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "LC",
+    "iso_3166_1_alpha3": "LCA",
+    "iso_3166_1_numeric": "662",
+    "iso_path": "/content/iso/code/3166/LC_82.xml"
+  },
+  "valid_from": null
+}

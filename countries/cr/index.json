@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Costa Rica",
+    "fr": "Costa Rica (le)"
+  },
+  "alternate_names": [
+    "Costa Rica",
+    "Costa Rica (le)",
+    "Costa Rica"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "CR",
+    "iso_3166_1_alpha3": "CRI",
+    "iso_3166_1_numeric": "188",
+    "iso_path": "/content/iso/code/3166/CR_82.xml"
+  },
+  "valid_from": null
+}

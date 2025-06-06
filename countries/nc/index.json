@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "New Caledonia",
+    "fr": "Nouvelle-Calédonie (la)"
+  },
+  "alternate_names": [
+    "New Caledonia",
+    "Nouvelle-Calédonie (la)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "NC",
+    "iso_3166_1_alpha3": "NCL",
+    "iso_3166_1_numeric": "540",
+    "iso_path": "/content/iso/code/3166/NC_82.xml"
+  },
+  "valid_from": null
+}

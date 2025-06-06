@@ -1,0 +1,20 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Cyprus",
+    "fr": "Chypre"
+  },
+  "alternate_names": [
+    "Kýpros",
+    "Cyprus",
+    "Chypre",
+    "Kıbrıs"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "CY",
+    "iso_3166_1_alpha3": "CYP",
+    "iso_3166_1_numeric": "196",
+    "iso_path": "/content/iso/code/3166/CY_82.xml"
+  },
+  "valid_from": null
+}

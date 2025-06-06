@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Bahamas (the)",
+    "fr": "Bahamas (les)"
+  },
+  "alternate_names": [
+    "Bahamas (the)",
+    "Bahamas (les)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "BS",
+    "iso_3166_1_alpha3": "BHS",
+    "iso_3166_1_numeric": "044",
+    "iso_path": "/content/iso/code/3166/BS_82.xml"
+  },
+  "valid_from": null
+}

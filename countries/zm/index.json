@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Zambia",
+    "fr": "Zambie (la)"
+  },
+  "alternate_names": [
+    "Zambia",
+    "Zambie (la)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "ZM",
+    "iso_3166_1_alpha3": "ZMB",
+    "iso_3166_1_numeric": "894",
+    "iso_path": "/content/iso/code/3166/ZM_82.xml"
+  },
+  "valid_from": null
+}

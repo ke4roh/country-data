@@ -1,0 +1,21 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Peru",
+    "fr": "Pérou (le)"
+  },
+  "alternate_names": [
+    "Perú",
+    "Peru",
+    "Pérou (le)",
+    "Perú",
+    "Perú (el)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "PE",
+    "iso_3166_1_alpha3": "PER",
+    "iso_3166_1_numeric": "604",
+    "iso_path": "/content/iso/code/3166/PE_82.xml"
+  },
+  "valid_from": null
+}

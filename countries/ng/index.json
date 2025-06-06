@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Nigeria",
+    "fr": "Nigéria (le)"
+  },
+  "alternate_names": [
+    "Nigeria",
+    "Nigéria (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "NG",
+    "iso_3166_1_alpha3": "NGA",
+    "iso_3166_1_numeric": "566",
+    "iso_path": "/content/iso/code/3166/NG_82.xml"
+  },
+  "valid_from": null
+}

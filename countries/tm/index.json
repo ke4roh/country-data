@@ -1,0 +1,23 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Turkmenistan",
+    "fr": "Turkménistan (le)"
+  },
+  "alternate_names": [
+    "Turkmenistan",
+    "Turkménistan (le)",
+    "Türkmenistan"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "TM",
+    "iso_3166_1_alpha3": "TKM",
+    "iso_3166_1_numeric": "795",
+    "iso_path": "/content/iso/code/3166/TM_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+    "fr": "Faisant partie de l'USSR (SU, SUN, 810) avant sa suppression. Voir codet SUHH."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "New Zealand",
+    "fr": "Nouvelle-Zélande (la)"
+  },
+  "alternate_names": [
+    "New Zealand",
+    "Nouvelle-Zélande (la)",
+    "Aotearoa"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "NZ",
+    "iso_3166_1_alpha3": "NZL",
+    "iso_3166_1_numeric": "554",
+    "iso_path": "/content/iso/code/3166/NZ_82.xml"
+  },
+  "valid_from": null
+}

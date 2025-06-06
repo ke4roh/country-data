@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Cuba",
+    "fr": "Cuba"
+  },
+  "alternate_names": [
+    "Cuba",
+    "Cuba",
+    "Cuba"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "CU",
+    "iso_3166_1_alpha3": "CUB",
+    "iso_3166_1_numeric": "192",
+    "iso_path": "/content/iso/code/3166/CU_82.xml"
+  },
+  "valid_from": null
+}

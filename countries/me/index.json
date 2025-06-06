@@ -1,0 +1,23 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Montenegro",
+    "fr": "Monténégro (le)"
+  },
+  "alternate_names": [
+    "Crna Gora",
+    "Montenegro",
+    "Monténégro (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "ME",
+    "iso_3166_1_alpha3": "MNE",
+    "iso_3166_1_numeric": "499",
+    "iso_path": "/content/iso/code/3166/ME_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Serbia and Montenegro (CS, SCG, 891) was divided into Serbia (RS, SRB, 688) and Montenegro (ME, MNE, 499). See also code element CSXX.",
+    "fr": "La Serbie-et-Monténégro (ME, MNE, 499 ) a été divisé entre la Serbie (RS, SRB, 688) et-le Monténégro (ME, MNE, 499). Voir aussi codet CSXX."
+  }
+}

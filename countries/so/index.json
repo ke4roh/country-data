@@ -1,0 +1,20 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Somalia",
+    "fr": "Somalie (la)"
+  },
+  "alternate_names": [
+    "Aş Şūmāl",
+    "Somalia",
+    "Somalie (la)",
+    "Soomaaliya"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "SO",
+    "iso_3166_1_alpha3": "SOM",
+    "iso_3166_1_numeric": "706",
+    "iso_path": "/content/iso/code/3166/SO_82.xml"
+  },
+  "valid_from": null
+}

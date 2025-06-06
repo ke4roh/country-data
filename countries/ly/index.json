@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Libya",
+    "fr": "Libye (la)"
+  },
+  "alternate_names": [
+    "Lībiyā",
+    "Libya",
+    "Libye (la)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "LY",
+    "iso_3166_1_alpha3": "LBY",
+    "iso_3166_1_numeric": "434",
+    "iso_path": "/content/iso/code/3166/LY_82.xml"
+  },
+  "valid_from": null
+}

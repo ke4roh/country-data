@@ -1,0 +1,22 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Zimbabwe",
+    "fr": "Zimbabwe (le)"
+  },
+  "alternate_names": [
+    "Zimbabwe",
+    "Zimbabwe (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "ZW",
+    "iso_3166_1_alpha3": "ZWE",
+    "iso_3166_1_numeric": "716",
+    "iso_path": "/content/iso/code/3166/ZW_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Name changed from Southern Rhodesia (RH, RHO, --) to Zimbabwe (ZW, ZWE, 716). See also code element RHZW.",
+    "fr": "Nom changé de la Rhodésie du Sud (RH, RHO, --) à Zimbabwe (ZW, ZWE, 716). Voir aussi code element RHZW."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Papua New Guinea",
+    "fr": "Papouasie-Nouvelle-Guinée (la)"
+  },
+  "alternate_names": [
+    "Papua New Guinea",
+    "Papouasie-Nouvelle-Guinée (la)",
+    "Papuaniugini",
+    "Papuaniugini"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "PG",
+    "iso_3166_1_alpha3": "PNG",
+    "iso_3166_1_numeric": "598",
+    "iso_path": "/content/iso/code/3166/PG_82.xml"
+  },
+  "valid_from": null
+}

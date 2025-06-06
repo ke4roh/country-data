@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Saint Martin (French part)",
+    "fr": "Saint-Martin (partie française)"
+  },
+  "alternate_names": [
+    "Saint Martin (French part)",
+    "Saint-Martin (partie française)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "MF",
+    "iso_3166_1_alpha3": "MAF",
+    "iso_3166_1_numeric": "663",
+    "iso_path": "/content/iso/code/3166/MF_82.xml"
+  },
+  "valid_from": null
+}

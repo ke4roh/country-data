@@ -1,0 +1,23 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Viet Nam",
+    "fr": "Viet Nam (le)"
+  },
+  "alternate_names": [
+    "Viet Nam",
+    "Viet Nam (le)",
+    "Việt Nam"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "VN",
+    "iso_3166_1_alpha3": "VNM",
+    "iso_3166_1_numeric": "704",
+    "iso_path": "/content/iso/code/3166/VN_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "The former Democratic Republic of Viet-Nam (VD, VDR, --) is  now part of the entry for Viet Nam (VN, VNM, 704). See also the code element VDVN.",
+    "fr": "La République démocratique du Viet-Nam (VD, VDR, --) fait maintenant partie de l'entrée pour le Viet Nam (VN, VNM, 704). Voir aussi le codet VDVN."
+  }
+}

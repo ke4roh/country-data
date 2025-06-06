@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Iran (Islamic Republic of)",
+    "fr": "Iran (République Islamique d')"
+  },
+  "alternate_names": [
+    "Iran (Islamic Republic of)",
+    "Jomhūrī-ye Eslāmī-ye Īrān",
+    "Iran (République Islamique d')"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "IR",
+    "iso_3166_1_alpha3": "IRN",
+    "iso_3166_1_numeric": "364",
+    "iso_path": "/content/iso/code/3166/IR_82.xml"
+  },
+  "valid_from": null
+}

@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Uruguay",
+    "fr": "Uruguay (l')"
+  },
+  "alternate_names": [
+    "Uruguay",
+    "Uruguay (l')",
+    "Uruguay (el)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "UY",
+    "iso_3166_1_alpha3": "URY",
+    "iso_3166_1_numeric": "858",
+    "iso_path": "/content/iso/code/3166/UY_82.xml"
+  },
+  "valid_from": null
+}

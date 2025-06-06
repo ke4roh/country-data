@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Central African Republic (the)",
+    "fr": "République centrafricaine (la)"
+  },
+  "alternate_names": [
+    "Central African Republic (the)",
+    "République centrafricaine (la)",
+    "Ködörösêse tî Bêafrîka"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "CF",
+    "iso_3166_1_alpha3": "CAF",
+    "iso_3166_1_numeric": "140",
+    "iso_path": "/content/iso/code/3166/CF_82.xml"
+  },
+  "valid_from": null
+}

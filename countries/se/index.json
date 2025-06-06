@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Sweden",
+    "fr": "Suède (la)"
+  },
+  "alternate_names": [
+    "Sweden",
+    "Suède (la)",
+    "Sverige"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "SE",
+    "iso_3166_1_alpha3": "SWE",
+    "iso_3166_1_numeric": "752",
+    "iso_path": "/content/iso/code/3166/SE_82.xml"
+  },
+  "valid_from": null
+}

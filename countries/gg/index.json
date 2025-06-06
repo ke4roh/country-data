@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Guernsey",
+    "fr": "Guernesey"
+  },
+  "alternate_names": [
+    "Guernsey",
+    "Guernesey"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "GG",
+    "iso_3166_1_alpha3": "GGY",
+    "iso_3166_1_numeric": "831",
+    "iso_path": "/content/iso/code/3166/GG_82.xml"
+  },
+  "valid_from": null
+}

@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Gibraltar",
+    "fr": "Gibraltar"
+  },
+  "alternate_names": [
+    "Gibraltar",
+    "Gibraltar"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "GI",
+    "iso_3166_1_alpha3": "GIB",
+    "iso_3166_1_numeric": "292",
+    "iso_path": "/content/iso/code/3166/GI_82.xml"
+  },
+  "valid_from": null
+}

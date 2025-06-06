@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Congo (the)",
+    "fr": "Congo (le)"
+  },
+  "alternate_names": [
+    "Congo (the)",
+    "Congo (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "CG",
+    "iso_3166_1_alpha3": "COG",
+    "iso_3166_1_numeric": "178",
+    "iso_path": "/content/iso/code/3166/CG_82.xml"
+  },
+  "valid_from": null
+}

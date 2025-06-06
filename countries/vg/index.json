@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Virgin Islands (British)",
+    "fr": "Vierges britanniques (les Îles)"
+  },
+  "alternate_names": [
+    "Virgin Islands (British)",
+    "Vierges britanniques (les Îles)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "VG",
+    "iso_3166_1_alpha3": "VGB",
+    "iso_3166_1_numeric": "092",
+    "iso_path": "/content/iso/code/3166/VG_82.xml"
+  },
+  "valid_from": null
+}

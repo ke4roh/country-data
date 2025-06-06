@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "South Sudan",
+    "fr": "Soudan du Sud (le)"
+  },
+  "alternate_names": [
+    "South Sudan",
+    "Soudan du Sud (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "SS",
+    "iso_3166_1_alpha3": "SSD",
+    "iso_3166_1_numeric": "728",
+    "iso_path": "/content/iso/code/3166/SS_82.xml"
+  },
+  "valid_from": null
+}

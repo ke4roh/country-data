@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Mexico",
+    "fr": "Mexique (le)"
+  },
+  "alternate_names": [
+    "Mexico",
+    "Mexique (le)",
+    "México"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "MX",
+    "iso_3166_1_alpha3": "MEX",
+    "iso_3166_1_numeric": "484",
+    "iso_path": "/content/iso/code/3166/MX_82.xml"
+  },
+  "valid_from": null
+}

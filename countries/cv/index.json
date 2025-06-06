@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Cabo Verde",
+    "fr": "Cabo Verde"
+  },
+  "alternate_names": [
+    "Cabo Verde",
+    "Cabo Verde",
+    "Cabo Verde"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "CV",
+    "iso_3166_1_alpha3": "CPV",
+    "iso_3166_1_numeric": "132",
+    "iso_path": "/content/iso/code/3166/CV_82.xml"
+  },
+  "valid_from": null
+}

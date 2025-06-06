@@ -1,0 +1,23 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Myanmar",
+    "fr": "Myanmar (le)"
+  },
+  "alternate_names": [
+    "Myanmar",
+    "Myanmar (le)",
+    "Myanma"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "MM",
+    "iso_3166_1_alpha3": "MMR",
+    "iso_3166_1_numeric": "104",
+    "iso_path": "/content/iso/code/3166/MM_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Name changed from former Burma (BU, BUR, 104) to Myanmar (MM MMR, 104). See code element BUMM.",
+    "fr": "Nom changé de l'ancienne  Birmanie (BU, BUR, 104) à Myanmar (MM MMR, 104). Voir aussi codet BUMM."
+  }
+}

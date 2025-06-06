@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Puerto Rico",
+    "fr": "Porto Rico"
+  },
+  "alternate_names": [
+    "Puerto Rico",
+    "Porto Rico",
+    "Puerto Rico"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "PR",
+    "iso_3166_1_alpha3": "PRI",
+    "iso_3166_1_numeric": "630",
+    "iso_path": "/content/iso/code/3166/PR_82.xml"
+  },
+  "valid_from": null
+}

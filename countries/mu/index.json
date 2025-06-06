@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Mauritius",
+    "fr": "Maurice"
+  },
+  "alternate_names": [
+    "Mauritius",
+    "Maurice"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "MU",
+    "iso_3166_1_alpha3": "MUS",
+    "iso_3166_1_numeric": "480",
+    "iso_path": "/content/iso/code/3166/MU_82.xml"
+  },
+  "valid_from": null
+}

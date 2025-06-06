@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Denmark",
+    "fr": "Danemark (le)"
+  },
+  "alternate_names": [
+    "Danmark",
+    "Denmark",
+    "Danemark (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "DK",
+    "iso_3166_1_alpha3": "DNK",
+    "iso_3166_1_numeric": "208",
+    "iso_path": "/content/iso/code/3166/DK_82.xml"
+  },
+  "valid_from": null
+}

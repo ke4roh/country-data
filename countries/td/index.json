@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Chad",
+    "fr": "Tchad (le)"
+  },
+  "alternate_names": [
+    "Tshād",
+    "Chad",
+    "Tchad (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "TD",
+    "iso_3166_1_alpha3": "TCD",
+    "iso_3166_1_numeric": "148",
+    "iso_path": "/content/iso/code/3166/TD_82.xml"
+  },
+  "valid_from": null
+}

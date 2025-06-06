@@ -1,0 +1,22 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Benin",
+    "fr": "Bénin (le)"
+  },
+  "alternate_names": [
+    "Benin",
+    "Bénin (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "BJ",
+    "iso_3166_1_alpha3": "BEN",
+    "iso_3166_1_numeric": "204",
+    "iso_path": "/content/iso/code/3166/BJ_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Name changed from Dahomey (DY, DHY, 204) to Benin .  See code element DYBJ.",
+    "fr": "Le nom a été changé de Dahomey (DY, DHY, 204) à Bénin .  Voir codet DYBJ."
+  }
+}

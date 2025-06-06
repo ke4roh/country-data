@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Isle of Man",
+    "fr": "Île de Man"
+  },
+  "alternate_names": [
+    "Isle of Man",
+    "Île de Man"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "IM",
+    "iso_3166_1_alpha3": "IMN",
+    "iso_3166_1_numeric": "833",
+    "iso_path": "/content/iso/code/3166/IM_82.xml"
+  },
+  "valid_from": null
+}

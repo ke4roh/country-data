@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Antigua and Barbuda",
+    "fr": "Antigua-et-Barbuda"
+  },
+  "alternate_names": [
+    "Antigua and Barbuda",
+    "Antigua-et-Barbuda"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "AG",
+    "iso_3166_1_alpha3": "ATG",
+    "iso_3166_1_numeric": "028",
+    "iso_path": "/content/iso/code/3166/AG_82.xml"
+  },
+  "valid_from": null
+}

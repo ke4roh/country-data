@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Grenada",
+    "fr": "Grenade (la)"
+  },
+  "alternate_names": [
+    "Grenada",
+    "Grenade (la)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "GD",
+    "iso_3166_1_alpha3": "GRD",
+    "iso_3166_1_numeric": "308",
+    "iso_path": "/content/iso/code/3166/GD_82.xml"
+  },
+  "valid_from": null
+}

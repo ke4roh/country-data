@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Portugal",
+    "fr": "Portugal (le)"
+  },
+  "alternate_names": [
+    "Portugal",
+    "Portugal (le)",
+    "Portugal"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "PT",
+    "iso_3166_1_alpha3": "PRT",
+    "iso_3166_1_numeric": "620",
+    "iso_path": "/content/iso/code/3166/PT_82.xml"
+  },
+  "valid_from": null
+}

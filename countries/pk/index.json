@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Pakistan",
+    "fr": "Pakistan (le)"
+  },
+  "alternate_names": [
+    "Pakistan",
+    "Pakistan (le)",
+    "Pākistān"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "PK",
+    "iso_3166_1_alpha3": "PAK",
+    "iso_3166_1_numeric": "586",
+    "iso_path": "/content/iso/code/3166/PK_82.xml"
+  },
+  "valid_from": null
+}

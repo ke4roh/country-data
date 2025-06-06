@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Bhutan",
+    "fr": "Bhoutan (le)"
+  },
+  "alternate_names": [
+    "Druk-Yul",
+    "Bhutan",
+    "Bhoutan (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "BT",
+    "iso_3166_1_alpha3": "BTN",
+    "iso_3166_1_numeric": "064",
+    "iso_path": "/content/iso/code/3166/BT_82.xml"
+  },
+  "valid_from": null
+}

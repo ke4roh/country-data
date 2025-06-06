@@ -1,0 +1,13 @@
+repos:
+  - repo: https://github.com/commitizen-tools/commitizen
+    rev: v4.8.2
+    hooks:
+      - id: commitizen
+        stages: [commit-msg]
+  - repo: local
+    hooks:
+      - id: validate-schema
+        name: Validate all JSON files against their schemas
+        entry: python tools/validate_all.py
+        language: system
+        types: [json]

@@ -1,0 +1,23 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Slovenia",
+    "fr": "Slovénie (la)"
+  },
+  "alternate_names": [
+    "Slovenia",
+    "Slovénie (la)",
+    "Slovenija"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "SI",
+    "iso_3166_1_alpha3": "SVN",
+    "iso_3166_1_numeric": "705",
+    "iso_path": "/content/iso/code/3166/SI_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Formerly part of Yougoslavia  (YU, YUG, 891) before its split. See code element YUCS.",
+    "fr": "Faisant partie de l'ancienne Yougoslavie (YU, YUG, 891) avant sa division. Voir codet YUCS."
+  }
+}

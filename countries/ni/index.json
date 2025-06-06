@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Nicaragua",
+    "fr": "Nicaragua (le)"
+  },
+  "alternate_names": [
+    "Nicaragua",
+    "Nicaragua (le)",
+    "Nicaragua"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "NI",
+    "iso_3166_1_alpha3": "NIC",
+    "iso_3166_1_numeric": "558",
+    "iso_path": "/content/iso/code/3166/NI_82.xml"
+  },
+  "valid_from": null
+}

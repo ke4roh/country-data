@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Qatar",
+    "fr": "Qatar (le)"
+  },
+  "alternate_names": [
+    "Qaţar",
+    "Qatar",
+    "Qatar (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "QA",
+    "iso_3166_1_alpha3": "QAT",
+    "iso_3166_1_numeric": "634",
+    "iso_path": "/content/iso/code/3166/QA_82.xml"
+  },
+  "valid_from": null
+}

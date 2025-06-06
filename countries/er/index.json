@@ -1,0 +1,20 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Eritrea",
+    "fr": "Érythrée (l')"
+  },
+  "alternate_names": [
+    "Irītrīyā",
+    "Eritrea",
+    "Érythrée (l')",
+    "Iertra"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "ER",
+    "iso_3166_1_alpha3": "ERI",
+    "iso_3166_1_numeric": "232",
+    "iso_path": "/content/iso/code/3166/ER_82.xml"
+  },
+  "valid_from": null
+}

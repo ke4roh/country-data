@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Lesotho",
+    "fr": "Lesotho (le)"
+  },
+  "alternate_names": [
+    "Lesotho",
+    "Lesotho (le)",
+    "Lesotho"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "LS",
+    "iso_3166_1_alpha3": "LSO",
+    "iso_3166_1_numeric": "426",
+    "iso_path": "/content/iso/code/3166/LS_82.xml"
+  },
+  "valid_from": null
+}

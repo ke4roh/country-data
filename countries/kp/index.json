@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Korea (the Democratic People's Republic of)",
+    "fr": "Corée (la République populaire démocratique de)"
+  },
+  "alternate_names": [
+    "Korea (the Democratic People's Republic of)",
+    "Corée (la République populaire démocratique de)",
+    "Chosŏn"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "KP",
+    "iso_3166_1_alpha3": "PRK",
+    "iso_3166_1_numeric": "408",
+    "iso_path": "/content/iso/code/3166/KP_82.xml"
+  },
+  "valid_from": null
+}

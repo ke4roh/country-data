@@ -1,0 +1,28 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Bonaire, Sint Eustatius and Saba",
+    "fr": "Bonaire, Saint-Eustache et Saba"
+  },
+  "alternate_names": [
+    "Bonaire",
+    "Sint Eustatius and Saba",
+    "Bonaire",
+    "Saint-Eustache et Saba",
+    "Bonaire",
+    "Sint Eustatius en Saba",
+    "Boneiru",
+    "Sint Eustatius y Saba"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "BQ",
+    "iso_3166_1_alpha3": "BES",
+    "iso_3166_1_numeric": "535",
+    "iso_path": "/content/iso/code/3166/BQ_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "The code BQ was formerly used for British Antarctic Territory (BQ, ATB, --). See also code element BQAQ. BQ has been reused and reassigned to Bonaire, Sint Eustatius and Saba. The Netherlands Antilles (AN, ANT, 530) was divided into Bonaire, Saint Eustatius and Saba (BQ, BES, 535), Curaçao (CW, CUW, 531) and Sint Maarten (Dutch part) (SX, SXM, 534). See also code element ANHH.",
+    "fr": "Codet BQ a été utilisé auparavant pour le Territoire Britanique de l'Antarctique (BQ, ATB, --). Voir aussi code BQAQ. BQ a été réutilisé et réattribué à Bonaire, Saint-Eustache et Saba. Les Antilles néerlandaises (AN, ANT, 530) ont été divisées entre  Bonaire, Saint-Eustache et Saba (BQ, BES, 535), Curaçao (CW, CUW, 531) et Saint-Martin (partie néerlandaise) (SX, SXM, 534). Voir aussi codet ANHH."
+  }
+}

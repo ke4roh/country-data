@@ -1,0 +1,20 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Venezuela (Bolivarian Republic of)",
+    "fr": "Venezuela (République bolivarienne du)"
+  },
+  "alternate_names": [
+    "Venezuela (Bolivarian Republic of)",
+    "Venezuela (République bolivarienne du)",
+    "Venezuela",
+    "República Bolivariana de"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "VE",
+    "iso_3166_1_alpha3": "VEN",
+    "iso_3166_1_numeric": "862",
+    "iso_path": "/content/iso/code/3166/VE_82.xml"
+  },
+  "valid_from": null
+}

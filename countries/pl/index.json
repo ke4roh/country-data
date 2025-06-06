@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Poland",
+    "fr": "Pologne (la)"
+  },
+  "alternate_names": [
+    "Poland",
+    "Pologne (la)",
+    "Polska"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "PL",
+    "iso_3166_1_alpha3": "POL",
+    "iso_3166_1_numeric": "616",
+    "iso_path": "/content/iso/code/3166/PL_82.xml"
+  },
+  "valid_from": null
+}

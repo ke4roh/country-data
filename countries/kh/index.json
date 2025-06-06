@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Cambodia",
+    "fr": "Cambodge (le)"
+  },
+  "alternate_names": [
+    "Cambodia",
+    "Cambodge (le)",
+    "Kâmpŭchéa"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "KH",
+    "iso_3166_1_alpha3": "KHM",
+    "iso_3166_1_numeric": "116",
+    "iso_path": "/content/iso/code/3166/KH_82.xml"
+  },
+  "valid_from": null
+}

@@ -1,0 +1,22 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Micronesia (Federated States of)",
+    "fr": "Micronésie (États fédérés de)"
+  },
+  "alternate_names": [
+    "Micronesia (Federated States of)",
+    "Micronésie (États fédérés de)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "FM",
+    "iso_3166_1_alpha3": "FSM",
+    "iso_3166_1_numeric": "583",
+    "iso_path": "/content/iso/code/3166/FM_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Pacific Islands (Trust Territory) (PC, PCI, 582) were divided into: Marshall Islands (MH, MHL, 584), Federated States of Micronesia, Northern Mariana Islands (MP, MNP, 580) and Palau (PW, PLW, 585). See also code element PCHH.",
+    "fr": "Les Îles du Pacifique (territoire sous tutelle) (PC, PCI, 582) ont été divisé entre: Îles Mariannes du Nord (MP, MNP, 580), Îles Marshall (MH, MHL, 584), États fédérés de Micronésie et Palaos (PW, PLW, 585). Voir aussi codet PCHH."
+  }
+}

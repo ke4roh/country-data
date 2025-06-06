@@ -1,0 +1,23 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Georgia",
+    "fr": "Géorgie (la)"
+  },
+  "alternate_names": [
+    "Georgia",
+    "Géorgie (la)",
+    "Sakartvelo"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "GE",
+    "iso_3166_1_alpha3": "GEO",
+    "iso_3166_1_numeric": "268",
+    "iso_path": "/content/iso/code/3166/GE_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+    "fr": "Faisant partie de l'USSR (SU, SUN, 810) avant sa suppression. Voir codet SUHH."
+  }
+}

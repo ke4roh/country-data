@@ -1,0 +1,22 @@
+{
+  "type": "country",
+  "name": {
+    "en": "United States Minor Outlying Islands (the)",
+    "fr": "Îles mineures éloignées des États-Unis (les)"
+  },
+  "alternate_names": [
+    "United States Minor Outlying Islands (the)",
+    "Îles mineures éloignées des États-Unis (les)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "UM",
+    "iso_3166_1_alpha3": "UMI",
+    "iso_3166_1_numeric": "581",
+    "iso_path": "/content/iso/code/3166/UM_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Johnston Island (JT, JTN, 396) is now incorporated in the entry for US Minor Outlying Islands. See also code element JTUM. Midway Islands (MI, MID, 488) are now incorporated in the entry for US Minor Outlying Islands. See also code element MIUM. United States Miscellaneous Pacific Islands (PU, PUS, 849) are now incorporated in the entry for US Minor Outlying Islands. See also code element PUUM. Wake Island (WK, WAK, 872) is now incorporated in the entry for US Minor Outlying Islands (UM, UMI, 581). See also code element WKUM.",
+    "fr": "L'Île Johnston (JT, JTN, 396) est maintenant incorporé dans l'entrée pour les Îles mineures éloignées des États-Unis. Voir aussi codet JTUM. Les Îles Midway (MI, MID, 488) sont maintenant incorporés dans l'entrée pour les Îles mineures éloignées des États-Unis. Voir aussi codet MIUM. Diverses îles du Pacifique (États-Unis) (PU, PUS, 849) sont maintenant incorporés dans l'entrée pour les Îles mineures éloignées des États-Unis. See also code element PUUM. L'Île de Wake (WK, WAK, 872) est maintenant incorporé dans l'entrée pour les Îles mineures éloignées des États-Unis (UM, UMI, 581). Voir aussi le codet WKUM."
+  }
+}

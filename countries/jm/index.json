@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Jamaica",
+    "fr": "Jamaïque (la)"
+  },
+  "alternate_names": [
+    "Jamaica",
+    "Jamaïque (la)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "JM",
+    "iso_3166_1_alpha3": "JAM",
+    "iso_3166_1_numeric": "388",
+    "iso_path": "/content/iso/code/3166/JM_82.xml"
+  },
+  "valid_from": null
+}

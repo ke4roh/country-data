@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Western Sahara*",
+    "fr": "Sahara occidental (le)*"
+  },
+  "alternate_names": [
+    "Aş Şaḩrā' al Gharbīyah",
+    "Western Sahara*",
+    "Sahara occidental (le)*"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "EH",
+    "iso_3166_1_alpha3": "ESH",
+    "iso_3166_1_numeric": "732",
+    "iso_path": "/content/iso/code/3166/EH_82.xml"
+  },
+  "valid_from": null
+}

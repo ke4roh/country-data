@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Cocos (Keeling) Islands (the)",
+    "fr": "Cocos (les Îles)/ Keeling (les Îles)"
+  },
+  "alternate_names": [
+    "Cocos (Keeling) Islands (the)",
+    "Cocos (les Îles)/ Keeling (les Îles)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "CC",
+    "iso_3166_1_alpha3": "CCK",
+    "iso_3166_1_numeric": "166",
+    "iso_path": "/content/iso/code/3166/CC_82.xml"
+  },
+  "valid_from": null
+}

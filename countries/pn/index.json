@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Pitcairn",
+    "fr": "Pitcairn"
+  },
+  "alternate_names": [
+    "Pitcairn",
+    "Pitcairn"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "PN",
+    "iso_3166_1_alpha3": "PCN",
+    "iso_3166_1_numeric": "612",
+    "iso_path": "/content/iso/code/3166/PN_82.xml"
+  },
+  "valid_from": null
+}

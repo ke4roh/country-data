@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Namibia",
+    "fr": "Namibie (la)"
+  },
+  "alternate_names": [
+    "Namibia",
+    "Namibie (la)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "NA",
+    "iso_3166_1_alpha3": "NAM",
+    "iso_3166_1_numeric": "516",
+    "iso_path": "/content/iso/code/3166/NA_82.xml"
+  },
+  "valid_from": null
+}

@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Guadeloupe",
+    "fr": "Guadeloupe (la)"
+  },
+  "alternate_names": [
+    "Guadeloupe",
+    "Guadeloupe (la)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "GP",
+    "iso_3166_1_alpha3": "GLP",
+    "iso_3166_1_numeric": "312",
+    "iso_path": "/content/iso/code/3166/GP_82.xml"
+  },
+  "valid_from": null
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Country Schema",
+  "allOf": [
+    { "$ref": "base.json" }
+  ],
+  "meta": {
+    "type": "object",
+    "properties": {
+      "iso_3166_1_alpha2": { "type": "string", "pattern": "^[A-Z]{2}$" },
+      "iso_3166_1_alpha3": { "type": "string", "pattern": "^[A-Z]{3}$" },
+      "iso_3166_1_numeric": { "type": "string", "pattern": "^[0-9]{3}$" },
+      "iso_path": { "type": ["string", "null"] },
+      "wikidata": { "type": ["string", "null"] },
+      "itu": { "type": ["string", "null"] },
+      "iana_tld": { "type": ["string", "null"] }
+    },
+    "required": ["iso_3166_1_alpha2", "iso_3166_1_alpha3", "iso_3166_1_numeric"]
+  },
+  "required": [ "meta" ],
+  "properties": {
+    "group_memberships": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

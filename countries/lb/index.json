@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Lebanon",
+    "fr": "Liban (le)"
+  },
+  "alternate_names": [
+    "Lubnān",
+    "Lebanon",
+    "Liban (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "LB",
+    "iso_3166_1_alpha3": "LBN",
+    "iso_3166_1_numeric": "422",
+    "iso_path": "/content/iso/code/3166/LB_82.xml"
+  },
+  "valid_from": null
+}

@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Botswana",
+    "fr": "Botswana (le)"
+  },
+  "alternate_names": [
+    "Botswana",
+    "Botswana (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "BW",
+    "iso_3166_1_alpha3": "BWA",
+    "iso_3166_1_numeric": "072",
+    "iso_path": "/content/iso/code/3166/BW_82.xml"
+  },
+  "valid_from": null
+}

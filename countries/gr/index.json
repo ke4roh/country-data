@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Greece",
+    "fr": "Grèce (la)"
+  },
+  "alternate_names": [
+    "Elláda",
+    "Greece",
+    "Grèce (la)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "GR",
+    "iso_3166_1_alpha3": "GRC",
+    "iso_3166_1_numeric": "300",
+    "iso_path": "/content/iso/code/3166/GR_82.xml"
+  },
+  "valid_from": null
+}

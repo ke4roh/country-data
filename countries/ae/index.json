@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "United Arab Emirates (the)",
+    "fr": "Émirats arabes unis (les)"
+  },
+  "alternate_names": [
+    "Al Imārāt",
+    "United Arab Emirates (the)",
+    "Émirats arabes unis (les)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "AE",
+    "iso_3166_1_alpha3": "ARE",
+    "iso_3166_1_numeric": "784",
+    "iso_path": "/content/iso/code/3166/AE_82.xml"
+  },
+  "valid_from": null
+}

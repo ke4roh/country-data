@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Monaco",
+    "fr": "Monaco"
+  },
+  "alternate_names": [
+    "Monaco",
+    "Monaco"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "MC",
+    "iso_3166_1_alpha3": "MCO",
+    "iso_3166_1_numeric": "492",
+    "iso_path": "/content/iso/code/3166/MC_82.xml"
+  },
+  "valid_from": null
+}

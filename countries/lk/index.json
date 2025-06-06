@@ -1,0 +1,20 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Sri Lanka",
+    "fr": "Sri Lanka"
+  },
+  "alternate_names": [
+    "Sri Lanka",
+    "Sri Lanka",
+    "Shrī Laṁkā",
+    "Ilaṅkai"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "LK",
+    "iso_3166_1_alpha3": "LKA",
+    "iso_3166_1_numeric": "144",
+    "iso_path": "/content/iso/code/3166/LK_82.xml"
+  },
+  "valid_from": null
+}

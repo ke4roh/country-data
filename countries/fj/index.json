@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Fiji",
+    "fr": "Fidji (les)"
+  },
+  "alternate_names": [
+    "Fiji",
+    "Viti",
+    "Fidji (les)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "FJ",
+    "iso_3166_1_alpha3": "FJI",
+    "iso_3166_1_numeric": "242",
+    "iso_path": "/content/iso/code/3166/FJ_82.xml"
+  },
+  "valid_from": null
+}

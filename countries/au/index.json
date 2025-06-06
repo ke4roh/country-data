@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Australia",
+    "fr": "Australie (l')"
+  },
+  "alternate_names": [
+    "Australia",
+    "Australie (l')"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "AU",
+    "iso_3166_1_alpha3": "AUS",
+    "iso_3166_1_numeric": "036",
+    "iso_path": "/content/iso/code/3166/AU_82.xml"
+  },
+  "valid_from": null
+}

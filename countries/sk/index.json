@@ -1,0 +1,23 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Slovakia",
+    "fr": "Slovaquie (la)"
+  },
+  "alternate_names": [
+    "Slovakia",
+    "Slovaquie (la)",
+    "Slovensko"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "SK",
+    "iso_3166_1_alpha3": "SVK",
+    "iso_3166_1_numeric": "703",
+    "iso_path": "/content/iso/code/3166/SK_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Czechoslovakia (CS, CSK, 200) was divided into Czechia (CZ, CZE, 203), and Slovakia (SK, SVK, 703). See also code element CSHH.",
+    "fr": "La Tchécoslovaquie (CS, CSK, 200) a été divisée entre la Tchéquie (CZ, CZE, 203), et la Slovaquie (SK, SVK, 703). Voir aussi codet CSHH."
+  }
+}

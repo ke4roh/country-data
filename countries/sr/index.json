@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Suriname",
+    "fr": "Suriname (le)"
+  },
+  "alternate_names": [
+    "Suriname",
+    "Suriname (le)",
+    "Suriname"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "SR",
+    "iso_3166_1_alpha3": "SUR",
+    "iso_3166_1_numeric": "740",
+    "iso_path": "/content/iso/code/3166/SR_82.xml"
+  },
+  "valid_from": null
+}

@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Mauritania",
+    "fr": "Mauritanie (la)"
+  },
+  "alternate_names": [
+    "Mūrītāniyā",
+    "Mauritania",
+    "Mauritanie (la)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "MR",
+    "iso_3166_1_alpha3": "MRT",
+    "iso_3166_1_numeric": "478",
+    "iso_path": "/content/iso/code/3166/MR_82.xml"
+  },
+  "valid_from": null
+}

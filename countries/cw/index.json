@@ -1,0 +1,24 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Curaçao",
+    "fr": "Curaçao"
+  },
+  "alternate_names": [
+    "Curaçao",
+    "Curaçao",
+    "Curaçao",
+    "Kòrsou"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "CW",
+    "iso_3166_1_alpha3": "CUW",
+    "iso_3166_1_numeric": "531",
+    "iso_path": "/content/iso/code/3166/CW_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "The Netherlands Antilles (AN, ANT, 530) was divided into Bonaire, Saint Eustatius and Saba (BQ, BES, 535), Curaçao (CW, CUW, 531) and Sint Maarten (Dutch part) (SX, SXM, 534). See also code element ANHH.",
+    "fr": "Les Antilles néerlandaises (AN, ANT, 530) ont été divisées entre  Bonaire, Saint-Eustache et Saba (BQ, BES, 535), Curaçao (CW, CUW, 531) et Saint-Martin (partie néerlandaise) (SX, SXM, 534). Voir aussi codet ANHH."
+  }
+}

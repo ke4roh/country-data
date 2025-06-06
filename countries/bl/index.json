@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Saint Barthélemy",
+    "fr": "Saint-Barthélemy"
+  },
+  "alternate_names": [
+    "Saint Barthélemy",
+    "Saint-Barthélemy"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "BL",
+    "iso_3166_1_alpha3": "BLM",
+    "iso_3166_1_numeric": "652",
+    "iso_path": "/content/iso/code/3166/BL_82.xml"
+  },
+  "valid_from": null
+}

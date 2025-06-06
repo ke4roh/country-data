@@ -1,0 +1,22 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Congo (the Democratic Republic of the)",
+    "fr": "Congo (la République démocratique du)"
+  },
+  "alternate_names": [
+    "Congo (the Democratic Republic of the)",
+    "Congo (la République démocratique du)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "CD",
+    "iso_3166_1_alpha3": "COD",
+    "iso_3166_1_numeric": "180",
+    "iso_path": "/content/iso/code/3166/CD_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Name changed from Zaire (ZR, ZAR, 180) to the Democratic Republic of the Congo. See also code element ZRCD.",
+    "fr": "Nom changé de Zaïre (ZR, ZAR, 180) à la République démocratique du Congo. Voir aussi le codet ZRCD."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Dominican Republic (the)",
+    "fr": "dominicaine (la République)"
+  },
+  "alternate_names": [
+    "Dominican Republic (the)",
+    "dominicaine (la République)",
+    "República Dominicana (la)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "DO",
+    "iso_3166_1_alpha3": "DOM",
+    "iso_3166_1_numeric": "214",
+    "iso_path": "/content/iso/code/3166/DO_82.xml"
+  },
+  "valid_from": null
+}

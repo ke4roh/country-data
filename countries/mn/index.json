@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Mongolia",
+    "fr": "Mongolie (la)"
+  },
+  "alternate_names": [
+    "Mongolia",
+    "Mongolie (la)",
+    "Mongol"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "MN",
+    "iso_3166_1_alpha3": "MNG",
+    "iso_3166_1_numeric": "496",
+    "iso_path": "/content/iso/code/3166/MN_82.xml"
+  },
+  "valid_from": null
+}

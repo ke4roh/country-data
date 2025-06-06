@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Kuwait",
+    "fr": "Koweït (le)"
+  },
+  "alternate_names": [
+    "Al Kuwayt",
+    "Kuwait",
+    "Koweït (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "KW",
+    "iso_3166_1_alpha3": "KWT",
+    "iso_3166_1_numeric": "414",
+    "iso_path": "/content/iso/code/3166/KW_82.xml"
+  },
+  "valid_from": null
+}

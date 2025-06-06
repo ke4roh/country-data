@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Uganda",
+    "fr": "Ouganda (l')"
+  },
+  "alternate_names": [
+    "Uganda",
+    "Ouganda (l')"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "UG",
+    "iso_3166_1_alpha3": "UGA",
+    "iso_3166_1_numeric": "800",
+    "iso_path": "/content/iso/code/3166/UG_82.xml"
+  },
+  "valid_from": null
+}

@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Ghana",
+    "fr": "Ghana (le)"
+  },
+  "alternate_names": [
+    "Ghana",
+    "Ghana (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "GH",
+    "iso_3166_1_alpha3": "GHA",
+    "iso_3166_1_numeric": "288",
+    "iso_path": "/content/iso/code/3166/GH_82.xml"
+  },
+  "valid_from": null
+}

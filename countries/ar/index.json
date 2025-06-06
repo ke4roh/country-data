@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Argentina",
+    "fr": "Argentine (l')"
+  },
+  "alternate_names": [
+    "Argentina",
+    "Argentine (l')",
+    "Argentina (la)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "AR",
+    "iso_3166_1_alpha3": "ARG",
+    "iso_3166_1_numeric": "032",
+    "iso_path": "/content/iso/code/3166/AR_82.xml"
+  },
+  "valid_from": null
+}

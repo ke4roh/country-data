@@ -1,0 +1,23 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Djibouti",
+    "fr": "Djibouti"
+  },
+  "alternate_names": [
+    "Jībūtī",
+    "Djibouti",
+    "Djibouti"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "DJ",
+    "iso_3166_1_alpha3": "DJI",
+    "iso_3166_1_numeric": "262",
+    "iso_path": "/content/iso/code/3166/DJ_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Name changed from French Afars and Issas (AI, AFI, --) to Djibouti. See also code element AIDJ.",
+    "fr": "Nom changé d'Afars et Issas (AI, AFI, --) à Djibouti. Voir aussi codet AIDJ."
+  }
+}

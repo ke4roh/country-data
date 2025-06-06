@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Solomon Islands",
+    "fr": "Salomon (les Îles)"
+  },
+  "alternate_names": [
+    "Solomon Islands",
+    "Salomon (les Îles)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "SB",
+    "iso_3166_1_alpha3": "SLB",
+    "iso_3166_1_numeric": "090",
+    "iso_path": "/content/iso/code/3166/SB_82.xml"
+  },
+  "valid_from": null
+}

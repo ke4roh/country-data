@@ -1,0 +1,24 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Kazakhstan",
+    "fr": "Kazakhstan (le)"
+  },
+  "alternate_names": [
+    "Kazakhstan",
+    "Kazakhstan (le)",
+    "Qazaqstan",
+    "Kazahstan"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "KZ",
+    "iso_3166_1_alpha3": "KAZ",
+    "iso_3166_1_numeric": "398",
+    "iso_path": "/content/iso/code/3166/KZ_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+    "fr": "Faisant partie de l'USSR (SU, SUN, 810) avant sa suppression. Voir codet SUHH."
+  }
+}

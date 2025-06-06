@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Falkland Islands (the) [Malvinas]",
+    "fr": "Falkland (les Îles)/Malouines (les Îles)"
+  },
+  "alternate_names": [
+    "Falkland Islands (the) [Malvinas]",
+    "Falkland (les Îles)/Malouines (les Îles)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "FK",
+    "iso_3166_1_alpha3": "FLK",
+    "iso_3166_1_numeric": "238",
+    "iso_path": "/content/iso/code/3166/FK_82.xml"
+  },
+  "valid_from": null
+}

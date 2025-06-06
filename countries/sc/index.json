@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Seychelles",
+    "fr": "Seychelles (les)"
+  },
+  "alternate_names": [
+    "Sesel",
+    "Seychelles",
+    "Seychelles (les)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "SC",
+    "iso_3166_1_alpha3": "SYC",
+    "iso_3166_1_numeric": "690",
+    "iso_path": "/content/iso/code/3166/SC_82.xml"
+  },
+  "valid_from": null
+}

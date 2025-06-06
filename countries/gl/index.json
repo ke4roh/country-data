@@ -1,0 +1,20 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Greenland",
+    "fr": "Groenland (le)"
+  },
+  "alternate_names": [
+    "Grønland",
+    "Greenland",
+    "Groenland (le)",
+    "Kalaallit Nunaat"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "GL",
+    "iso_3166_1_alpha3": "GRL",
+    "iso_3166_1_numeric": "304",
+    "iso_path": "/content/iso/code/3166/GL_82.xml"
+  },
+  "valid_from": null
+}

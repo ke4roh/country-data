@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Philippines (the)",
+    "fr": "Philippines (les)"
+  },
+  "alternate_names": [
+    "Philippines (the)",
+    "Philippines (les)",
+    "Pilipinas"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "PH",
+    "iso_3166_1_alpha3": "PHL",
+    "iso_3166_1_numeric": "608",
+    "iso_path": "/content/iso/code/3166/PH_82.xml"
+  },
+  "valid_from": null
+}

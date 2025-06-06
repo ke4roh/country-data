@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Egypt",
+    "fr": "Égypte (l')"
+  },
+  "alternate_names": [
+    "Mişr",
+    "Egypt",
+    "Égypte (l')"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "EG",
+    "iso_3166_1_alpha3": "EGY",
+    "iso_3166_1_numeric": "818",
+    "iso_path": "/content/iso/code/3166/EG_82.xml"
+  },
+  "valid_from": null
+}

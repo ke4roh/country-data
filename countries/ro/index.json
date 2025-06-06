@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Romania",
+    "fr": "Roumanie (la)"
+  },
+  "alternate_names": [
+    "Romania",
+    "Roumanie (la)",
+    "România"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "RO",
+    "iso_3166_1_alpha3": "ROU",
+    "iso_3166_1_numeric": "642",
+    "iso_path": "/content/iso/code/3166/RO_82.xml"
+  },
+  "valid_from": null
+}

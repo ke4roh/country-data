@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Austria",
+    "fr": "Autriche (l')"
+  },
+  "alternate_names": [
+    "Österreich",
+    "Austria",
+    "Autriche (l')"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "AT",
+    "iso_3166_1_alpha3": "AUT",
+    "iso_3166_1_numeric": "040",
+    "iso_path": "/content/iso/code/3166/AT_82.xml"
+  },
+  "valid_from": null
+}

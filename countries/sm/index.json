@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "San Marino",
+    "fr": "Saint-Marin"
+  },
+  "alternate_names": [
+    "San Marino",
+    "Saint-Marin",
+    "San Marino"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "SM",
+    "iso_3166_1_alpha3": "SMR",
+    "iso_3166_1_numeric": "674",
+    "iso_path": "/content/iso/code/3166/SM_82.xml"
+  },
+  "valid_from": null
+}

@@ -1,0 +1,20 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Belgium",
+    "fr": "Belgique (la)"
+  },
+  "alternate_names": [
+    "Belgien",
+    "Belgium",
+    "Belgique (la)",
+    "België"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "BE",
+    "iso_3166_1_alpha3": "BEL",
+    "iso_3166_1_numeric": "056",
+    "iso_path": "/content/iso/code/3166/BE_82.xml"
+  },
+  "valid_from": null
+}

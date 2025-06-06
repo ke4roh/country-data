@@ -1,0 +1,23 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Russian Federation (the)",
+    "fr": "Russie (la Fédération de)"
+  },
+  "alternate_names": [
+    "Russian Federation (the)",
+    "Russie (la Fédération de)",
+    "Rossijskaja Federacija"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "RU",
+    "iso_3166_1_alpha3": "RUS",
+    "iso_3166_1_numeric": "643",
+    "iso_path": "/content/iso/code/3166/RU_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+    "fr": "Faisant partie de l'USSR (SU, SUN, 810) avant sa suppression. Voir codet SUHH."
+  }
+}

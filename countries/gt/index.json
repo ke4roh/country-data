@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Guatemala",
+    "fr": "Guatemala (le)"
+  },
+  "alternate_names": [
+    "Guatemala",
+    "Guatemala (le)",
+    "Guatemala"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "GT",
+    "iso_3166_1_alpha3": "GTM",
+    "iso_3166_1_numeric": "320",
+    "iso_path": "/content/iso/code/3166/GT_82.xml"
+  },
+  "valid_from": null
+}

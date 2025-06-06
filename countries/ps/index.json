@@ -1,0 +1,21 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Palestine, State of",
+    "fr": "Palestine, État de"
+  },
+  "alternate_names": [
+    "Dawlat Filasţīn",
+    "Palestine",
+    "State of",
+    "Palestine",
+    "État de"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "PS",
+    "iso_3166_1_alpha3": "PSE",
+    "iso_3166_1_numeric": "275",
+    "iso_path": "/content/iso/code/3166/PS_82.xml"
+  },
+  "valid_from": null
+}

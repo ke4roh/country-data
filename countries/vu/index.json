@@ -1,0 +1,23 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Vanuatu",
+    "fr": "Vanuatu (le)"
+  },
+  "alternate_names": [
+    "Vanuatu",
+    "Vanuatu",
+    "Vanuatu (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "VU",
+    "iso_3166_1_alpha3": "VUT",
+    "iso_3166_1_numeric": "548",
+    "iso_path": "/content/iso/code/3166/VU_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Name changed from New Hebrides (NH, NHB, --) to Vanuatu. See also code element NHVU.",
+    "fr": "Le nom a été changé de Nouvelles-Hébrides (NH, NHB, --) à Vanuatu. Voir aussi codet NHVU."
+  }
+}

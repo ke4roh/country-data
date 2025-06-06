@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Netherlands (Kingdom of the)",
+    "fr": "Pays-Bas (Royaume des)"
+  },
+  "alternate_names": [
+    "Netherlands (Kingdom of the)",
+    "Pays-Bas (Royaume des)",
+    "Nederland"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "NL",
+    "iso_3166_1_alpha3": "NLD",
+    "iso_3166_1_numeric": "528",
+    "iso_path": "/content/iso/code/3166/NL_82.xml"
+  },
+  "valid_from": null
+}

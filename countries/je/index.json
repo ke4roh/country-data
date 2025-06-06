@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Jersey",
+    "fr": "Jersey"
+  },
+  "alternate_names": [
+    "Jersey",
+    "Jersey"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "JE",
+    "iso_3166_1_alpha3": "JEY",
+    "iso_3166_1_numeric": "832",
+    "iso_path": "/content/iso/code/3166/JE_82.xml"
+  },
+  "valid_from": null
+}

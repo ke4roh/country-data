@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Eswatini",
+    "fr": "Eswatini (l')"
+  },
+  "alternate_names": [
+    "Eswatini",
+    "Eswatini (l')",
+    "eSwatini"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "SZ",
+    "iso_3166_1_alpha3": "SWZ",
+    "iso_3166_1_numeric": "748",
+    "iso_path": "/content/iso/code/3166/SZ_82.xml"
+  },
+  "valid_from": null
+}

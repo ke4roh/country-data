@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "China",
+    "fr": "Chine (la)"
+  },
+  "alternate_names": [
+    "China",
+    "Chine (la)",
+    "Zhongguo"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "CN",
+    "iso_3166_1_alpha3": "CHN",
+    "iso_3166_1_numeric": "156",
+    "iso_path": "/content/iso/code/3166/CN_82.xml"
+  },
+  "valid_from": null
+}

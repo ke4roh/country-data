@@ -1,0 +1,23 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Tuvalu",
+    "fr": "Tuvalu (les)"
+  },
+  "alternate_names": [
+    "Tuvalu",
+    "Tuvalu (les)",
+    "Tuvalu"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "TV",
+    "iso_3166_1_alpha3": "TUV",
+    "iso_3166_1_numeric": "798",
+    "iso_path": "/content/iso/code/3166/TV_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Gilbert and Ellice Islands (GE, GEL, --) divided into: Gilbert Islands incorporated into Kiribati (KI, KIR, 296), and Ellice Islands incorporated into Tuvalu (TV, TUV, 798). See code element GEHH.",
+    "fr": "Les Îles Gilbert et Ellice (GE, GEL, --) sont divisées entre les  Îles Gilbert incorporés dans le Kiribati (KI, KIR, 296), et les Îles Ellice incorporés dans le Tuvalu (TV, TUV, 798). Voir codet GEHH."
+  }
+}

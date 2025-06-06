@@ -1,0 +1,25 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Bosnia and Herzegovina",
+    "fr": "Bosnie-Herzégovine (la)"
+  },
+  "alternate_names": [
+    "Bosna i Hercegovina",
+    "Bosnia and Herzegovina",
+    "Bosnie-Herzégovine (la)",
+    "Bosna i Hercegovina",
+    "Bosna i Hercegovina"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "BA",
+    "iso_3166_1_alpha3": "BIH",
+    "iso_3166_1_numeric": "070",
+    "iso_path": "/content/iso/code/3166/BA_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Formerly part of Yugoslavia  (YU, YUG, 891) before its split. See code element YUCS.",
+    "fr": "Faisant partie de l'ancienne Yougoslavie (YU, YUG, 891) avant sa division. Voir codet YUCS."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Turks and Caicos Islands (the)",
+    "fr": "Turks-et-Caïcos (les Îles)"
+  },
+  "alternate_names": [
+    "Turks and Caicos Islands (the)",
+    "Turks-et-Caïcos (les Îles)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "TC",
+    "iso_3166_1_alpha3": "TCA",
+    "iso_3166_1_numeric": "796",
+    "iso_path": "/content/iso/code/3166/TC_82.xml"
+  },
+  "valid_from": null
+}

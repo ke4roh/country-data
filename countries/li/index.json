@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Liechtenstein",
+    "fr": "Liechtenstein (le)"
+  },
+  "alternate_names": [
+    "Liechtenstein",
+    "Liechtenstein",
+    "Liechtenstein (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "LI",
+    "iso_3166_1_alpha3": "LIE",
+    "iso_3166_1_numeric": "438",
+    "iso_path": "/content/iso/code/3166/LI_82.xml"
+  },
+  "valid_from": null
+}

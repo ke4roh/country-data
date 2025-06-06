@@ -1,0 +1,23 @@
+{
+  "type": "country",
+  "name": {
+    "en": "India",
+    "fr": "Inde (l')"
+  },
+  "alternate_names": [
+    "India",
+    "Inde (l')",
+    "Bhārat"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "IN",
+    "iso_3166_1_alpha3": "IND",
+    "iso_3166_1_numeric": "356",
+    "iso_path": "/content/iso/code/3166/IN_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Sikkim (SK, SKM, --) is now part of the entry for India.",
+    "fr": "Le Sikkim  (SK, SKM, --) fait partie de l'entrée de l'Inde."
+  }
+}

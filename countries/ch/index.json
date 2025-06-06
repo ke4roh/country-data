@@ -1,0 +1,21 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Switzerland",
+    "fr": "Suisse (la)"
+  },
+  "alternate_names": [
+    "Schweiz (die)",
+    "Switzerland",
+    "Suisse (la)",
+    "Svizzera (la)",
+    "Svizra (la)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "CH",
+    "iso_3166_1_alpha3": "CHE",
+    "iso_3166_1_numeric": "756",
+    "iso_path": "/content/iso/code/3166/CH_82.xml"
+  },
+  "valid_from": null
+}

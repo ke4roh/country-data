@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Belize",
+    "fr": "Belize (le)"
+  },
+  "alternate_names": [
+    "Belize",
+    "Belize (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "BZ",
+    "iso_3166_1_alpha3": "BLZ",
+    "iso_3166_1_numeric": "084",
+    "iso_path": "/content/iso/code/3166/BZ_82.xml"
+  },
+  "valid_from": null
+}

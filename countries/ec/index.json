@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Ecuador",
+    "fr": "Équateur (l')"
+  },
+  "alternate_names": [
+    "Ecuador",
+    "Équateur (l')",
+    "Ecuador (el)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "EC",
+    "iso_3166_1_alpha3": "ECU",
+    "iso_3166_1_numeric": "218",
+    "iso_path": "/content/iso/code/3166/EC_82.xml"
+  },
+  "valid_from": null
+}

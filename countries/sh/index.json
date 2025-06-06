@@ -1,0 +1,20 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Saint Helena, Ascension and Tristan da Cunha",
+    "fr": "Sainte-Hélène, Ascension et Tristan da Cunha"
+  },
+  "alternate_names": [
+    "Saint Helena",
+    "Ascension and Tristan da Cunha",
+    "Sainte-Hélène",
+    "Ascension et Tristan da Cunha"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "SH",
+    "iso_3166_1_alpha3": "SHN",
+    "iso_3166_1_numeric": "654",
+    "iso_path": "/content/iso/code/3166/SH_82.xml"
+  },
+  "valid_from": null
+}

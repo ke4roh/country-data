@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Angola",
+    "fr": "Angola (l')"
+  },
+  "alternate_names": [
+    "Angola",
+    "Angola (l')",
+    "Angola"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "AO",
+    "iso_3166_1_alpha3": "AGO",
+    "iso_3166_1_numeric": "024",
+    "iso_path": "/content/iso/code/3166/AO_82.xml"
+  },
+  "valid_from": null
+}

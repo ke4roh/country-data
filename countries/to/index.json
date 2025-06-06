@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Tonga",
+    "fr": "Tonga (les)"
+  },
+  "alternate_names": [
+    "Tonga",
+    "Tonga (les)",
+    "Tonga"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "TO",
+    "iso_3166_1_alpha3": "TON",
+    "iso_3166_1_numeric": "776",
+    "iso_path": "/content/iso/code/3166/TO_82.xml"
+  },
+  "valid_from": null
+}

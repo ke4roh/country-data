@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Mali",
+    "fr": "Mali (le)"
+  },
+  "alternate_names": [
+    "Mali",
+    "Mali (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "ML",
+    "iso_3166_1_alpha3": "MLI",
+    "iso_3166_1_numeric": "466",
+    "iso_path": "/content/iso/code/3166/ML_82.xml"
+  },
+  "valid_from": null
+}

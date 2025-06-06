@@ -1,0 +1,30 @@
+name: Validate JSON Schema
+
+on:
+  pull_request:
+    paths:
+      - 'countries/**.json'
+      - 'schema/**.json'
+      - 'tools/validate_all.py'
+      - '.github/workflows/schema-validation.yml'
+
+jobs:
+  schema-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install poetry
+        run: pip install poetry
+
+      - name: Install dependencies
+        run: make setup-dev
+
+      - name: Run schema validator
+        run: make check-all

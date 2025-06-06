@@ -1,0 +1,23 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Ukraine",
+    "fr": "Ukraine (l')"
+  },
+  "alternate_names": [
+    "Ukraine",
+    "Ukraine (l')",
+    "Ukraina"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "UA",
+    "iso_3166_1_alpha3": "UKR",
+    "iso_3166_1_numeric": "804",
+    "iso_path": "/content/iso/code/3166/UA_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+    "fr": "Faisant partie de l'USSR (SU, SUN, 810) avant sa suppression. Voir codet SUHH."
+  }
+}

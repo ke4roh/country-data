@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Kenya",
+    "fr": "Kenya (le)"
+  },
+  "alternate_names": [
+    "Kenya",
+    "Kenya (le)",
+    "Kenya"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "KE",
+    "iso_3166_1_alpha3": "KEN",
+    "iso_3166_1_numeric": "404",
+    "iso_path": "/content/iso/code/3166/KE_82.xml"
+  },
+  "valid_from": null
+}

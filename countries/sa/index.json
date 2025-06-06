@@ -1,0 +1,23 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Saudi Arabia",
+    "fr": "Arabie saoudite (l')"
+  },
+  "alternate_names": [
+    "As Su‘ūdīyah",
+    "Saudi Arabia",
+    "Arabie saoudite (l')"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "SA",
+    "iso_3166_1_alpha3": "SAU",
+    "iso_3166_1_numeric": "682",
+    "iso_path": "/content/iso/code/3166/SA_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "The Neutral Zone (NT, NTZ, 536) was divided and is now part of Iraq (IQ, IRQ, 368) and part of Saudi Arabia (SA, SAU, 682). The code entry (NT, NTZ,  536) was deleted from ISO 3166-1. See also code elelement NTHH.",
+    "fr": "La Zone Neutre  (NT, NTZ, 536)  a été divisée et maintenant fait partie de l'Iraq (IQ, IRQ, 368) et d' l'Arabie Saudite (SA, SAU, 682) . L'entrée (NT, NTZ,  536) a àtà supprimée de l'ISO 3166-1. Voir aussi le codet NTHH."
+  }
+}

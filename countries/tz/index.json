@@ -1,0 +1,20 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Tanzania, the United Republic of",
+    "fr": "Tanzanie (la République-Unie de)"
+  },
+  "alternate_names": [
+    "Tanzania",
+    "the United Republic of",
+    "Tanzanie (la République-Unie de)",
+    "Jamhuri ya Muungano wa Tanzania"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "TZ",
+    "iso_3166_1_alpha3": "TZA",
+    "iso_3166_1_numeric": "834",
+    "iso_path": "/content/iso/code/3166/TZ_82.xml"
+  },
+  "valid_from": null
+}

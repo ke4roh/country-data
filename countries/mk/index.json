@@ -1,0 +1,23 @@
+{
+  "type": "country",
+  "name": {
+    "en": "North Macedonia",
+    "fr": "Macédoine du Nord (la)"
+  },
+  "alternate_names": [
+    "North Macedonia",
+    "Macédoine du Nord (la)",
+    "Severna Makedonija"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "MK",
+    "iso_3166_1_alpha3": "MKD",
+    "iso_3166_1_numeric": "807",
+    "iso_path": "/content/iso/code/3166/MK_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Formerly part of Yugoslavia  (YU, YUG, 891) before its split. See code element YUCS.",
+    "fr": "Faisant partie de l'ancienne Yougoslavie (YU, YUG, 891) avant sa division. Voir codet YUCS."
+  }
+}

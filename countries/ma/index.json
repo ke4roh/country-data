@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Morocco",
+    "fr": "Maroc (le)"
+  },
+  "alternate_names": [
+    "Al Maghrib",
+    "Morocco",
+    "Maroc (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "MA",
+    "iso_3166_1_alpha3": "MAR",
+    "iso_3166_1_numeric": "504",
+    "iso_path": "/content/iso/code/3166/MA_82.xml"
+  },
+  "valid_from": null
+}

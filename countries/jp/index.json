@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Japan",
+    "fr": "Japon (le)"
+  },
+  "alternate_names": [
+    "Japan",
+    "Japon (le)",
+    "Nihon/Nippon"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "JP",
+    "iso_3166_1_alpha3": "JPN",
+    "iso_3166_1_numeric": "392",
+    "iso_path": "/content/iso/code/3166/JP_82.xml"
+  },
+  "valid_from": null
+}

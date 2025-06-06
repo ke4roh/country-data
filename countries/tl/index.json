@@ -1,0 +1,24 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Timor-Leste",
+    "fr": "Timor-Leste (le)"
+  },
+  "alternate_names": [
+    "Timor-Leste",
+    "Timor-Leste (le)",
+    "Timor-Leste",
+    "Timor Lorosa'e"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "TL",
+    "iso_3166_1_alpha3": "TLS",
+    "iso_3166_1_numeric": "626",
+    "iso_path": "/content/iso/code/3166/TL_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Name changed from East Timor (TP, TMP, 626) to Timor-Leste. See also code entry TPTL.",
+    "fr": "  Nom changé de Timor oriental (TP, TMP, 626) à Timor-Leste. Voir aussi codet TPTL."
+  }
+}

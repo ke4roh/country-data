@@ -1,0 +1,20 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Norway",
+    "fr": "Norvège (la)"
+  },
+  "alternate_names": [
+    "Norway",
+    "Norvège (la)",
+    "Noreg",
+    "Norge"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "NO",
+    "iso_3166_1_alpha3": "NOR",
+    "iso_3166_1_numeric": "578",
+    "iso_path": "/content/iso/code/3166/NO_82.xml"
+  },
+  "valid_from": null
+}

@@ -1,0 +1,22 @@
+{
+  "type": "country",
+  "name": {
+    "en": "France",
+    "fr": "France (la)"
+  },
+  "alternate_names": [
+    "France",
+    "France (la)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "FR",
+    "iso_3166_1_alpha3": "FRA",
+    "iso_3166_1_numeric": "250",
+    "iso_path": "/content/iso/code/3166/FR_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Metropolitan France (FX, FXX, 249) is now incorporated into the entry for France (FR, FRA, 250). See also code element FXFR.",
+    "fr": "La France métropolitaine (FX, FXX, 249) est maintenant incorporé dans l'entrée pour la France (FR, FRA, 250). Voir aussi codet FXFR."
+  }
+}

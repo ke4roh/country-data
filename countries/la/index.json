@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Lao People's Democratic Republic (the)",
+    "fr": "Lao (la République démocratique populaire)"
+  },
+  "alternate_names": [
+    "Lao People's Democratic Republic (the)",
+    "Lao (la République démocratique populaire)",
+    "Sathalanalat Paxathipatai Paxaxôn Lao"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "LA",
+    "iso_3166_1_alpha3": "LAO",
+    "iso_3166_1_numeric": "418",
+    "iso_path": "/content/iso/code/3166/LA_82.xml"
+  },
+  "valid_from": null
+}

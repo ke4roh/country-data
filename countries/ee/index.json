@@ -1,0 +1,23 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Estonia",
+    "fr": "Estonie (l')"
+  },
+  "alternate_names": [
+    "Estonia",
+    "Eesti",
+    "Estonie (l')"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "EE",
+    "iso_3166_1_alpha3": "EST",
+    "iso_3166_1_numeric": "233",
+    "iso_path": "/content/iso/code/3166/EE_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+    "fr": "Faisant partie de l'USSR (SU, SUN, 810) avant sa suppression. Voir codet SUHH."
+  }
+}

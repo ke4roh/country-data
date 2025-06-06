@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "American Samoa",
+    "fr": "Samoa américaines (les)"
+  },
+  "alternate_names": [
+    "American Samoa",
+    "Samoa américaines (les)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "AS",
+    "iso_3166_1_alpha3": "ASM",
+    "iso_3166_1_numeric": "016",
+    "iso_path": "/content/iso/code/3166/AS_82.xml"
+  },
+  "valid_from": null
+}

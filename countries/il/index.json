@@ -1,0 +1,20 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Israel",
+    "fr": "Israël"
+  },
+  "alternate_names": [
+    "Isrā'īl",
+    "Israel",
+    "Israël",
+    "Yisra'el"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "IL",
+    "iso_3166_1_alpha3": "ISR",
+    "iso_3166_1_numeric": "376",
+    "iso_path": "/content/iso/code/3166/IL_82.xml"
+  },
+  "valid_from": null
+}

@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Türkiye",
+    "fr": "Türkiye (la)"
+  },
+  "alternate_names": [
+    "Türkiye",
+    "Türkiye (la)",
+    "Türkiye"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "TR",
+    "iso_3166_1_alpha3": "TUR",
+    "iso_3166_1_numeric": "792",
+    "iso_path": "/content/iso/code/3166/TR_82.xml"
+  },
+  "valid_from": null
+}

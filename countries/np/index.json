@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Nepal",
+    "fr": "Népal (le)"
+  },
+  "alternate_names": [
+    "Nepal",
+    "Népal (le)",
+    "Nepāl"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "NP",
+    "iso_3166_1_alpha3": "NPL",
+    "iso_3166_1_numeric": "524",
+    "iso_path": "/content/iso/code/3166/NP_82.xml"
+  },
+  "valid_from": null
+}

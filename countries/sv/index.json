@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "El Salvador",
+    "fr": "El Salvador"
+  },
+  "alternate_names": [
+    "El Salvador",
+    "El Salvador",
+    "El Salvador"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "SV",
+    "iso_3166_1_alpha3": "SLV",
+    "iso_3166_1_numeric": "222",
+    "iso_path": "/content/iso/code/3166/SV_82.xml"
+  },
+  "valid_from": null
+}

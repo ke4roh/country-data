@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Montserrat",
+    "fr": "Montserrat"
+  },
+  "alternate_names": [
+    "Montserrat",
+    "Montserrat"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "MS",
+    "iso_3166_1_alpha3": "MSR",
+    "iso_3166_1_numeric": "500",
+    "iso_path": "/content/iso/code/3166/MS_82.xml"
+  },
+  "valid_from": null
+}

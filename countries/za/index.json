@@ -1,0 +1,28 @@
+{
+  "type": "country",
+  "name": {
+    "en": "South Africa",
+    "fr": "Afrique du Sud (l')"
+  },
+  "alternate_names": [
+    "Suid-Afrika",
+    "South Africa",
+    "Afrique du Sud (l')",
+    "Sewula Afrika",
+    "Afrika-Borwa",
+    "Afrika-Borwa",
+    "Ningizimu Afrika",
+    "Afrika-Borwa",
+    "Afrika-Dzonga",
+    "Afrika Tshipembe",
+    "Mzantsi Afrika",
+    "Ningizimu Afrika"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "ZA",
+    "iso_3166_1_alpha3": "ZAF",
+    "iso_3166_1_numeric": "710",
+    "iso_path": "/content/iso/code/3166/ZA_82.xml"
+  },
+  "valid_from": null
+}

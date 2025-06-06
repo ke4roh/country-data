@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Sao Tome and Principe",
+    "fr": "Sao Tomé-et-Principe"
+  },
+  "alternate_names": [
+    "Sao Tome and Principe",
+    "Sao Tomé-et-Principe",
+    "São Tomé e Príncipe"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "ST",
+    "iso_3166_1_alpha3": "STP",
+    "iso_3166_1_numeric": "678",
+    "iso_path": "/content/iso/code/3166/ST_82.xml"
+  },
+  "valid_from": null
+}

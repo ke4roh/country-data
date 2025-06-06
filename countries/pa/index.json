@@ -1,0 +1,23 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Panama",
+    "fr": "Panama (le)"
+  },
+  "alternate_names": [
+    "Panama",
+    "Panama (le)",
+    "Panamá"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "PA",
+    "iso_3166_1_alpha3": "PAN",
+    "iso_3166_1_numeric": "591",
+    "iso_path": "/content/iso/code/3166/PA_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "The Zone of the Panama Canal (PZ, PCZ, --) is now part of the entry for Panama (PA, PAN, 591). See also code element PZPA.",
+    "fr": "La Zone du Canal Panama  (PZ, PCZ, --) maintenant fait partie de l'entrée Panama (PA, PAN, 591). Voir aussi codet PZPA."
+  }
+}

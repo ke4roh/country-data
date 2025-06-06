@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Syrian Arab Republic (the)",
+    "fr": "République arabe syrienne (la)"
+  },
+  "alternate_names": [
+    "Al Jumhūrīyah al ‘Arabīyah as Sūrīyah",
+    "Syrian Arab Republic (the)",
+    "République arabe syrienne (la)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "SY",
+    "iso_3166_1_alpha3": "SYR",
+    "iso_3166_1_numeric": "760",
+    "iso_path": "/content/iso/code/3166/SY_82.xml"
+  },
+  "valid_from": null
+}

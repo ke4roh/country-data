@@ -1,0 +1,22 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Burkina Faso",
+    "fr": "Burkina Faso (le)"
+  },
+  "alternate_names": [
+    "Burkina Faso",
+    "Burkina Faso (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "BF",
+    "iso_3166_1_alpha3": "BFA",
+    "iso_3166_1_numeric": "854",
+    "iso_path": "/content/iso/code/3166/BF_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Name changed from Upper Volta (HV, HVO, 854) to Burkina Faso. See also code element HVBF.",
+    "fr": "Nom changé de Haute-Volta  (HV, HVO, 854) à Burkina Faso. Voir aussi code element HVBF."
+  }
+}

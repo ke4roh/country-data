@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Indonesia",
+    "fr": "Indonésie (l')"
+  },
+  "alternate_names": [
+    "Indonesia",
+    "Indonésie (l')",
+    "Indonesia"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "ID",
+    "iso_3166_1_alpha3": "IDN",
+    "iso_3166_1_numeric": "360",
+    "iso_path": "/content/iso/code/3166/ID_82.xml"
+  },
+  "valid_from": null
+}

@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Barbados",
+    "fr": "Barbade (la)"
+  },
+  "alternate_names": [
+    "Barbados",
+    "Barbade (la)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "BB",
+    "iso_3166_1_alpha3": "BRB",
+    "iso_3166_1_numeric": "052",
+    "iso_path": "/content/iso/code/3166/BB_82.xml"
+  },
+  "valid_from": null
+}

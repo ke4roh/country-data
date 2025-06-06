@@ -1,0 +1,22 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Northern Mariana Islands (the)",
+    "fr": "Mariannes du Nord (les Îles)"
+  },
+  "alternate_names": [
+    "Northern Mariana Islands (the)",
+    "Mariannes du Nord (les Îles)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "MP",
+    "iso_3166_1_alpha3": "MNP",
+    "iso_3166_1_numeric": "580",
+    "iso_path": "/content/iso/code/3166/MP_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Pacific Islands (Trust Territory) (PC, PCI, 582) were divided into: Marshall Islands (MH, MHL, 584), Federated States of Micronesia (FM, FSM, 583), Northern Mariana Islands, and Palau (PW, PLW, 585).",
+    "fr": "Les Îles du Pacifique (territoire sous tutelle) (PC, PCI, 582) ont été divisé entre: Îles Mariannes du Nord , Îles Marshall (MH, MHL, 584), États fédérés de Micronésie (FM, FSM, 583), et Palaos (PW, PLW, 585)."
+  }
+}

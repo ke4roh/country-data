@@ -1,0 +1,24 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Belarus",
+    "fr": "Bélarus (le)"
+  },
+  "alternate_names": [
+    "Bielaruś",
+    "Belarus",
+    "Bélarus (le)",
+    "Belarus'"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "BY",
+    "iso_3166_1_alpha3": "BLR",
+    "iso_3166_1_numeric": "112",
+    "iso_path": "/content/iso/code/3166/BY_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Name changed from Byelorussian SSR (BY, BYS, 112) to Belarus. Code element BYS removed from ISO 3166-1. See code element BYAA. Formerly part of USSR (SU, SUN, 810) before its split. See also code element SUHH.",
+    "fr": "Le nom a été changé de RSS de Biélorussie (BY, BYS, 112) à Bélarus. Codet BYS supprimé de l'ISO 3166-1. Voir codet BYAA. Faisant partie de l'ancien USSR (SU, SUN, 810) avant sa suppression. Voir codet SUHH."
+  }
+}

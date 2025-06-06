@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Spain",
+    "fr": "Espagne (l')"
+  },
+  "alternate_names": [
+    "Spain",
+    "Espagne (l')",
+    "España"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "ES",
+    "iso_3166_1_alpha3": "ESP",
+    "iso_3166_1_numeric": "724",
+    "iso_path": "/content/iso/code/3166/ES_82.xml"
+  },
+  "valid_from": null
+}

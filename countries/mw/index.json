@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Malawi",
+    "fr": "Malawi (le)"
+  },
+  "alternate_names": [
+    "Malawi",
+    "Malawi (le)",
+    "Malaŵi"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "MW",
+    "iso_3166_1_alpha3": "MWI",
+    "iso_3166_1_numeric": "454",
+    "iso_path": "/content/iso/code/3166/MW_82.xml"
+  },
+  "valid_from": null
+}

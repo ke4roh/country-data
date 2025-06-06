@@ -1,0 +1,94 @@
+[project]
+name = "country-data"
+version = "0.0.1"
+description = "A durable, verifiable, and time-aware ledger of the world’s political subdivisions—past and present."
+authors = [
+    {name = "Jim Scarborough",email = "jimes@hiwaay.net"}
+]
+license = {text = "CC-BY-SA 4.0"}
+readme = "README.md"
+requires-python = ">=3.11,<4.0"
+dependencies = [
+    "jsonschema (>=4.24.0,<5.0.0)",
+    "pre-commit (>=4.2.0,<5.0.0)"
+]
+
+[project.scripts]
+cz = "commitizen.cli:main"
+
+[tool.poetry]
+
+[tool.poetry.group.dev.dependencies]
+commitizen = "^4.8.2"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.commitizen]
+name = "cz_customize"
+
+[tool.commitizen.customize]
+message_template = "{{change_type}}({{scope}}): {{message}}"
+example = "data(countries): add entry for South Sudan"
+schema = "<type>(<scope>): <message>"
+schema_pattern = "^(init|data|fix|update|import|meta|schema|tool|docs|test|chore|reorg|history)\\((countries|subdivisions|groups|meta|tools|schema|docs|validation|timeline|[a-zA-Z0-9_-]+)\\): .+"
+bump_pattern = "^(BREAKING CHANGE|init|fix|update|import)"
+bump_map = {"BREAKING CHANGE" = "MAJOR", "init" = "MINOR", "update" = "PATCH", "import" = "PATCH", "fix" = "PATCH"}
+change_type_order = ["BREAKING CHANGE", "init", "data", "update", "import", "fix", "history", "schema", "meta", "tool", "docs", "test", "chore", "reorg"]
+info_path = "cz_customize_info.txt"
+info = """
+We follow a customized Conventional Commit format:
+
+  <type>(<scope>): <message>
+
+Types:
+  - init: project or data initialization
+  - data: present-tense content changes
+  - history: addition or repair of past structures
+  - fix: bug or validation error correction
+  - update: content or metadata refresh
+  - import: bulk or external data ingest
+  - schema: changes to schema definitions
+  - tool: development or CLI tool additions
+  - docs: documentation or metadata clarification
+  - test: unit or integration test changes
+  - chore: non-functional updates
+  - reorg: file structure or directory changes
+  - meta: licensing, governance, or provenance info
+
+Scopes should reflect logical domains (e.g. 'countries', 'US-CO', 'schema').
+"""
+commit_parser = "^(?P<change_type>init|data|fix|update|import|meta|schema|tool|docs|test|chore|reorg|history)\\((?P<scope>[a-zA-Z0-9_-]+)\\): (?P<message>.+)"
+changelog_pattern = "^(init|data|fix|update|import|meta|schema|tool|docs|test|chore|reorg|history)\\([^)]+\\): .+"
+change_type_map = {"init" = "Init", "data" = "Data", "fix" = "Fix", "update" = "Update", "import" = "Import", "meta" = "Meta", "schema" = "Schema", "tool" = "Tool", "docs" = "Docs", "test" = "Test", "chore" = "Chore", "reorg" = "Reorg", "history" = "History"}
+
+[[tool.commitizen.customize.questions]]
+type = "list"
+name = "change_type"
+choices = [
+  {value = "init", name = "init: Initial population or setup."},
+  {value = "data", name = "data: Present-day content change."},
+  {value = "history", name = "history: Historical or superseded additions."},
+  {value = "fix", name = "fix: Bug or invalid content correction."},
+  {value = "update", name = "update: Periodic content or metadata refresh."},
+  {value = "import", name = "import: Bulk or external source import."},
+  {value = "schema", name = "schema: Schema file or rule changes."},
+  {value = "tool", name = "tool: CLI or script tooling."},
+  {value = "docs", name = "docs: Documentation or commentary."},
+  {value = "test", name = "test: Test suite or fixtures."},
+  {value = "chore", name = "chore: Maintenance or housekeeping."},
+  {value = "reorg", name = "reorg: File structure or naming changes."},
+  {value = "meta", name = "meta: License, attribution, source provenance."}
+]
+message = "Select the type of change you are committing"
+
+[[tool.commitizen.customize.questions]]
+type = "input"
+name = "scope"
+message = "Enter the scope (e.g., 'countries', 'subdivisions', 'groups', 'meta', 'US-CO', 'schema')"
+
+[[tool.commitizen.customize.questions]]
+type = "input"
+name = "message"
+message = "Write a brief description of the change"

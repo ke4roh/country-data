@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Korea (the Republic of)",
+    "fr": "Corée (la République de)"
+  },
+  "alternate_names": [
+    "Korea (the Republic of)",
+    "Corée (la République de)",
+    "Hanguk"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "KR",
+    "iso_3166_1_alpha3": "KOR",
+    "iso_3166_1_numeric": "410",
+    "iso_path": "/content/iso/code/3166/KR_82.xml"
+  },
+  "valid_from": null
+}

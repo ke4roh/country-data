@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Mozambique",
+    "fr": "Mozambique (le)"
+  },
+  "alternate_names": [
+    "Mozambique",
+    "Mozambique (le)",
+    "Moçambique"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "MZ",
+    "iso_3166_1_alpha3": "MOZ",
+    "iso_3166_1_numeric": "508",
+    "iso_path": "/content/iso/code/3166/MZ_82.xml"
+  },
+  "valid_from": null
+}

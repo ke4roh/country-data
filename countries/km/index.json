@@ -1,0 +1,20 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Comoros (the)",
+    "fr": "Comores (les)"
+  },
+  "alternate_names": [
+    "Komori",
+    "Al Qamar",
+    "Comoros (the)",
+    "Comores (les)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "KM",
+    "iso_3166_1_alpha3": "COM",
+    "iso_3166_1_numeric": "174",
+    "iso_path": "/content/iso/code/3166/KM_82.xml"
+  },
+  "valid_from": null
+}

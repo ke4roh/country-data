@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "United Kingdom of Great Britain and Northern Ireland (the)",
+    "fr": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (le)"
+  },
+  "alternate_names": [
+    "United Kingdom of Great Britain and Northern Ireland (the)",
+    "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "GB",
+    "iso_3166_1_alpha3": "GBR",
+    "iso_3166_1_numeric": "826",
+    "iso_path": "/content/iso/code/3166/GB_82.xml"
+  },
+  "valid_from": null
+}

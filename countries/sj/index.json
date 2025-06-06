@@ -1,0 +1,20 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Svalbard and Jan Mayen",
+    "fr": "Svalbard et l'Île Jan Mayen (le)"
+  },
+  "alternate_names": [
+    "Svalbard and Jan Mayen",
+    "Svalbard et l'Île Jan Mayen (le)",
+    "Svalbard og Jan Mayen",
+    "Svalbard og Jan Mayen"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "SJ",
+    "iso_3166_1_alpha3": "SJM",
+    "iso_3166_1_numeric": "744",
+    "iso_path": "/content/iso/code/3166/SJ_82.xml"
+  },
+  "valid_from": null
+}

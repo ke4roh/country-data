@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Ethiopia",
+    "fr": "Éthiopie (l')"
+  },
+  "alternate_names": [
+    "Ītyop'iya",
+    "Ethiopia",
+    "Éthiopie (l')"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "ET",
+    "iso_3166_1_alpha3": "ETH",
+    "iso_3166_1_numeric": "231",
+    "iso_path": "/content/iso/code/3166/ET_82.xml"
+  },
+  "valid_from": null
+}

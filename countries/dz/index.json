@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Algeria",
+    "fr": "Algérie (l')"
+  },
+  "alternate_names": [
+    "Al Jazā'ir",
+    "Algeria",
+    "Algérie (l')"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "DZ",
+    "iso_3166_1_alpha3": "DZA",
+    "iso_3166_1_numeric": "012",
+    "iso_path": "/content/iso/code/3166/DZ_82.xml"
+  },
+  "valid_from": null
+}

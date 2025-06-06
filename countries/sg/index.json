@@ -1,0 +1,21 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Singapore",
+    "fr": "Singapour"
+  },
+  "alternate_names": [
+    "Singapore",
+    "Singapour",
+    "Singapura",
+    "Chiṅkappūr",
+    "Xinjiapo"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "SG",
+    "iso_3166_1_alpha3": "SGP",
+    "iso_3166_1_numeric": "702",
+    "iso_path": "/content/iso/code/3166/SG_82.xml"
+  },
+  "valid_from": null
+}

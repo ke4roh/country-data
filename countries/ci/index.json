@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Côte d'Ivoire",
+    "fr": "Côte d'Ivoire (la)"
+  },
+  "alternate_names": [
+    "Côte d'Ivoire",
+    "Côte d'Ivoire (la)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "CI",
+    "iso_3166_1_alpha3": "CIV",
+    "iso_3166_1_numeric": "384",
+    "iso_path": "/content/iso/code/3166/CI_82.xml"
+  },
+  "valid_from": null
+}

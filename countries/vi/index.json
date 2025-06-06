@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Virgin Islands (U.S.)",
+    "fr": "Vierges des États-Unis (les Îles)"
+  },
+  "alternate_names": [
+    "Virgin Islands (U.S.)",
+    "Vierges des États-Unis (les Îles)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "VI",
+    "iso_3166_1_alpha3": "VIR",
+    "iso_3166_1_numeric": "850",
+    "iso_path": "/content/iso/code/3166/VI_82.xml"
+  },
+  "valid_from": null
+}

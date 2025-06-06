@@ -1,0 +1,22 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Antarctica",
+    "fr": "Antarctique (l')"
+  },
+  "alternate_names": [
+    "Antarctica",
+    "Antarctique (l')"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "AQ",
+    "iso_3166_1_alpha3": "ATA",
+    "iso_3166_1_numeric": "010",
+    "iso_path": "/content/iso/code/3166/AQ_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "French Southern and Antarctic Territories (FQ, ATF, --) are now part of Antarctica and French Southern Territories (TF, ATF, 260). See also code element FQHH. Dronning Maud Land (NQ, ATN, 216) is now part of Antarctica. See also code element NQAQ.",
+    "fr": "Les Terres Australes et Antarctiques françaises (FQ, ATF, --), maintenant font partie de l'Antarctique et des Terres Australes françaises (TF, ATF, 260). Voir aussi codet FQHH. La Terre de la Reine Maud (NQ, ATN, 216) maintenant fait partie de l'Antarctique. Voir aussi codet NQAQ."
+  }
+}

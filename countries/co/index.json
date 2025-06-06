@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Colombia",
+    "fr": "Colombie (la)"
+  },
+  "alternate_names": [
+    "Colombia",
+    "Colombie (la)",
+    "Colombia"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "CO",
+    "iso_3166_1_alpha3": "COL",
+    "iso_3166_1_numeric": "170",
+    "iso_path": "/content/iso/code/3166/CO_82.xml"
+  },
+  "valid_from": null
+}

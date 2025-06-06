@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Åland Islands",
+    "fr": "Åland(les Îles)"
+  },
+  "alternate_names": [
+    "Åland Islands",
+    "Åland(les Îles)",
+    "Åland"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "AX",
+    "iso_3166_1_alpha3": "ALA",
+    "iso_3166_1_numeric": "248",
+    "iso_path": "/content/iso/code/3166/AX_82.xml"
+  },
+  "valid_from": null
+}

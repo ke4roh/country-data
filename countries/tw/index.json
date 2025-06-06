@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Taiwan (Province of China)",
+    "fr": "Taïwan (Province de Chine)"
+  },
+  "alternate_names": [
+    "Taiwan (Province of China)",
+    "Taïwan (Province de Chine)",
+    "Taiwan"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "TW",
+    "iso_3166_1_alpha3": "TWN",
+    "iso_3166_1_numeric": "158",
+    "iso_path": "/content/iso/code/3166/TW_82.xml"
+  },
+  "valid_from": null
+}

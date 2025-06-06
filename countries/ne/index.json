@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Niger (the)",
+    "fr": "Niger (le)"
+  },
+  "alternate_names": [
+    "Niger (the)",
+    "Niger (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "NE",
+    "iso_3166_1_alpha3": "NER",
+    "iso_3166_1_numeric": "562",
+    "iso_path": "/content/iso/code/3166/NE_82.xml"
+  },
+  "valid_from": null
+}

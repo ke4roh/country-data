@@ -1,0 +1,22 @@
+{
+  "type": "country",
+  "name": {
+    "en": "French Southern Territories (the)",
+    "fr": "Terres australes françaises (les)"
+  },
+  "alternate_names": [
+    "French Southern Territories (the)",
+    "Terres australes françaises (les)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "TF",
+    "iso_3166_1_alpha3": "ATF",
+    "iso_3166_1_numeric": "260",
+    "iso_path": "/content/iso/code/3166/TF_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "French Southern and Antarctic Territories (FQ, ATF, --) now part of Antarctica (AQ, ATA, 010) and French Southern Territories. See also code element FQHH.",
+    "fr": "Les Terres Australes et Antarctiques françaises (FQ, ATF, --), maintenant font partie de l'Antarctique (AQ, ATA, 010) et des Terres Australes françaises. Voir aussi codet FQHH."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Paraguay",
+    "fr": "Paraguay (le)"
+  },
+  "alternate_names": [
+    "Paraguay",
+    "Paraguay (le)",
+    "Paraguay",
+    "Paraguay (el)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "PY",
+    "iso_3166_1_alpha3": "PRY",
+    "iso_3166_1_numeric": "600",
+    "iso_path": "/content/iso/code/3166/PY_82.xml"
+  },
+  "valid_from": null
+}

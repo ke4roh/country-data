@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Brunei Darussalam",
+    "fr": "Brunéi Darussalam (le)"
+  },
+  "alternate_names": [
+    "Brunei Darussalam",
+    "Brunéi Darussalam (le)",
+    "Negara Brunei Darussalam"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "BN",
+    "iso_3166_1_alpha3": "BRN",
+    "iso_3166_1_numeric": "096",
+    "iso_path": "/content/iso/code/3166/BN_82.xml"
+  },
+  "valid_from": null
+}

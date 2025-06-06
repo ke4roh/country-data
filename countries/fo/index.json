@@ -1,0 +1,20 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Faroe Islands (the)",
+    "fr": "Féroé (les Îles)"
+  },
+  "alternate_names": [
+    "Færøerne",
+    "Faroe Islands (the)",
+    "Føroyar",
+    "Féroé (les Îles)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "FO",
+    "iso_3166_1_alpha3": "FRO",
+    "iso_3166_1_numeric": "234",
+    "iso_path": "/content/iso/code/3166/FO_82.xml"
+  },
+  "valid_from": null
+}

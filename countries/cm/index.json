@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Cameroon",
+    "fr": "Cameroun (le)"
+  },
+  "alternate_names": [
+    "Cameroon",
+    "Cameroun (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "CM",
+    "iso_3166_1_alpha3": "CMR",
+    "iso_3166_1_numeric": "120",
+    "iso_path": "/content/iso/code/3166/CM_82.xml"
+  },
+  "valid_from": null
+}

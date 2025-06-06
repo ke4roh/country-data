@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Albania",
+    "fr": "Albanie (l')"
+  },
+  "alternate_names": [
+    "Albania",
+    "Albanie (l')",
+    "Shqipëria; Shqipëri"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "AL",
+    "iso_3166_1_alpha3": "ALB",
+    "iso_3166_1_numeric": "008",
+    "iso_path": "/content/iso/code/3166/AL_82.xml"
+  },
+  "valid_from": null
+}

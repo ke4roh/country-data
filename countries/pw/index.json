@@ -1,0 +1,23 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Palau",
+    "fr": "Palaos (les)"
+  },
+  "alternate_names": [
+    "Palau",
+    "Palaos (les)",
+    "Belau"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "PW",
+    "iso_3166_1_alpha3": "PLW",
+    "iso_3166_1_numeric": "585",
+    "iso_path": "/content/iso/code/3166/PW_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Pacific Islands (Trust Territory) (PC, PCI, 582) were divided into: Marshall Islands (MH, MHL, 584), Federated States of Micronesia (FM, FSM, 583), Northern Mariana Islands (MP, MNP, 580) and Palau. See also code element PCHH.",
+    "fr": "Les Îles du Pacifique (territoire sous tutelle) (PC, PCI, 582) ont été divisé entre: Îles Mariannes du Nord (MP, MNP, 580), Îles Marshall (MH, MHL, 584), États fédérés de Micronésie (FM, FSM, 583) et Palaos. Voir aussi codet PCHH."
+  }
+}

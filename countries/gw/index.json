@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Guinea-Bissau",
+    "fr": "Guinée-Bissau (la)"
+  },
+  "alternate_names": [
+    "Guinea-Bissau",
+    "Guinée-Bissau (la)",
+    "Guiné-Bissau (a)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "GW",
+    "iso_3166_1_alpha3": "GNB",
+    "iso_3166_1_numeric": "624",
+    "iso_path": "/content/iso/code/3166/GW_82.xml"
+  },
+  "valid_from": null
+}

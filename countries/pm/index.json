@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Saint Pierre and Miquelon",
+    "fr": "Saint-Pierre-et-Miquelon"
+  },
+  "alternate_names": [
+    "Saint Pierre and Miquelon",
+    "Saint-Pierre-et-Miquelon"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "PM",
+    "iso_3166_1_alpha3": "SPM",
+    "iso_3166_1_numeric": "666",
+    "iso_path": "/content/iso/code/3166/PM_82.xml"
+  },
+  "valid_from": null
+}

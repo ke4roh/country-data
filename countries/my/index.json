@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Malaysia",
+    "fr": "Malaisie (la)"
+  },
+  "alternate_names": [
+    "Malaysia",
+    "Malaisie (la)",
+    "Malaysia"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "MY",
+    "iso_3166_1_alpha3": "MYS",
+    "iso_3166_1_numeric": "458",
+    "iso_path": "/content/iso/code/3166/MY_82.xml"
+  },
+  "valid_from": null
+}

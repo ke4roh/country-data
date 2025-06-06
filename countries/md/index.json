@@ -1,0 +1,23 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Moldova (the Republic of)",
+    "fr": "Moldova (la République de)"
+  },
+  "alternate_names": [
+    "Moldova (the Republic of)",
+    "Moldova (la République de)",
+    "Republica Moldova"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "MD",
+    "iso_3166_1_alpha3": "MDA",
+    "iso_3166_1_numeric": "498",
+    "iso_path": "/content/iso/code/3166/MD_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+    "fr": "Faisant partie de l'USSR (SU, SUN, 810) avant sa suppression. Voir codet SUHH."
+  }
+}

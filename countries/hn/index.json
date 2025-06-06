@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Honduras",
+    "fr": "Honduras (le)"
+  },
+  "alternate_names": [
+    "Honduras",
+    "Honduras (le)",
+    "Honduras"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "HN",
+    "iso_3166_1_alpha3": "HND",
+    "iso_3166_1_numeric": "340",
+    "iso_path": "/content/iso/code/3166/HN_82.xml"
+  },
+  "valid_from": null
+}

@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Tunisia",
+    "fr": "Tunisie (la)"
+  },
+  "alternate_names": [
+    "Tūnis",
+    "Tunisia",
+    "Tunisie (la)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "TN",
+    "iso_3166_1_alpha3": "TUN",
+    "iso_3166_1_numeric": "788",
+    "iso_path": "/content/iso/code/3166/TN_82.xml"
+  },
+  "valid_from": null
+}

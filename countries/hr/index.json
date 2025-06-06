@@ -1,0 +1,23 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Croatia",
+    "fr": "Croatie (la)"
+  },
+  "alternate_names": [
+    "Croatia",
+    "Croatie (la)",
+    "Hrvatska"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "HR",
+    "iso_3166_1_alpha3": "HRV",
+    "iso_3166_1_numeric": "191",
+    "iso_path": "/content/iso/code/3166/HR_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Formerly part of Yugoslavia  (YU, YUG, 891) before its split. See code element YUCS.",
+    "fr": "Faisant partie de l'ancienne Yougoslavie (YU, YUG, 891) avant sa division. Voir codet YUCS."
+  }
+}

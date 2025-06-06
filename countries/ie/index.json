@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Ireland",
+    "fr": "Irlande (l')"
+  },
+  "alternate_names": [
+    "Ireland",
+    "Irlande (l')",
+    "Éire"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "IE",
+    "iso_3166_1_alpha3": "IRL",
+    "iso_3166_1_numeric": "372",
+    "iso_path": "/content/iso/code/3166/IE_82.xml"
+  },
+  "valid_from": null
+}

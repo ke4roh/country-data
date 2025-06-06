@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Jordan",
+    "fr": "Jordanie (la)"
+  },
+  "alternate_names": [
+    "Al Urdun",
+    "Jordan",
+    "Jordanie (la)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "JO",
+    "iso_3166_1_alpha3": "JOR",
+    "iso_3166_1_numeric": "400",
+    "iso_path": "/content/iso/code/3166/JO_82.xml"
+  },
+  "valid_from": null
+}

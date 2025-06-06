@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Iceland",
+    "fr": "Islande (l')"
+  },
+  "alternate_names": [
+    "Iceland",
+    "Islande (l')",
+    "Ísland"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "IS",
+    "iso_3166_1_alpha3": "ISL",
+    "iso_3166_1_numeric": "352",
+    "iso_path": "/content/iso/code/3166/IS_82.xml"
+  },
+  "valid_from": null
+}

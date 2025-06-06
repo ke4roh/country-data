@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Brazil",
+    "fr": "Brésil (le)"
+  },
+  "alternate_names": [
+    "Brazil",
+    "Brésil (le)",
+    "Brasil (o)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "BR",
+    "iso_3166_1_alpha3": "BRA",
+    "iso_3166_1_numeric": "076",
+    "iso_path": "/content/iso/code/3166/BR_82.xml"
+  },
+  "valid_from": null
+}

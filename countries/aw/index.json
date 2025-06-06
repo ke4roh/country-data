@@ -1,0 +1,20 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Aruba",
+    "fr": "Aruba"
+  },
+  "alternate_names": [
+    "Aruba",
+    "Aruba",
+    "Aruba",
+    "Aruba"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "AW",
+    "iso_3166_1_alpha3": "ABW",
+    "iso_3166_1_numeric": "533",
+    "iso_path": "/content/iso/code/3166/AW_82.xml"
+  },
+  "valid_from": null
+}

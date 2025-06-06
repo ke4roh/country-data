@@ -1,0 +1,20 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Bolivia (Plurinational State of)",
+    "fr": "Bolivie (État plurinational de)"
+  },
+  "alternate_names": [
+    "Bolivia (Plurinational State of)",
+    "Bolivie (État plurinational de)",
+    "Bolivia",
+    "Estado Plurinacional de"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "BO",
+    "iso_3166_1_alpha3": "BOL",
+    "iso_3166_1_numeric": "068",
+    "iso_path": "/content/iso/code/3166/BO_82.xml"
+  },
+  "valid_from": null
+}

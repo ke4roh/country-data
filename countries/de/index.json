@@ -1,0 +1,23 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Germany",
+    "fr": "Allemagne (l')"
+  },
+  "alternate_names": [
+    "Deutschland",
+    "Germany",
+    "Allemagne (l')"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "DE",
+    "iso_3166_1_alpha3": "DEU",
+    "iso_3166_1_numeric": "276",
+    "iso_path": "/content/iso/code/3166/DE_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Since reunification, the code elements for the former German Democratic Republic (DD, DDR, 278) have been incorporated into the code elements for Germany. See also code element DDDE.",
+    "fr": "Depuis la réunification, les codets pour l'ancienne République allemande démocratique (DD, DDR, 278) ont été incorporé dans les codet pour l'Allemagne. Voir aussi codet DDDE."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Norfolk Island",
+    "fr": "Norfolk (l'Île)"
+  },
+  "alternate_names": [
+    "Norfolk Island",
+    "Norfolk (l'Île)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "NF",
+    "iso_3166_1_alpha3": "NFK",
+    "iso_3166_1_numeric": "574",
+    "iso_path": "/content/iso/code/3166/NF_82.xml"
+  },
+  "valid_from": null
+}

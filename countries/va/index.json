@@ -1,0 +1,20 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Holy See (the)",
+    "fr": "Saint-Siège (le)"
+  },
+  "alternate_names": [
+    "Holy See (the)",
+    "Saint-Siège (le)",
+    "Santa Sede (la)",
+    "Sancta Sedes"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "VA",
+    "iso_3166_1_alpha3": "VAT",
+    "iso_3166_1_numeric": "336",
+    "iso_path": "/content/iso/code/3166/VA_82.xml"
+  },
+  "valid_from": null
+}

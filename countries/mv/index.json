@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Maldives",
+    "fr": "Maldives (les)"
+  },
+  "alternate_names": [
+    "Dhivehi Raajje",
+    "Maldives",
+    "Maldives (les)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "MV",
+    "iso_3166_1_alpha3": "MDV",
+    "iso_3166_1_numeric": "462",
+    "iso_path": "/content/iso/code/3166/MV_82.xml"
+  },
+  "valid_from": null
+}

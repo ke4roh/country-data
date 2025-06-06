@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Canada",
+    "fr": "Canada (le)"
+  },
+  "alternate_names": [
+    "Canada",
+    "Canada (le)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "CA",
+    "iso_3166_1_alpha3": "CAN",
+    "iso_3166_1_numeric": "124",
+    "iso_path": "/content/iso/code/3166/CA_82.xml"
+  },
+  "valid_from": null
+}

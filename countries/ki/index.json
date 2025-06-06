@@ -1,0 +1,23 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Kiribati",
+    "fr": "Kiribati"
+  },
+  "alternate_names": [
+    "Kiribati",
+    "Kiribati",
+    "Kiribati"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "KI",
+    "iso_3166_1_alpha3": "KIR",
+    "iso_3166_1_numeric": "296",
+    "iso_path": "/content/iso/code/3166/KI_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Canton and Enderbury Islands (CT, CTE, 128) now part of Kirbati. See also code element CTKI. Gilbert and Ellice Islands (GE, GEL, --) divided into: Gilbert Islands now part of Kiribati, and Ellice Islands now part of Tuvalu (TV, TUV, 798). See also code element GEHH.",
+    "fr": "Les Îles de Canton et Enderbury  (CT, CTE, 128) maintenant faisant partie du Kirbati. Voir aussi codet CTKI. Les Îles Gilbert et Ellice (GE, GEL, --) sont divisées entre les Îles Gilbert maintenant faisant partie du Kiribati (KI, KIR, 296), et les Îles Ellice maintenant faisant partie du Tuvalu (TV, TUV, 798). Voir aussi codet GEHH."
+  }
+}

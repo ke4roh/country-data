@@ -1,0 +1,20 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Bouvet Island",
+    "fr": "Bouvet (l'Île)"
+  },
+  "alternate_names": [
+    "Bouvet Island",
+    "Bouvet (l'Île)",
+    "Bouvetøya",
+    "Bouvetøya"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "BV",
+    "iso_3166_1_alpha3": "BVT",
+    "iso_3166_1_numeric": "074",
+    "iso_path": "/content/iso/code/3166/BV_82.xml"
+  },
+  "valid_from": null
+}

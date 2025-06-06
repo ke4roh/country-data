@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Rwanda",
+    "fr": "Rwanda (le)"
+  },
+  "alternate_names": [
+    "Rwanda",
+    "Rwanda (le)",
+    "Rwanda"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "RW",
+    "iso_3166_1_alpha3": "RWA",
+    "iso_3166_1_numeric": "646",
+    "iso_path": "/content/iso/code/3166/RW_82.xml"
+  },
+  "valid_from": null
+}

@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Anguilla",
+    "fr": "Anguilla"
+  },
+  "alternate_names": [
+    "Anguilla",
+    "Anguilla"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "AI",
+    "iso_3166_1_alpha3": "AIA",
+    "iso_3166_1_numeric": "660",
+    "iso_path": "/content/iso/code/3166/AI_82.xml"
+  },
+  "valid_from": null
+}

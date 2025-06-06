@@ -1,0 +1,24 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Kyrgyzstan",
+    "fr": "Kirghizistan (le)"
+  },
+  "alternate_names": [
+    "Kyrgyzstan",
+    "Kirghizistan (le)",
+    "Kyrgyzstan",
+    "Kyrgyzstan"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "KG",
+    "iso_3166_1_alpha3": "KGZ",
+    "iso_3166_1_numeric": "417",
+    "iso_path": "/content/iso/code/3166/KG_82.xml"
+  },
+  "valid_from": null,
+  "change_notes": {
+    "en": "Formerly part of USSR (SU, SUN, 810) before its split. See code element SUHH.",
+    "fr": "Faisant partie de l'USSR (SU, SUN, 810) avant sa suppression. Voir codet SUHH."
+  }
+}

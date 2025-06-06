@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Samoa",
+    "fr": "Samoa (le)"
+  },
+  "alternate_names": [
+    "Samoa",
+    "Samoa (le)",
+    "Samoa"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "WS",
+    "iso_3166_1_alpha3": "WSM",
+    "iso_3166_1_numeric": "882",
+    "iso_path": "/content/iso/code/3166/WS_82.xml"
+  },
+  "valid_from": null
+}

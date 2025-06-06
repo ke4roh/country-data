@@ -1,0 +1,18 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Cayman Islands (the)",
+    "fr": "Caïmans (les Îles)"
+  },
+  "alternate_names": [
+    "Cayman Islands (the)",
+    "Caïmans (les Îles)"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "KY",
+    "iso_3166_1_alpha3": "CYM",
+    "iso_3166_1_numeric": "136",
+    "iso_path": "/content/iso/code/3166/KY_82.xml"
+  },
+  "valid_from": null
+}

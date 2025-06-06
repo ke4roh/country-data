@@ -1,0 +1,19 @@
+{
+  "type": "country",
+  "name": {
+    "en": "Tokelau",
+    "fr": "Tokelau (les)"
+  },
+  "alternate_names": [
+    "Tokelau",
+    "Tokelau (les)",
+    "Tokelau"
+  ],
+  "meta": {
+    "iso_3166_1_alpha2": "TK",
+    "iso_3166_1_alpha3": "TKL",
+    "iso_3166_1_numeric": "772",
+    "iso_path": "/content/iso/code/3166/TK_82.xml"
+  },
+  "valid_from": null
+}
