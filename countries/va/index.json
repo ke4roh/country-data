@@ -1,11 +1,16 @@
 {
   "type": "country",
   "name": {
-    "en": "Holy See (the)",
-    "fr": "Saint-Siège (le)"
+    "en": "Vatican City",
+    "fr": "Cité du Vatican",
+    "it": "Città del Vaticano",
+    "la": "Status Civitatis Vaticanæ",
+    "es": "Ciudad del Vaticano"
   },
   "alternate_names": [
-    "Holy See (the)",
+    "Vatican",
+    "Vatican City State",
+    "Holy See (state proxy for)",
     "Saint-Siège (le)",
     "Santa Sede (la)",
     "Sancta Sedes"
@@ -14,7 +19,8 @@
     "iso_3166_1_alpha2": "VA",
     "iso_3166_1_alpha3": "VAT",
     "iso_3166_1_numeric": "336",
-    "iso_path": "/content/iso/code/3166/VA_82.xml"
+    "iso_path": "/content/iso/code/3166/VA_82.xml",
+    "wikidata": "Q237"
   },
-  "valid_from": null
+  "valid_from": "1929-02-11"
 }
