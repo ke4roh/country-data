@@ -1,23 +1,52 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Subdivision Schema",
-  "allOf": [
-    { "$ref": "base.json" }
-  ],
-  "required": ["parent_id", "admin_level"],
+  "type": "object",
+  "required": ["type", "name", "valid_from", "parent_id", "admin_level"],
   "properties": {
+    "type": {
+      "type": "string"
+    },
+    "name": {
+      "type": "object",
+      "minProperties": 1,
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
+    "alternate_names": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "valid_from": {
+      "type": ["string", "null"],
+      "format": "date"
+    },
+    "valid_to": {
+      "type": ["string", "null"],
+      "format": "date"
+    },
+    "change_notes": {
+      "type": "object",
+      "properties": {
+        "en": { "type": "string" },
+        "fr": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "meta": {
+      "type": "object"
+    },
     "parent_id": {
-      "type": "string",
-      "description": "Path or ID of parent entity, e.g., 'us' or 'us/ny'"
+      "type": "string"
     },
     "admin_level": {
       "type": "integer",
-      "enum": [1, 2, 3],
-      "description": "1 = primary (state/province), 2 = secondary (county/district), etc."
+      "enum": [1, 2, 3]
     },
     "local_code": {
-      "type": "string",
-      "description": "FIPS, NUTS, or other local identifier"
+      "type": "string"
     }
-  }
+  },
+  "additionalProperties": false
 }

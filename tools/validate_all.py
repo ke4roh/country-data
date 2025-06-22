@@ -2,11 +2,13 @@ import os
 import json
 import jsonschema
 from pathlib import Path
+from functools import lru_cache
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 SCHEMA_DIR = PROJECT_ROOT / "schema"
 DATA_DIR = PROJECT_ROOT / "countries"
 
+@lru_cache(maxsize=30)
 def load_schema(schema_name):
     schema_path = SCHEMA_DIR / schema_name
     with open(schema_path, encoding="utf-8") as f:
@@ -39,11 +41,11 @@ def main():
             validate_file(json_path, schema, resolver)
             counter = counter + 1
         except jsonschema.ValidationError as e:
-            failures.append((json_path, e.message))
+            failures.append((schema_file, json_path, e.message))
 
     if failures:
-        for path, msg in failures:
-            print(f"❌ {path}:\n  - {msg}")
+        for schema_file, path, msg in failures:
+            print(f"❌ {path}:\n  - {msg} per {schema_file}")
         exit(1)
     else:
         print(f"✅ All {counter} JSON files are valid.")
