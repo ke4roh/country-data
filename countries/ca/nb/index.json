@@ -1,0 +1,20 @@
+{
+  "type": "province",
+  "name": {
+    "en": "New Brunswick",
+    "fr": "Nouveau-Brunswick"
+  },
+  "alternate_names": [
+    "N.B.",
+    "N.-B."
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca",
+  "admin_level": 1,
+  "local_code": "13",
+  "meta": {
+    "iso_alpha_code": "NB",
+    "region": "Atlantic"
+  }
+}

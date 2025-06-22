@@ -1,0 +1,20 @@
+{
+  "type": "province",
+  "name": {
+    "en": "Saskatchewan",
+    "fr": "Saskatchewan"
+  },
+  "alternate_names": [
+    "Sask.",
+    "Sask."
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca",
+  "admin_level": 1,
+  "local_code": "47",
+  "meta": {
+    "iso_alpha_code": "SK",
+    "region": "Prairies"
+  }
+}

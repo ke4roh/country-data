@@ -1,0 +1,20 @@
+{
+  "type": "province",
+  "name": {
+    "en": "Ontario",
+    "fr": "Ontario"
+  },
+  "alternate_names": [
+    "Ont.",
+    "Ont."
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca",
+  "admin_level": 1,
+  "local_code": "35",
+  "meta": {
+    "iso_alpha_code": "ON",
+    "region": "Ontario"
+  }
+}

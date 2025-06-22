@@ -1,0 +1,20 @@
+{
+  "type": "province",
+  "name": {
+    "en": "Alberta",
+    "fr": "Alberta"
+  },
+  "alternate_names": [
+    "Alta.",
+    "Alb."
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca",
+  "admin_level": 1,
+  "local_code": "48",
+  "meta": {
+    "iso_alpha_code": "AB",
+    "region": "Prairies"
+  }
+}

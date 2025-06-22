@@ -1,0 +1,20 @@
+{
+  "type": "province",
+  "name": {
+    "en": "Prince Edward Island",
+    "fr": "Île-du-Prince-Édouard"
+  },
+  "alternate_names": [
+    "P.E.I.",
+    "Î.-P.-É."
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca",
+  "admin_level": 1,
+  "local_code": "11",
+  "meta": {
+    "iso_alpha_code": "PE",
+    "region": "Atlantic"
+  }
+}

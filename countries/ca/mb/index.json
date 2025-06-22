@@ -1,0 +1,20 @@
+{
+  "type": "province",
+  "name": {
+    "en": "Manitoba",
+    "fr": "Manitoba"
+  },
+  "alternate_names": [
+    "Man.",
+    "Man."
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca",
+  "admin_level": 1,
+  "local_code": "46",
+  "meta": {
+    "iso_alpha_code": "MB",
+    "region": "Prairies"
+  }
+}

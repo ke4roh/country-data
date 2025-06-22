@@ -1,0 +1,20 @@
+{
+  "type": "province",
+  "name": {
+    "en": "Northwest Territories",
+    "fr": "Territoires du Nord‑Ouest"
+  },
+  "alternate_names": [
+    "N.W.T.",
+    "T.N.-O."
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca",
+  "admin_level": 1,
+  "local_code": "61",
+  "meta": {
+    "iso_alpha_code": "NT",
+    "region": "Territories"
+  }
+}

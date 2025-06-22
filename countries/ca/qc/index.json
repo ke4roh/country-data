@@ -1,0 +1,20 @@
+{
+  "type": "province",
+  "name": {
+    "en": "Quebec",
+    "fr": "Québec"
+  },
+  "alternate_names": [
+    "Que.",
+    "Qc"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca",
+  "admin_level": 1,
+  "local_code": "24",
+  "meta": {
+    "iso_alpha_code": "QC",
+    "region": "Quebec"
+  }
+}

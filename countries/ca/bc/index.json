@@ -1,0 +1,20 @@
+{
+  "type": "province",
+  "name": {
+    "en": "British Columbia",
+    "fr": "Colombie-Britannique"
+  },
+  "alternate_names": [
+    "B.C.",
+    "C.-B."
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca",
+  "admin_level": 1,
+  "local_code": "59",
+  "meta": {
+    "iso_alpha_code": "BC",
+    "region": "British Columbia"
+  }
+}

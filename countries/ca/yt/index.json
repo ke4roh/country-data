@@ -1,0 +1,20 @@
+{
+  "type": "province",
+  "name": {
+    "en": "Yukon",
+    "fr": "Yukon"
+  },
+  "alternate_names": [
+    "Y.T.",
+    "Yn"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca",
+  "admin_level": 1,
+  "local_code": "60",
+  "meta": {
+    "iso_alpha_code": "YT",
+    "region": "Territories"
+  }
+}

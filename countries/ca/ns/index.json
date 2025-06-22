@@ -1,0 +1,20 @@
+{
+  "type": "province",
+  "name": {
+    "en": "Nova Scotia",
+    "fr": "Nouvelle-Écosse"
+  },
+  "alternate_names": [
+    "N.S.",
+    "N.-É."
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca",
+  "admin_level": 1,
+  "local_code": "12",
+  "meta": {
+    "iso_alpha_code": "NS",
+    "region": "Atlantic"
+  }
+}

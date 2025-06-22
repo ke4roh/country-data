@@ -1,0 +1,20 @@
+{
+  "type": "province",
+  "name": {
+    "en": "Newfoundland and Labrador",
+    "fr": "Terre‑Neuve‑et‑Labrador"
+  },
+  "alternate_names": [
+    "N.L.",
+    "T.-N.-L."
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca",
+  "admin_level": 1,
+  "local_code": "10",
+  "meta": {
+    "iso_alpha_code": "NL",
+    "region": "Atlantic"
+  }
+}
