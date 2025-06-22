@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Switzerland County"
+  },
+  "alternate_names": [
+    "Switzerland County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18155",
+    "state_fips": "18",
+    "county_fips": "155",
+    "gnis_id": "450392"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "155"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Powhatan County"
+  },
+  "alternate_names": [
+    "Powhatan County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51145",
+    "state_fips": "51",
+    "county_fips": "145",
+    "gnis_id": "1674225"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "145"
+}

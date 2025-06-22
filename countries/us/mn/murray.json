@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Murray County"
+  },
+  "alternate_names": [
+    "Murray County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27101",
+    "state_fips": "27",
+    "county_fips": "101",
+    "gnis_id": "659496"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "101"
+}

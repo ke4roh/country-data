@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Johnston County"
+  },
+  "alternate_names": [
+    "Johnston County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "40069",
+    "state_fips": "40",
+    "county_fips": "069",
+    "gnis_id": "1101822"
+  },
+  "parent_id": "us/ok",
+  "admin_level": 2,
+  "local_code": "069"
+}

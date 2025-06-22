@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Columbia County"
+  },
+  "alternate_names": [
+    "Columbia County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36021",
+    "state_fips": "36",
+    "county_fips": "021",
+    "gnis_id": "974109"
+  },
+  "parent_id": "us/ny",
+  "admin_level": 2,
+  "local_code": "021"
+}

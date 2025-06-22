@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Mellette County"
+  },
+  "alternate_names": [
+    "Mellette County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46095",
+    "state_fips": "46",
+    "county_fips": "095",
+    "gnis_id": "1267177"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "095"
+}

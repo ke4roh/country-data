@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Mills County"
+  },
+  "alternate_names": [
+    "Mills County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48333",
+    "state_fips": "48",
+    "county_fips": "333",
+    "gnis_id": "1383952"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "333"
+}

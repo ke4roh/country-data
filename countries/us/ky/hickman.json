@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hickman County"
+  },
+  "alternate_names": [
+    "Hickman County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21105",
+    "state_fips": "21",
+    "county_fips": "105",
+    "gnis_id": "516899"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "105"
+}

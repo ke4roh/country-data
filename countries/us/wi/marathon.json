@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Marathon County"
+  },
+  "alternate_names": [
+    "Marathon County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55073",
+    "state_fips": "55",
+    "county_fips": "073",
+    "gnis_id": "1581096"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "073"
+}

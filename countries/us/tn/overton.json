@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Overton County"
+  },
+  "alternate_names": [
+    "Overton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47133",
+    "state_fips": "47",
+    "county_fips": "133",
+    "gnis_id": "1639780"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "133"
+}

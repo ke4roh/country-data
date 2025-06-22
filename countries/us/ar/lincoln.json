@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lincoln County"
+  },
+  "alternate_names": [
+    "Lincoln County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05079",
+    "state_fips": "05",
+    "county_fips": "079",
+    "gnis_id": "66873"
+  },
+  "parent_id": "us/ar",
+  "admin_level": 2,
+  "local_code": "079"
+}

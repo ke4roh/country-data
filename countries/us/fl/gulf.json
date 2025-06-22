@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Gulf County"
+  },
+  "alternate_names": [
+    "Gulf County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12045",
+    "state_fips": "12",
+    "county_fips": "045",
+    "gnis_id": "306917"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "045"
+}

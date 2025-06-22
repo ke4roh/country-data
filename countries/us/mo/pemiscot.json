@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pemiscot County"
+  },
+  "alternate_names": [
+    "Pemiscot County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29155",
+    "state_fips": "29",
+    "county_fips": "155",
+    "gnis_id": "758532"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "155"
+}

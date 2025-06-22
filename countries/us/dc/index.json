@@ -1,0 +1,15 @@
+{
+  "type": "district",
+  "name": {
+    "en": "District of Columbia"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "11",
+    "gnis_id": "1702382"
+  },
+  "parent_id": "us",
+  "admin_level": 1
+}

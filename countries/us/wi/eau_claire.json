@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Eau Claire County"
+  },
+  "alternate_names": [
+    "Eau Claire County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55035",
+    "state_fips": "55",
+    "county_fips": "035",
+    "gnis_id": "1581077"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "035"
+}

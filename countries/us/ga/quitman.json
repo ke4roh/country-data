@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Quitman County"
+  },
+  "alternate_names": [
+    "Quitman County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13239",
+    "state_fips": "13",
+    "county_fips": "239",
+    "gnis_id": "350547"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "239"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Transylvania County"
+  },
+  "alternate_names": [
+    "Transylvania County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37175",
+    "state_fips": "37",
+    "county_fips": "175",
+    "gnis_id": "1008589"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "175"
+}

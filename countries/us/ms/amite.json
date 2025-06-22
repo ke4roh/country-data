@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Amite County"
+  },
+  "alternate_names": [
+    "Amite County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28005",
+    "state_fips": "28",
+    "county_fips": "005",
+    "gnis_id": "695727"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "005"
+}

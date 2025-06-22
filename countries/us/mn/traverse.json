@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Traverse County"
+  },
+  "alternate_names": [
+    "Traverse County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27155",
+    "state_fips": "27",
+    "county_fips": "155",
+    "gnis_id": "659522"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "155"
+}

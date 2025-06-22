@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Bucks County"
+  },
+  "alternate_names": [
+    "Bucks County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "42017",
+    "state_fips": "42",
+    "county_fips": "017",
+    "gnis_id": "1209173"
+  },
+  "parent_id": "us/pa",
+  "admin_level": 2,
+  "local_code": "017"
+}

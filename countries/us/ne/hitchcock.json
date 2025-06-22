@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hitchcock County"
+  },
+  "alternate_names": [
+    "Hitchcock County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31087",
+    "state_fips": "31",
+    "county_fips": "087",
+    "gnis_id": "835865"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "087"
+}

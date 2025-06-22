@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Chilton County"
+  },
+  "alternate_names": [
+    "Chilton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "01021",
+    "state_fips": "01",
+    "county_fips": "021",
+    "gnis_id": "161536"
+  },
+  "parent_id": "us/al",
+  "admin_level": 2,
+  "local_code": "021"
+}

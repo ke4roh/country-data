@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Guilford County"
+  },
+  "alternate_names": [
+    "Guilford County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37081",
+    "state_fips": "37",
+    "county_fips": "081",
+    "gnis_id": "1008558"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "081"
+}

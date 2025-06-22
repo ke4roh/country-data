@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Faribault County"
+  },
+  "alternate_names": [
+    "Faribault County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27043",
+    "state_fips": "27",
+    "county_fips": "043",
+    "gnis_id": "659467"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "043"
+}

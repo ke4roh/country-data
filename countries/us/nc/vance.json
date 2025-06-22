@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Vance County"
+  },
+  "alternate_names": [
+    "Vance County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37181",
+    "state_fips": "37",
+    "county_fips": "181",
+    "gnis_id": "1008591"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "181"
+}

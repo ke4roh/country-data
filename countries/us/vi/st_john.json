@@ -1,0 +1,20 @@
+{
+  "type": "island",
+  "name": {
+    "en": "St. John Island"
+  },
+  "alternate_names": [
+    "Saint John Island"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "78020",
+    "state_fips": "78",
+    "county_fips": "020",
+    "gnis_id": "2378249"
+  },
+  "parent_id": "us/vi",
+  "admin_level": 2,
+  "local_code": "020"
+}

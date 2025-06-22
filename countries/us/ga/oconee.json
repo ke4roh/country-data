@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Oconee County"
+  },
+  "alternate_names": [
+    "Oconee County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13219",
+    "state_fips": "13",
+    "county_fips": "219",
+    "gnis_id": "356774"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "219"
+}

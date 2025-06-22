@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Kemper County"
+  },
+  "alternate_names": [
+    "Kemper County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28069",
+    "state_fips": "28",
+    "county_fips": "069",
+    "gnis_id": "695758"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "069"
+}

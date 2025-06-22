@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Green County"
+  },
+  "alternate_names": [
+    "Green County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55045",
+    "state_fips": "55",
+    "county_fips": "045",
+    "gnis_id": "1581082"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "045"
+}

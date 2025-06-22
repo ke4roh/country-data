@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Dorchester County"
+  },
+  "alternate_names": [
+    "Dorchester County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "45035",
+    "state_fips": "45",
+    "county_fips": "035",
+    "gnis_id": "1247998"
+  },
+  "parent_id": "us/sc",
+  "admin_level": 2,
+  "local_code": "035"
+}

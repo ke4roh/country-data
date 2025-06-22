@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Bourbon County"
+  },
+  "alternate_names": [
+    "Bourbon County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20011",
+    "state_fips": "20",
+    "county_fips": "011",
+    "gnis_id": "484975"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "011"
+}

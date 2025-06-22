@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Rutland County"
+  },
+  "alternate_names": [
+    "Rutland County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "50021",
+    "state_fips": "50",
+    "county_fips": "021",
+    "gnis_id": "1461767"
+  },
+  "parent_id": "us/vt",
+  "admin_level": 2,
+  "local_code": "021"
+}

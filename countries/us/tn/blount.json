@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Blount County"
+  },
+  "alternate_names": [
+    "Blount County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47009",
+    "state_fips": "47",
+    "county_fips": "009",
+    "gnis_id": "1639726"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "009"
+}

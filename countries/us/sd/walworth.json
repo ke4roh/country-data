@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Walworth County"
+  },
+  "alternate_names": [
+    "Walworth County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46129",
+    "state_fips": "46",
+    "county_fips": "129",
+    "gnis_id": "1266973"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "129"
+}

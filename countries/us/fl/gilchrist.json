@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Gilchrist County"
+  },
+  "alternate_names": [
+    "Gilchrist County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12041",
+    "state_fips": "12",
+    "county_fips": "041",
+    "gnis_id": "303633"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "041"
+}

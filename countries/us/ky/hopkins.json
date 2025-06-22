@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hopkins County"
+  },
+  "alternate_names": [
+    "Hopkins County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21107",
+    "state_fips": "21",
+    "county_fips": "107",
+    "gnis_id": "516900"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "107"
+}

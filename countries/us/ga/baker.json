@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Baker County"
+  },
+  "alternate_names": [
+    "Baker County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13007",
+    "state_fips": "13",
+    "county_fips": "007",
+    "gnis_id": "342832"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "007"
+}

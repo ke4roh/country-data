@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pleasants County"
+  },
+  "alternate_names": [
+    "Pleasants County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "54073",
+    "state_fips": "54",
+    "county_fips": "073",
+    "gnis_id": "1678557"
+  },
+  "parent_id": "us/wv",
+  "admin_level": 2,
+  "local_code": "073"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Adair County"
+  },
+  "alternate_names": [
+    "Adair County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "40001",
+    "state_fips": "40",
+    "county_fips": "001",
+    "gnis_id": "1101788"
+  },
+  "parent_id": "us/ok",
+  "admin_level": 2,
+  "local_code": "001"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "ward",
+  "name": {
+    "en": "District of Columbia Ward"
+  },
+  "alternate_names": [
+    "District of Columbia"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "11001",
+    "state_fips": "11",
+    "county_fips": "001",
+    "gnis_id": "1702382"
+  },
+  "parent_id": "us/dc",
+  "admin_level": 2,
+  "local_code": "001"
+}

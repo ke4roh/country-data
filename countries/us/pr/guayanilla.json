@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Guayanilla Municipio"
+  },
+  "alternate_names": [
+    "Guayanilla Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72059",
+    "state_fips": "72",
+    "county_fips": "059",
+    "gnis_id": "1804510"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "059"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Olmsted County"
+  },
+  "alternate_names": [
+    "Olmsted County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27109",
+    "state_fips": "27",
+    "county_fips": "109",
+    "gnis_id": "659500"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "109"
+}

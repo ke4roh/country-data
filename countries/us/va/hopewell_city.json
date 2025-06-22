@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hopewell (city) County"
+  },
+  "alternate_names": [
+    "City of Hopewell"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51670",
+    "state_fips": "51",
+    "county_fips": "670",
+    "gnis_id": "1498428"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "670"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Spokane County"
+  },
+  "alternate_names": [
+    "Spokane County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "53063",
+    "state_fips": "53",
+    "county_fips": "063",
+    "gnis_id": "1529225"
+  },
+  "parent_id": "us/wa",
+  "admin_level": 2,
+  "local_code": "063"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pulaski County"
+  },
+  "alternate_names": [
+    "Pulaski County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51155",
+    "state_fips": "51",
+    "county_fips": "155",
+    "gnis_id": "1501465"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "155"
+}

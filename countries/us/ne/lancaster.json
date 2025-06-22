@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lancaster County"
+  },
+  "alternate_names": [
+    "Lancaster County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31109",
+    "state_fips": "31",
+    "county_fips": "109",
+    "gnis_id": "835876"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "109"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Holmes County"
+  },
+  "alternate_names": [
+    "Holmes County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28051",
+    "state_fips": "28",
+    "county_fips": "051",
+    "gnis_id": "695749"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "051"
+}

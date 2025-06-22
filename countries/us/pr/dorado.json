@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Dorado Municipio"
+  },
+  "alternate_names": [
+    "Dorado Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72051",
+    "state_fips": "72",
+    "county_fips": "051",
+    "gnis_id": "1804505"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "051"
+}

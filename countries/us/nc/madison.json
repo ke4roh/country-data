@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Madison County"
+  },
+  "alternate_names": [
+    "Madison County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37115",
+    "state_fips": "37",
+    "county_fips": "115",
+    "gnis_id": "1025834"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "115"
+}

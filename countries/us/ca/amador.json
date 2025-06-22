@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Amador County"
+  },
+  "alternate_names": [
+    "Amador County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "06005",
+    "state_fips": "06",
+    "county_fips": "005",
+    "gnis_id": "1675841"
+  },
+  "parent_id": "us/ca",
+  "admin_level": 2,
+  "local_code": "005"
+}

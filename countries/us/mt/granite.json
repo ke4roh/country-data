@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Granite County"
+  },
+  "alternate_names": [
+    "Granite County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "30039",
+    "state_fips": "30",
+    "county_fips": "039",
+    "gnis_id": "1719605"
+  },
+  "parent_id": "us/mt",
+  "admin_level": 2,
+  "local_code": "039"
+}

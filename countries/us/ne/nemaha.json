@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Nemaha County"
+  },
+  "alternate_names": [
+    "Nemaha County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31127",
+    "state_fips": "31",
+    "county_fips": "127",
+    "gnis_id": "835885"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "127"
+}

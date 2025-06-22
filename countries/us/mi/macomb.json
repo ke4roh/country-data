@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Macomb County"
+  },
+  "alternate_names": [
+    "Macomb County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26099",
+    "state_fips": "26",
+    "county_fips": "099",
+    "gnis_id": "1622992"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "099"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Inyo County"
+  },
+  "alternate_names": [
+    "Inyo County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "06027",
+    "state_fips": "06",
+    "county_fips": "027",
+    "gnis_id": "1804637"
+  },
+  "parent_id": "us/ca",
+  "admin_level": 2,
+  "local_code": "027"
+}

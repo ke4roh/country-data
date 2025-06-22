@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pitt County"
+  },
+  "alternate_names": [
+    "Pitt County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37147",
+    "state_fips": "37",
+    "county_fips": "147",
+    "gnis_id": "1008578"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "147"
+}

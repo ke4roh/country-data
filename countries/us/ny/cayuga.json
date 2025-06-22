@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Cayuga County"
+  },
+  "alternate_names": [
+    "Cayuga County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36011",
+    "state_fips": "36",
+    "county_fips": "011",
+    "gnis_id": "974104"
+  },
+  "parent_id": "us/ny",
+  "admin_level": 2,
+  "local_code": "011"
+}

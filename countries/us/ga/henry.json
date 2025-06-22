@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Henry County"
+  },
+  "alternate_names": [
+    "Henry County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13151",
+    "state_fips": "13",
+    "county_fips": "151",
+    "gnis_id": "1671894"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "151"
+}

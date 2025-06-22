@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Warren County"
+  },
+  "alternate_names": [
+    "Warren County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39165",
+    "state_fips": "39",
+    "county_fips": "165",
+    "gnis_id": "1074094"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "165"
+}

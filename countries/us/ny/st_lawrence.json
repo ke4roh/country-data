@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "St. Lawrence County"
+  },
+  "alternate_names": [
+    "Saint Lawrence County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36089",
+    "state_fips": "36",
+    "county_fips": "089",
+    "gnis_id": "977309"
+  },
+  "parent_id": "us/ny",
+  "admin_level": 2,
+  "local_code": "089"
+}

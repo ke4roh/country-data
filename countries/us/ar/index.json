@@ -1,0 +1,15 @@
+{
+  "type": "state",
+  "name": {
+    "en": "Arkansas"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05",
+    "gnis_id": "68085"
+  },
+  "parent_id": "us",
+  "admin_level": 1
+}

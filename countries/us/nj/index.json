@@ -1,0 +1,15 @@
+{
+  "type": "state",
+  "name": {
+    "en": "New Jersey"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "34",
+    "gnis_id": "1779795"
+  },
+  "parent_id": "us",
+  "admin_level": 1
+}

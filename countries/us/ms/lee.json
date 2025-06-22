@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lee County"
+  },
+  "alternate_names": [
+    "Lee County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28081",
+    "state_fips": "28",
+    "county_fips": "081",
+    "gnis_id": "695764"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "081"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Crow Wing County"
+  },
+  "alternate_names": [
+    "Crow Wing County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27035",
+    "state_fips": "27",
+    "county_fips": "035",
+    "gnis_id": "659463"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "035"
+}

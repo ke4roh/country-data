@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Frederick County"
+  },
+  "alternate_names": [
+    "Frederick County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "24021",
+    "state_fips": "24",
+    "county_fips": "021",
+    "gnis_id": "1711211"
+  },
+  "parent_id": "us/md",
+  "admin_level": 2,
+  "local_code": "021"
+}

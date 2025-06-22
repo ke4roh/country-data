@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Bath County"
+  },
+  "alternate_names": [
+    "Bath County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51017",
+    "state_fips": "51",
+    "county_fips": "017",
+    "gnis_id": "1673638"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "017"
+}

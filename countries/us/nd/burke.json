@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Burke County"
+  },
+  "alternate_names": [
+    "Burke County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38013",
+    "state_fips": "38",
+    "county_fips": "013",
+    "gnis_id": "1034235"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "013"
+}

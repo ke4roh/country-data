@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Dillon County"
+  },
+  "alternate_names": [
+    "Dillon County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "45033",
+    "state_fips": "45",
+    "county_fips": "033",
+    "gnis_id": "1247993"
+  },
+  "parent_id": "us/sc",
+  "admin_level": 2,
+  "local_code": "033"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Ripley County"
+  },
+  "alternate_names": [
+    "Ripley County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29181",
+    "state_fips": "29",
+    "county_fips": "181",
+    "gnis_id": "758545"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "181"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Scotts Bluff County"
+  },
+  "alternate_names": [
+    "Scotts Bluff County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31157",
+    "state_fips": "31",
+    "county_fips": "157",
+    "gnis_id": "835900"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "157"
+}

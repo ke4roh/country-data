@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Luzerne County"
+  },
+  "alternate_names": [
+    "Luzerne County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "42079",
+    "state_fips": "42",
+    "county_fips": "079",
+    "gnis_id": "1209183"
+  },
+  "parent_id": "us/pa",
+  "admin_level": 2,
+  "local_code": "079"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Perry County"
+  },
+  "alternate_names": [
+    "Perry County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39127",
+    "state_fips": "39",
+    "county_fips": "127",
+    "gnis_id": "1074076"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "127"
+}

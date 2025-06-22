@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hamilton County"
+  },
+  "alternate_names": [
+    "Hamilton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39061",
+    "state_fips": "39",
+    "county_fips": "061",
+    "gnis_id": "1074043"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "061"
+}

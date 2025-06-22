@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Muskogee County"
+  },
+  "alternate_names": [
+    "Muskogee County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "40101",
+    "state_fips": "40",
+    "county_fips": "101",
+    "gnis_id": "1101838"
+  },
+  "parent_id": "us/ok",
+  "admin_level": 2,
+  "local_code": "101"
+}

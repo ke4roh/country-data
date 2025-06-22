@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Copper River Borough"
+  },
+  "alternate_names": [
+    "Copper River Census Area"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02066",
+    "state_fips": "02",
+    "county_fips": "066",
+    "gnis_id": "2804401"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "066"
+}

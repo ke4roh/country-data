@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Comanche County"
+  },
+  "alternate_names": [
+    "Comanche County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "40031",
+    "state_fips": "40",
+    "county_fips": "031",
+    "gnis_id": "1101803"
+  },
+  "parent_id": "us/ok",
+  "admin_level": 2,
+  "local_code": "031"
+}

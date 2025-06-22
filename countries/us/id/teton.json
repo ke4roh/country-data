@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Teton County"
+  },
+  "alternate_names": [
+    "Teton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "16081",
+    "state_fips": "16",
+    "county_fips": "081",
+    "gnis_id": "399297"
+  },
+  "parent_id": "us/id",
+  "admin_level": 2,
+  "local_code": "081"
+}

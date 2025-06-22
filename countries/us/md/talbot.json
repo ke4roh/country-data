@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Talbot County"
+  },
+  "alternate_names": [
+    "Talbot County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "24041",
+    "state_fips": "24",
+    "county_fips": "041",
+    "gnis_id": "592947"
+  },
+  "parent_id": "us/md",
+  "admin_level": 2,
+  "local_code": "041"
+}

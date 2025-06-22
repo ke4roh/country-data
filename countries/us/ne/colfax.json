@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Colfax County"
+  },
+  "alternate_names": [
+    "Colfax County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31037",
+    "state_fips": "31",
+    "county_fips": "037",
+    "gnis_id": "835840"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "037"
+}

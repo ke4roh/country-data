@@ -1,0 +1,20 @@
+{
+  "type": "parish",
+  "name": {
+    "en": "Jefferson Davis Parish"
+  },
+  "alternate_names": [
+    "Jefferson Davis Parish"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "22053",
+    "state_fips": "22",
+    "county_fips": "053",
+    "gnis_id": "558039"
+  },
+  "parent_id": "us/la",
+  "admin_level": 2,
+  "local_code": "053"
+}

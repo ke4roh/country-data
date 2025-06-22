@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Hoonah-Angoon (CA) Borough"
+  },
+  "alternate_names": [
+    "Hoonah-Angoon Census Area"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02105",
+    "state_fips": "02",
+    "county_fips": "105",
+    "gnis_id": "2371430"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "105"
+}

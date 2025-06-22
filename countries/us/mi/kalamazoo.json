@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Kalamazoo County"
+  },
+  "alternate_names": [
+    "Kalamazoo County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26077",
+    "state_fips": "26",
+    "county_fips": "077",
+    "gnis_id": "1622981"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "077"
+}

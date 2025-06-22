@@ -1,0 +1,15 @@
+{
+  "type": "state",
+  "name": {
+    "en": "New York"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36",
+    "gnis_id": "1779796"
+  },
+  "parent_id": "us",
+  "admin_level": 1
+}

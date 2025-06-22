@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Ozark County"
+  },
+  "alternate_names": [
+    "Ozark County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29153",
+    "state_fips": "29",
+    "county_fips": "153",
+    "gnis_id": "758531"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "153"
+}

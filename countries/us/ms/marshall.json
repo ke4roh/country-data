@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Marshall County"
+  },
+  "alternate_names": [
+    "Marshall County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28093",
+    "state_fips": "28",
+    "county_fips": "093",
+    "gnis_id": "695770"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "093"
+}

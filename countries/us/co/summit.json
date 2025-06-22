@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Summit County"
+  },
+  "alternate_names": [
+    "Summit County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "08117",
+    "state_fips": "08",
+    "county_fips": "117",
+    "gnis_id": "198174"
+  },
+  "parent_id": "us/co",
+  "admin_level": 2,
+  "local_code": "117"
+}

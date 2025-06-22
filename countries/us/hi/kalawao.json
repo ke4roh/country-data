@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Kalawao County"
+  },
+  "alternate_names": [
+    "Kalawao County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "15005",
+    "state_fips": "15",
+    "county_fips": "005",
+    "gnis_id": "1702380"
+  },
+  "parent_id": "us/hi",
+  "admin_level": 2,
+  "local_code": "005"
+}

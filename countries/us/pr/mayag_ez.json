@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Mayagüez Municipio"
+  },
+  "alternate_names": [
+    "Mayagüez Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72097",
+    "state_fips": "72",
+    "county_fips": "097",
+    "gnis_id": "1804529"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "097"
+}

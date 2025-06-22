@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Franklin County"
+  },
+  "alternate_names": [
+    "Franklin County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "16041",
+    "state_fips": "16",
+    "county_fips": "041",
+    "gnis_id": "395585"
+  },
+  "parent_id": "us/id",
+  "admin_level": 2,
+  "local_code": "041"
+}

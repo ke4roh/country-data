@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Oklahoma County"
+  },
+  "alternate_names": [
+    "Oklahoma County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "40109",
+    "state_fips": "40",
+    "county_fips": "109",
+    "gnis_id": "1101842"
+  },
+  "parent_id": "us/ok",
+  "admin_level": 2,
+  "local_code": "109"
+}

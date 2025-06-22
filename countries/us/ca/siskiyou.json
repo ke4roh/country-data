@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Siskiyou County"
+  },
+  "alternate_names": [
+    "Siskiyou County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "06093",
+    "state_fips": "06",
+    "county_fips": "093",
+    "gnis_id": "277311"
+  },
+  "parent_id": "us/ca",
+  "admin_level": 2,
+  "local_code": "093"
+}

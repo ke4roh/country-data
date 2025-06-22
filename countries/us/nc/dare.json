@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Dare County"
+  },
+  "alternate_names": [
+    "Dare County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37055",
+    "state_fips": "37",
+    "county_fips": "055",
+    "gnis_id": "1026133"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "055"
+}

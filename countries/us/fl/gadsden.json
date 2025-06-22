@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Gadsden County"
+  },
+  "alternate_names": [
+    "Gadsden County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12039",
+    "state_fips": "12",
+    "county_fips": "039",
+    "gnis_id": "306918"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "039"
+}

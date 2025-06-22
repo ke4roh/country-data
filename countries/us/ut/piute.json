@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Piute County"
+  },
+  "alternate_names": [
+    "Piute County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "49031",
+    "state_fips": "49",
+    "county_fips": "031",
+    "gnis_id": "1448029"
+  },
+  "parent_id": "us/ut",
+  "admin_level": 2,
+  "local_code": "031"
+}

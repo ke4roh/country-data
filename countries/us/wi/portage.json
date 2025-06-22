@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Portage County"
+  },
+  "alternate_names": [
+    "Portage County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55097",
+    "state_fips": "55",
+    "county_fips": "097",
+    "gnis_id": "1581109"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "097"
+}

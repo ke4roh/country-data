@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Loudoun County"
+  },
+  "alternate_names": [
+    "Loudoun County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51107",
+    "state_fips": "51",
+    "county_fips": "107",
+    "gnis_id": "1480141"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "107"
+}

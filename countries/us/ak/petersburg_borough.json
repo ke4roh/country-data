@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Petersburg Borough Borough"
+  },
+  "alternate_names": [
+    "Petersburg Borough"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02195",
+    "state_fips": "02",
+    "county_fips": "195",
+    "gnis_id": "2516404"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "195"
+}

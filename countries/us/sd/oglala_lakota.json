@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Oglala Lakota County"
+  },
+  "alternate_names": [
+    "Oglala Lakota County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46102",
+    "state_fips": "46",
+    "county_fips": "102",
+    "gnis_id": "1266992"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "102"
+}

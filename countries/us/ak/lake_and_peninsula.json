@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Lake and Peninsula Borough"
+  },
+  "alternate_names": [
+    "Lake and Peninsula Borough"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02164",
+    "state_fips": "02",
+    "county_fips": "164",
+    "gnis_id": "1419975"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "164"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Weston County"
+  },
+  "alternate_names": [
+    "Weston County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "56045",
+    "state_fips": "56",
+    "county_fips": "045",
+    "gnis_id": "1605086"
+  },
+  "parent_id": "us/wy",
+  "admin_level": 2,
+  "local_code": "045"
+}

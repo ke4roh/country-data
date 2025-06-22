@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "McHenry County"
+  },
+  "alternate_names": [
+    "McHenry County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38049",
+    "state_fips": "38",
+    "county_fips": "049",
+    "gnis_id": "1035305"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "049"
+}

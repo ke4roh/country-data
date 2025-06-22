@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lassen County"
+  },
+  "alternate_names": [
+    "Lassen County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "06035",
+    "state_fips": "06",
+    "county_fips": "035",
+    "gnis_id": "1693324"
+  },
+  "parent_id": "us/ca",
+  "admin_level": 2,
+  "local_code": "035"
+}

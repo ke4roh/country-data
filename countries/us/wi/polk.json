@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Polk County"
+  },
+  "alternate_names": [
+    "Polk County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55095",
+    "state_fips": "55",
+    "county_fips": "095",
+    "gnis_id": "1581108"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "095"
+}

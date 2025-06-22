@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Harrison County"
+  },
+  "alternate_names": [
+    "Harrison County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28047",
+    "state_fips": "28",
+    "county_fips": "047",
+    "gnis_id": "695747"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "047"
+}

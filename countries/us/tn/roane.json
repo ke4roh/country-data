@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Roane County"
+  },
+  "alternate_names": [
+    "Roane County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47145",
+    "state_fips": "47",
+    "county_fips": "145",
+    "gnis_id": "1639785"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "145"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hubbard County"
+  },
+  "alternate_names": [
+    "Hubbard County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27057",
+    "state_fips": "27",
+    "county_fips": "057",
+    "gnis_id": "659474"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "057"
+}

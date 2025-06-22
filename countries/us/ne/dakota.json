@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Dakota County"
+  },
+  "alternate_names": [
+    "Dakota County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31043",
+    "state_fips": "31",
+    "county_fips": "043",
+    "gnis_id": "835843"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "043"
+}

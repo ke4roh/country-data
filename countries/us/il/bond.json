@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Bond County"
+  },
+  "alternate_names": [
+    "Bond County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17005",
+    "state_fips": "17",
+    "county_fips": "005",
+    "gnis_id": "424204"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "005"
+}

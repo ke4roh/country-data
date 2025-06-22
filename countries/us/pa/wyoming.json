@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wyoming County"
+  },
+  "alternate_names": [
+    "Wyoming County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "42131",
+    "state_fips": "42",
+    "county_fips": "131",
+    "gnis_id": "1209192"
+  },
+  "parent_id": "us/pa",
+  "admin_level": 2,
+  "local_code": "131"
+}

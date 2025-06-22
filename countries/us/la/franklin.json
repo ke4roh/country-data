@@ -1,0 +1,20 @@
+{
+  "type": "parish",
+  "name": {
+    "en": "Franklin Parish"
+  },
+  "alternate_names": [
+    "Franklin Parish"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "22041",
+    "state_fips": "22",
+    "county_fips": "041",
+    "gnis_id": "558557"
+  },
+  "parent_id": "us/la",
+  "admin_level": 2,
+  "local_code": "041"
+}

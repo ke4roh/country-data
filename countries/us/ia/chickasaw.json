@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Chickasaw County"
+  },
+  "alternate_names": [
+    "Chickasaw County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "19037",
+    "state_fips": "19",
+    "county_fips": "037",
+    "gnis_id": "465208"
+  },
+  "parent_id": "us/ia",
+  "admin_level": 2,
+  "local_code": "037"
+}

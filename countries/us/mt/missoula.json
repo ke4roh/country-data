@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Missoula County"
+  },
+  "alternate_names": [
+    "Missoula County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "30063",
+    "state_fips": "30",
+    "county_fips": "063",
+    "gnis_id": "1719596"
+  },
+  "parent_id": "us/mt",
+  "admin_level": 2,
+  "local_code": "063"
+}

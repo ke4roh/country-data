@@ -1,0 +1,15 @@
+{
+  "type": "state",
+  "name": {
+    "en": "South Carolina"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "45",
+    "gnis_id": "1779799"
+  },
+  "parent_id": "us",
+  "admin_level": 1
+}

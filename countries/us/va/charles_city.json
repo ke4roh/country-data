@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Charles City County"
+  },
+  "alternate_names": [
+    "Charles City County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51036",
+    "state_fips": "51",
+    "county_fips": "036",
+    "gnis_id": "1480109"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "036"
+}

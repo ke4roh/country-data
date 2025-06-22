@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Johnson County"
+  },
+  "alternate_names": [
+    "Johnson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29101",
+    "state_fips": "29",
+    "county_fips": "101",
+    "gnis_id": "758505"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "101"
+}

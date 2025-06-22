@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Bledsoe County"
+  },
+  "alternate_names": [
+    "Bledsoe County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47007",
+    "state_fips": "47",
+    "county_fips": "007",
+    "gnis_id": "1639725"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "007"
+}

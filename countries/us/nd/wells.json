@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wells County"
+  },
+  "alternate_names": [
+    "Wells County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38103",
+    "state_fips": "38",
+    "county_fips": "103",
+    "gnis_id": "1034204"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "103"
+}

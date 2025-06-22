@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Orocovis Municipio"
+  },
+  "alternate_names": [
+    "Orocovis Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72107",
+    "state_fips": "72",
+    "county_fips": "107",
+    "gnis_id": "1804534"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "107"
+}

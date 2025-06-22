@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Alamance County"
+  },
+  "alternate_names": [
+    "Alamance County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37001",
+    "state_fips": "37",
+    "county_fips": "001",
+    "gnis_id": "1008531"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "001"
+}

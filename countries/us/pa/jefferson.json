@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Jefferson County"
+  },
+  "alternate_names": [
+    "Jefferson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "42065",
+    "state_fips": "42",
+    "county_fips": "065",
+    "gnis_id": "1213674"
+  },
+  "parent_id": "us/pa",
+  "admin_level": 2,
+  "local_code": "065"
+}

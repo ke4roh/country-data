@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Moca Municipio"
+  },
+  "alternate_names": [
+    "Moca Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72099",
+    "state_fips": "72",
+    "county_fips": "099",
+    "gnis_id": "1804530"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "099"
+}

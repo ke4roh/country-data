@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hunterdon County"
+  },
+  "alternate_names": [
+    "Hunterdon County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "34019",
+    "state_fips": "34",
+    "county_fips": "019",
+    "gnis_id": "882228"
+  },
+  "parent_id": "us/nj",
+  "admin_level": 2,
+  "local_code": "019"
+}

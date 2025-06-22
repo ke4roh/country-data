@@ -1,0 +1,15 @@
+{
+  "type": "state",
+  "name": {
+    "en": "Kansas"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20",
+    "gnis_id": "481813"
+  },
+  "parent_id": "us",
+  "admin_level": 1
+}

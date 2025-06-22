@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pitkin County"
+  },
+  "alternate_names": [
+    "Pitkin County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "08097",
+    "state_fips": "08",
+    "county_fips": "097",
+    "gnis_id": "198164"
+  },
+  "parent_id": "us/co",
+  "admin_level": 2,
+  "local_code": "097"
+}

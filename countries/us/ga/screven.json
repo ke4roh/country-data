@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Screven County"
+  },
+  "alternate_names": [
+    "Screven County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13251",
+    "state_fips": "13",
+    "county_fips": "251",
+    "gnis_id": "350204"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "251"
+}

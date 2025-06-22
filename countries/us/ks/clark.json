@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Clark County"
+  },
+  "alternate_names": [
+    "Clark County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20025",
+    "state_fips": "20",
+    "county_fips": "025",
+    "gnis_id": "484982"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "025"
+}

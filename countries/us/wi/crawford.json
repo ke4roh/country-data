@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Crawford County"
+  },
+  "alternate_names": [
+    "Crawford County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55023",
+    "state_fips": "55",
+    "county_fips": "023",
+    "gnis_id": "1581071"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "023"
+}

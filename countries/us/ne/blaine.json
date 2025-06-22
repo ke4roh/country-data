@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Blaine County"
+  },
+  "alternate_names": [
+    "Blaine County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31009",
+    "state_fips": "31",
+    "county_fips": "009",
+    "gnis_id": "835827"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "009"
+}

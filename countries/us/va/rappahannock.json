@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Rappahannock County"
+  },
+  "alternate_names": [
+    "Rappahannock County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51157",
+    "state_fips": "51",
+    "county_fips": "157",
+    "gnis_id": "1673976"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "157"
+}

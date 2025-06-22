@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hillsborough County"
+  },
+  "alternate_names": [
+    "Hillsborough County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12057",
+    "state_fips": "12",
+    "county_fips": "057",
+    "gnis_id": "295757"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "057"
+}

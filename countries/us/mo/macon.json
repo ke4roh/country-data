@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Macon County"
+  },
+  "alternate_names": [
+    "Macon County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29121",
+    "state_fips": "29",
+    "county_fips": "121",
+    "gnis_id": "758514"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "121"
+}

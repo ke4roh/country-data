@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Erie County"
+  },
+  "alternate_names": [
+    "Erie County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39043",
+    "state_fips": "39",
+    "county_fips": "043",
+    "gnis_id": "1074034"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "043"
+}

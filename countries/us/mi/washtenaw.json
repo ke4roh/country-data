@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Washtenaw County"
+  },
+  "alternate_names": [
+    "Washtenaw County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26161",
+    "state_fips": "26",
+    "county_fips": "161",
+    "gnis_id": "1623021"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "161"
+}

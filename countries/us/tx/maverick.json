@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Maverick County"
+  },
+  "alternate_names": [
+    "Maverick County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48323",
+    "state_fips": "48",
+    "county_fips": "323",
+    "gnis_id": "1383944"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "323"
+}

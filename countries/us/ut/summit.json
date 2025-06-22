@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Summit County"
+  },
+  "alternate_names": [
+    "Summit County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "49043",
+    "state_fips": "49",
+    "county_fips": "043",
+    "gnis_id": "1448035"
+  },
+  "parent_id": "us/ut",
+  "admin_level": 2,
+  "local_code": "043"
+}

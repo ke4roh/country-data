@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Mineral County"
+  },
+  "alternate_names": [
+    "Mineral County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "08079",
+    "state_fips": "08",
+    "county_fips": "079",
+    "gnis_id": "198155"
+  },
+  "parent_id": "us/co",
+  "admin_level": 2,
+  "local_code": "079"
+}

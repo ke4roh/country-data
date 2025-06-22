@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Colonial Heights (city) County"
+  },
+  "alternate_names": [
+    "City of Colonial Heights"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51570",
+    "state_fips": "51",
+    "county_fips": "570",
+    "gnis_id": "1498420"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "570"
+}

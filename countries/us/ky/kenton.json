@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Kenton County"
+  },
+  "alternate_names": [
+    "Kenton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21117",
+    "state_fips": "21",
+    "county_fips": "117",
+    "gnis_id": "516905"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "117"
+}

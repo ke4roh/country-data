@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "LaPorte County"
+  },
+  "alternate_names": [
+    "LaPorte County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18091",
+    "state_fips": "18",
+    "county_fips": "091",
+    "gnis_id": "450507"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "091"
+}

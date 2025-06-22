@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Gilliam County"
+  },
+  "alternate_names": [
+    "Gilliam County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "41021",
+    "state_fips": "41",
+    "county_fips": "021",
+    "gnis_id": "1135850"
+  },
+  "parent_id": "us/or",
+  "admin_level": 2,
+  "local_code": "021"
+}

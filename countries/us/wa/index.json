@@ -1,0 +1,15 @@
+{
+  "type": "state",
+  "name": {
+    "en": "Washington"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "53",
+    "gnis_id": "1779804"
+  },
+  "parent_id": "us",
+  "admin_level": 1
+}

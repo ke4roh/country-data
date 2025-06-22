@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Boundary County"
+  },
+  "alternate_names": [
+    "Boundary County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "16021",
+    "state_fips": "16",
+    "county_fips": "021",
+    "gnis_id": "395159"
+  },
+  "parent_id": "us/id",
+  "admin_level": 2,
+  "local_code": "021"
+}

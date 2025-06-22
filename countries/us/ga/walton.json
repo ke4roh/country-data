@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Walton County"
+  },
+  "alternate_names": [
+    "Walton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13297",
+    "state_fips": "13",
+    "county_fips": "297",
+    "gnis_id": "351264"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "297"
+}

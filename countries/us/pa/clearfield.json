@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Clearfield County"
+  },
+  "alternate_names": [
+    "Clearfield County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "42033",
+    "state_fips": "42",
+    "county_fips": "033",
+    "gnis_id": "1209175"
+  },
+  "parent_id": "us/pa",
+  "admin_level": 2,
+  "local_code": "033"
+}

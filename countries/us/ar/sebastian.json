@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Sebastian County"
+  },
+  "alternate_names": [
+    "Sebastian County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05131",
+    "state_fips": "05",
+    "county_fips": "131",
+    "gnis_id": "69181"
+  },
+  "parent_id": "us/ar",
+  "admin_level": 2,
+  "local_code": "131"
+}

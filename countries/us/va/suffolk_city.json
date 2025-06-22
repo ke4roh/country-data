@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Suffolk (city) County"
+  },
+  "alternate_names": [
+    "City of Suffolk"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51800",
+    "state_fips": "51",
+    "county_fips": "800",
+    "gnis_id": "1498560"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "800"
+}

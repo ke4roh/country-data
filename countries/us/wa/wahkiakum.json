@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wahkiakum County"
+  },
+  "alternate_names": [
+    "Wahkiakum County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "53069",
+    "state_fips": "53",
+    "county_fips": "069",
+    "gnis_id": "1513275"
+  },
+  "parent_id": "us/wa",
+  "admin_level": 2,
+  "local_code": "069"
+}

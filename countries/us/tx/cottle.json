@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Cottle County"
+  },
+  "alternate_names": [
+    "Cottle County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48101",
+    "state_fips": "48",
+    "county_fips": "101",
+    "gnis_id": "1383836"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "101"
+}

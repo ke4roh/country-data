@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Haines Borough"
+  },
+  "alternate_names": [
+    "Haines Borough"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02100",
+    "state_fips": "02",
+    "county_fips": "100",
+    "gnis_id": "1419970"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "100"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Guernsey County"
+  },
+  "alternate_names": [
+    "Guernsey County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39059",
+    "state_fips": "39",
+    "county_fips": "059",
+    "gnis_id": "1074042"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "059"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Murray County"
+  },
+  "alternate_names": [
+    "Murray County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13213",
+    "state_fips": "13",
+    "county_fips": "213",
+    "gnis_id": "1688005"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "213"
+}

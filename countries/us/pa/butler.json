@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Butler County"
+  },
+  "alternate_names": [
+    "Butler County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "42019",
+    "state_fips": "42",
+    "county_fips": "019",
+    "gnis_id": "1213661"
+  },
+  "parent_id": "us/pa",
+  "admin_level": 2,
+  "local_code": "019"
+}

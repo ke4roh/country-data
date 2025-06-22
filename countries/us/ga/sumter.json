@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Sumter County"
+  },
+  "alternate_names": [
+    "Sumter County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13261",
+    "state_fips": "13",
+    "county_fips": "261",
+    "gnis_id": "343504"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "261"
+}

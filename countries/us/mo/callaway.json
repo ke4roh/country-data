@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Callaway County"
+  },
+  "alternate_names": [
+    "Callaway County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29027",
+    "state_fips": "29",
+    "county_fips": "027",
+    "gnis_id": "758468"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "027"
+}

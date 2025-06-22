@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Carroll County"
+  },
+  "alternate_names": [
+    "Carroll County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13045",
+    "state_fips": "13",
+    "county_fips": "045",
+    "gnis_id": "326650"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "045"
+}

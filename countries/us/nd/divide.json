@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Divide County"
+  },
+  "alternate_names": [
+    "Divide County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38023",
+    "state_fips": "38",
+    "county_fips": "023",
+    "gnis_id": "1034234"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "023"
+}

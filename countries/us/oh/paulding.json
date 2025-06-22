@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Paulding County"
+  },
+  "alternate_names": [
+    "Paulding County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39125",
+    "state_fips": "39",
+    "county_fips": "125",
+    "gnis_id": "1074075"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "125"
+}

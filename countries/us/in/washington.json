@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Washington County"
+  },
+  "alternate_names": [
+    "Washington County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18175",
+    "state_fips": "18",
+    "county_fips": "175",
+    "gnis_id": "451665"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "175"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Clark County"
+  },
+  "alternate_names": [
+    "Clark County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21049",
+    "state_fips": "21",
+    "county_fips": "049",
+    "gnis_id": "516871"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "049"
+}

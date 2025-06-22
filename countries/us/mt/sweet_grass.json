@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Sweet Grass County"
+  },
+  "alternate_names": [
+    "Sweet Grass County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "30097",
+    "state_fips": "30",
+    "county_fips": "097",
+    "gnis_id": "1719569"
+  },
+  "parent_id": "us/mt",
+  "admin_level": 2,
+  "local_code": "097"
+}

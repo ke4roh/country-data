@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Middlesex County"
+  },
+  "alternate_names": [
+    "Middlesex County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51119",
+    "state_fips": "51",
+    "county_fips": "119",
+    "gnis_id": "1480147"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "119"
+}

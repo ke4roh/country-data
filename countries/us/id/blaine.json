@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Blaine County"
+  },
+  "alternate_names": [
+    "Blaine County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "16013",
+    "state_fips": "16",
+    "county_fips": "013",
+    "gnis_id": "395696"
+  },
+  "parent_id": "us/id",
+  "admin_level": 2,
+  "local_code": "013"
+}

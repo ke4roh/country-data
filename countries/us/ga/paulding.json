@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Paulding County"
+  },
+  "alternate_names": [
+    "Paulding County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13223",
+    "state_fips": "13",
+    "county_fips": "223",
+    "gnis_id": "349912"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "223"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Niobrara County"
+  },
+  "alternate_names": [
+    "Niobrara County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "56027",
+    "state_fips": "56",
+    "county_fips": "027",
+    "gnis_id": "1605078"
+  },
+  "parent_id": "us/wy",
+  "admin_level": 2,
+  "local_code": "027"
+}

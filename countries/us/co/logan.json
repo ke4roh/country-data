@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Logan County"
+  },
+  "alternate_names": [
+    "Logan County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "08075",
+    "state_fips": "08",
+    "county_fips": "075",
+    "gnis_id": "198153"
+  },
+  "parent_id": "us/co",
+  "admin_level": 2,
+  "local_code": "075"
+}

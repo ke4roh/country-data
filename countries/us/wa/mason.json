@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Mason County"
+  },
+  "alternate_names": [
+    "Mason County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "53045",
+    "state_fips": "53",
+    "county_fips": "045",
+    "gnis_id": "1529221"
+  },
+  "parent_id": "us/wa",
+  "admin_level": 2,
+  "local_code": "045"
+}

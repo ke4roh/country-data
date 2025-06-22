@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Williamsburg County"
+  },
+  "alternate_names": [
+    "Williamsburg County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "45089",
+    "state_fips": "45",
+    "county_fips": "089",
+    "gnis_id": "1248018"
+  },
+  "parent_id": "us/sc",
+  "admin_level": 2,
+  "local_code": "089"
+}

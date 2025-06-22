@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Thomas County"
+  },
+  "alternate_names": [
+    "Thomas County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20193",
+    "state_fips": "20",
+    "county_fips": "193",
+    "gnis_id": "485057"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "193"
+}

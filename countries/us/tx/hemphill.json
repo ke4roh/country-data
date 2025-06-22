@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hemphill County"
+  },
+  "alternate_names": [
+    "Hemphill County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48211",
+    "state_fips": "48",
+    "county_fips": "211",
+    "gnis_id": "1383891"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "211"
+}

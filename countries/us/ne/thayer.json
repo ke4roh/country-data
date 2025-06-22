@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Thayer County"
+  },
+  "alternate_names": [
+    "Thayer County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31169",
+    "state_fips": "31",
+    "county_fips": "169",
+    "gnis_id": "835906"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "169"
+}

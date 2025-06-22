@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Gallatin County"
+  },
+  "alternate_names": [
+    "Gallatin County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17059",
+    "state_fips": "17",
+    "county_fips": "059",
+    "gnis_id": "424231"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "059"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Stanton County"
+  },
+  "alternate_names": [
+    "Stanton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31167",
+    "state_fips": "31",
+    "county_fips": "167",
+    "gnis_id": "835905"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "167"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Yancey County"
+  },
+  "alternate_names": [
+    "Yancey County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37199",
+    "state_fips": "37",
+    "county_fips": "199",
+    "gnis_id": "1008598"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "199"
+}

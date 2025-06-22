@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Charles Mix County"
+  },
+  "alternate_names": [
+    "Charles Mix County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46023",
+    "state_fips": "46",
+    "county_fips": "023",
+    "gnis_id": "1266976"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "023"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Payette County"
+  },
+  "alternate_names": [
+    "Payette County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "16075",
+    "state_fips": "16",
+    "county_fips": "075",
+    "gnis_id": "394896"
+  },
+  "parent_id": "us/id",
+  "admin_level": 2,
+  "local_code": "075"
+}

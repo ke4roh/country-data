@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Osage County"
+  },
+  "alternate_names": [
+    "Osage County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20139",
+    "state_fips": "20",
+    "county_fips": "139",
+    "gnis_id": "485033"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "139"
+}

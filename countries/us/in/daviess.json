@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Daviess County"
+  },
+  "alternate_names": [
+    "Daviess County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18027",
+    "state_fips": "18",
+    "county_fips": "027",
+    "gnis_id": "450343"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "027"
+}

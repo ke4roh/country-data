@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Clay County"
+  },
+  "alternate_names": [
+    "Clay County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18021",
+    "state_fips": "18",
+    "county_fips": "021",
+    "gnis_id": "450341"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "021"
+}

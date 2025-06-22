@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Haakon County"
+  },
+  "alternate_names": [
+    "Haakon County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46055",
+    "state_fips": "46",
+    "county_fips": "055",
+    "gnis_id": "1266988"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "055"
+}

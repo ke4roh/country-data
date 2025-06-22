@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Warren County"
+  },
+  "alternate_names": [
+    "Warren County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36113",
+    "state_fips": "36",
+    "county_fips": "113",
+    "gnis_id": "974154"
+  },
+  "parent_id": "us/ny",
+  "admin_level": 2,
+  "local_code": "113"
+}

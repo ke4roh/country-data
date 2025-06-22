@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lexington (city) County"
+  },
+  "alternate_names": [
+    "City of Lexington"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51678",
+    "state_fips": "51",
+    "county_fips": "678",
+    "gnis_id": "1789071"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "678"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hamilton County"
+  },
+  "alternate_names": [
+    "Hamilton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36041",
+    "state_fips": "36",
+    "county_fips": "041",
+    "gnis_id": "974119"
+  },
+  "parent_id": "us/ny",
+  "admin_level": 2,
+  "local_code": "041"
+}

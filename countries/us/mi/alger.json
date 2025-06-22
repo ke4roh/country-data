@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Alger County"
+  },
+  "alternate_names": [
+    "Alger County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26003",
+    "state_fips": "26",
+    "county_fips": "003",
+    "gnis_id": "1622944"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "003"
+}

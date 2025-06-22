@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Rabun County"
+  },
+  "alternate_names": [
+    "Rabun County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13241",
+    "state_fips": "13",
+    "county_fips": "241",
+    "gnis_id": "351489"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "241"
+}

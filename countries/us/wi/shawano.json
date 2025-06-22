@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Shawano County"
+  },
+  "alternate_names": [
+    "Shawano County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55115",
+    "state_fips": "55",
+    "county_fips": "115",
+    "gnis_id": "1581117"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "115"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Franklin County"
+  },
+  "alternate_names": [
+    "Franklin County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17055",
+    "state_fips": "17",
+    "county_fips": "055",
+    "gnis_id": "424229"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "055"
+}

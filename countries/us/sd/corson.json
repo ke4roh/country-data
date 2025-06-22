@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Corson County"
+  },
+  "alternate_names": [
+    "Corson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46031",
+    "state_fips": "46",
+    "county_fips": "031",
+    "gnis_id": "1265811"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "031"
+}

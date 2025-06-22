@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Deer Lodge County"
+  },
+  "alternate_names": [
+    "Deer Lodge County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "30023",
+    "state_fips": "30",
+    "county_fips": "023",
+    "gnis_id": "1719617"
+  },
+  "parent_id": "us/mt",
+  "admin_level": 2,
+  "local_code": "023"
+}

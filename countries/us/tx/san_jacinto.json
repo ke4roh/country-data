@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "San Jacinto County"
+  },
+  "alternate_names": [
+    "San Jacinto County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48407",
+    "state_fips": "48",
+    "county_fips": "407",
+    "gnis_id": "1383989"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "407"
+}

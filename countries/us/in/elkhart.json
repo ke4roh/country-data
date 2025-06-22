@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Elkhart County"
+  },
+  "alternate_names": [
+    "Elkhart County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18039",
+    "state_fips": "18",
+    "county_fips": "039",
+    "gnis_id": "450348"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "039"
+}

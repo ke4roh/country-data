@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Jefferson County"
+  },
+  "alternate_names": [
+    "Jefferson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20087",
+    "state_fips": "20",
+    "county_fips": "087",
+    "gnis_id": "485008"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "087"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lincoln County"
+  },
+  "alternate_names": [
+    "Lincoln County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "35027",
+    "state_fips": "35",
+    "county_fips": "027",
+    "gnis_id": "929116"
+  },
+  "parent_id": "us/nm",
+  "admin_level": 2,
+  "local_code": "027"
+}

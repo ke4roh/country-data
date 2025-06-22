@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Accomack County"
+  },
+  "alternate_names": [
+    "Accomack County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51001",
+    "state_fips": "51",
+    "county_fips": "001",
+    "gnis_id": "1480091"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "001"
+}

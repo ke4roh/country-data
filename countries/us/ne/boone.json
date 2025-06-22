@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Boone County"
+  },
+  "alternate_names": [
+    "Boone County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31011",
+    "state_fips": "31",
+    "county_fips": "011",
+    "gnis_id": "835828"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "011"
+}

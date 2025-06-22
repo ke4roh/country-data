@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Rockwall County"
+  },
+  "alternate_names": [
+    "Rockwall County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48397",
+    "state_fips": "48",
+    "county_fips": "397",
+    "gnis_id": "1383984"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "397"
+}

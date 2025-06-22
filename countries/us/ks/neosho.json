@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Neosho County"
+  },
+  "alternate_names": [
+    "Neosho County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20133",
+    "state_fips": "20",
+    "county_fips": "133",
+    "gnis_id": "485030"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "133"
+}

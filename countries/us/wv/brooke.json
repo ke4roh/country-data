@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Brooke County"
+  },
+  "alternate_names": [
+    "Brooke County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "54009",
+    "state_fips": "54",
+    "county_fips": "009",
+    "gnis_id": "1558262"
+  },
+  "parent_id": "us/wv",
+  "admin_level": 2,
+  "local_code": "009"
+}

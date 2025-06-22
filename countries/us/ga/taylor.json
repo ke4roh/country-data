@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Taylor County"
+  },
+  "alternate_names": [
+    "Taylor County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13269",
+    "state_fips": "13",
+    "county_fips": "269",
+    "gnis_id": "344156"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "269"
+}

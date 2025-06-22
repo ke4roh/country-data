@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Moore County"
+  },
+  "alternate_names": [
+    "Moore County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48341",
+    "state_fips": "48",
+    "county_fips": "341",
+    "gnis_id": "1383956"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "341"
+}

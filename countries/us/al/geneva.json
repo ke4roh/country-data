@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Geneva County"
+  },
+  "alternate_names": [
+    "Geneva County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "01061",
+    "state_fips": "01",
+    "county_fips": "061",
+    "gnis_id": "161556"
+  },
+  "parent_id": "us/al",
+  "admin_level": 2,
+  "local_code": "061"
+}

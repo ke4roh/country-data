@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Stanton County"
+  },
+  "alternate_names": [
+    "Stanton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20187",
+    "state_fips": "20",
+    "county_fips": "187",
+    "gnis_id": "485055"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "187"
+}

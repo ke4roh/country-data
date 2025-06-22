@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Meade County"
+  },
+  "alternate_names": [
+    "Meade County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21163",
+    "state_fips": "21",
+    "county_fips": "163",
+    "gnis_id": "516928"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "163"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Aitkin County"
+  },
+  "alternate_names": [
+    "Aitkin County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27001",
+    "state_fips": "27",
+    "county_fips": "001",
+    "gnis_id": "663198"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "001"
+}

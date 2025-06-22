@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Ramsey County"
+  },
+  "alternate_names": [
+    "Ramsey County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27123",
+    "state_fips": "27",
+    "county_fips": "123",
+    "gnis_id": "659507"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "123"
+}

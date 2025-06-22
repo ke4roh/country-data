@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Klickitat County"
+  },
+  "alternate_names": [
+    "Klickitat County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "53039",
+    "state_fips": "53",
+    "county_fips": "039",
+    "gnis_id": "1529219"
+  },
+  "parent_id": "us/wa",
+  "admin_level": 2,
+  "local_code": "039"
+}

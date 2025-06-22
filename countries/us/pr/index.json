@@ -1,0 +1,15 @@
+{
+  "type": "territory",
+  "name": {
+    "en": "Puerto Rico"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72",
+    "gnis_id": "1779808"
+  },
+  "parent_id": "us",
+  "admin_level": 1
+}

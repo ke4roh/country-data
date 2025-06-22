@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Marshall County"
+  },
+  "alternate_names": [
+    "Marshall County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21157",
+    "state_fips": "21",
+    "county_fips": "157",
+    "gnis_id": "516922"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "157"
+}

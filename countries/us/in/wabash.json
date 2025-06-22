@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wabash County"
+  },
+  "alternate_names": [
+    "Wabash County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18169",
+    "state_fips": "18",
+    "county_fips": "169",
+    "gnis_id": "450399"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "169"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Blackford County"
+  },
+  "alternate_names": [
+    "Blackford County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18009",
+    "state_fips": "18",
+    "county_fips": "009",
+    "gnis_id": "450404"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "009"
+}

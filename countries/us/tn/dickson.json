@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Dickson County"
+  },
+  "alternate_names": [
+    "Dickson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47043",
+    "state_fips": "47",
+    "county_fips": "043",
+    "gnis_id": "1639740"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "043"
+}

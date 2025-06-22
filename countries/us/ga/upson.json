@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Upson County"
+  },
+  "alternate_names": [
+    "Upson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13293",
+    "state_fips": "13",
+    "county_fips": "293",
+    "gnis_id": "346759"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "293"
+}

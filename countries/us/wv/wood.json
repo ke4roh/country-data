@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wood County"
+  },
+  "alternate_names": [
+    "Wood County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "54107",
+    "state_fips": "54",
+    "county_fips": "107",
+    "gnis_id": "1560558"
+  },
+  "parent_id": "us/wv",
+  "admin_level": 2,
+  "local_code": "107"
+}

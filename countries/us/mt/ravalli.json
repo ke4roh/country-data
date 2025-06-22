@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Ravalli County"
+  },
+  "alternate_names": [
+    "Ravalli County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "30081",
+    "state_fips": "30",
+    "county_fips": "081",
+    "gnis_id": "1719582"
+  },
+  "parent_id": "us/mt",
+  "admin_level": 2,
+  "local_code": "081"
+}

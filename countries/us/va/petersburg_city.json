@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Petersburg (city) County"
+  },
+  "alternate_names": [
+    "City of Petersburg"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51730",
+    "state_fips": "51",
+    "county_fips": "730",
+    "gnis_id": "1498435"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "730"
+}

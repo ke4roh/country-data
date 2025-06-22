@@ -1,0 +1,20 @@
+{
+  "type": "district",
+  "name": {
+    "en": "Swains Island District"
+  },
+  "alternate_names": [
+    "Swains Island"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "60040",
+    "state_fips": "60",
+    "county_fips": "040",
+    "gnis_id": "1805244"
+  },
+  "parent_id": "us/as",
+  "admin_level": 2,
+  "local_code": "040"
+}

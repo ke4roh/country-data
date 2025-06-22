@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Redwood County"
+  },
+  "alternate_names": [
+    "Redwood County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27127",
+    "state_fips": "27",
+    "county_fips": "127",
+    "gnis_id": "659509"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "127"
+}

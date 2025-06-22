@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Livingston County"
+  },
+  "alternate_names": [
+    "Livingston County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21139",
+    "state_fips": "21",
+    "county_fips": "139",
+    "gnis_id": "516916"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "139"
+}

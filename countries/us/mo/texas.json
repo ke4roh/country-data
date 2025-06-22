@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Texas County"
+  },
+  "alternate_names": [
+    "Texas County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29215",
+    "state_fips": "29",
+    "county_fips": "215",
+    "gnis_id": "758560"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "215"
+}

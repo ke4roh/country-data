@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Morovis Municipio"
+  },
+  "alternate_names": [
+    "Morovis Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72101",
+    "state_fips": "72",
+    "county_fips": "101",
+    "gnis_id": "1804531"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "101"
+}

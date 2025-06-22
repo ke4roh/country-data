@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Carroll County"
+  },
+  "alternate_names": [
+    "Carroll County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39019",
+    "state_fips": "39",
+    "county_fips": "019",
+    "gnis_id": "1074022"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "019"
+}

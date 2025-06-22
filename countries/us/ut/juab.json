@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Juab County"
+  },
+  "alternate_names": [
+    "Juab County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "49023",
+    "state_fips": "49",
+    "county_fips": "023",
+    "gnis_id": "1455158"
+  },
+  "parent_id": "us/ut",
+  "admin_level": 2,
+  "local_code": "023"
+}

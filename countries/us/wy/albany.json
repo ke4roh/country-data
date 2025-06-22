@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Albany County"
+  },
+  "alternate_names": [
+    "Albany County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "56001",
+    "state_fips": "56",
+    "county_fips": "001",
+    "gnis_id": "1605066"
+  },
+  "parent_id": "us/wy",
+  "admin_level": 2,
+  "local_code": "001"
+}

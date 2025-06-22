@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Rio Arriba County"
+  },
+  "alternate_names": [
+    "Rio Arriba County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "35039",
+    "state_fips": "35",
+    "county_fips": "039",
+    "gnis_id": "1702368"
+  },
+  "parent_id": "us/nm",
+  "admin_level": 2,
+  "local_code": "039"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Anne Arundel County"
+  },
+  "alternate_names": [
+    "Anne Arundel County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "24003",
+    "state_fips": "24",
+    "county_fips": "003",
+    "gnis_id": "1710958"
+  },
+  "parent_id": "us/md",
+  "admin_level": 2,
+  "local_code": "003"
+}

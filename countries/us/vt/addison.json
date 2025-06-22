@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Addison County"
+  },
+  "alternate_names": [
+    "Addison County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "50001",
+    "state_fips": "50",
+    "county_fips": "001",
+    "gnis_id": "1461757"
+  },
+  "parent_id": "us/vt",
+  "admin_level": 2,
+  "local_code": "001"
+}

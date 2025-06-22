@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Jefferson County"
+  },
+  "alternate_names": [
+    "Jefferson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "41031",
+    "state_fips": "41",
+    "county_fips": "031",
+    "gnis_id": "1155132"
+  },
+  "parent_id": "us/or",
+  "admin_level": 2,
+  "local_code": "031"
+}

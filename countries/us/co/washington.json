@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Washington County"
+  },
+  "alternate_names": [
+    "Washington County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "08121",
+    "state_fips": "08",
+    "county_fips": "121",
+    "gnis_id": "198176"
+  },
+  "parent_id": "us/co",
+  "admin_level": 2,
+  "local_code": "121"
+}

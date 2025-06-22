@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Kent County"
+  },
+  "alternate_names": [
+    "Kent County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "44003",
+    "state_fips": "44",
+    "county_fips": "003",
+    "gnis_id": "1219778"
+  },
+  "parent_id": "us/ri",
+  "admin_level": 2,
+  "local_code": "003"
+}

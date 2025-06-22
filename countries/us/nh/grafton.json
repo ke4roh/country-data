@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Grafton County"
+  },
+  "alternate_names": [
+    "Grafton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "33009",
+    "state_fips": "33",
+    "county_fips": "009",
+    "gnis_id": "873178"
+  },
+  "parent_id": "us/nh",
+  "admin_level": 2,
+  "local_code": "009"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lauderdale County"
+  },
+  "alternate_names": [
+    "Lauderdale County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47097",
+    "state_fips": "47",
+    "county_fips": "097",
+    "gnis_id": "1639763"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "097"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Madison County"
+  },
+  "alternate_names": [
+    "Madison County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "30057",
+    "state_fips": "30",
+    "county_fips": "057",
+    "gnis_id": "1720033"
+  },
+  "parent_id": "us/mt",
+  "admin_level": 2,
+  "local_code": "057"
+}

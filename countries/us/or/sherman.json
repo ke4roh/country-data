@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Sherman County"
+  },
+  "alternate_names": [
+    "Sherman County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "41055",
+    "state_fips": "41",
+    "county_fips": "055",
+    "gnis_id": "1135863"
+  },
+  "parent_id": "us/or",
+  "admin_level": 2,
+  "local_code": "055"
+}

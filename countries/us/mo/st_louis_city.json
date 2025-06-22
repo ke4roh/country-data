@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "St. Louis (city) County"
+  },
+  "alternate_names": [
+    "City of Saint Louis"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29510",
+    "state_fips": "29",
+    "county_fips": "510",
+    "gnis_id": "767557"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "510"
+}

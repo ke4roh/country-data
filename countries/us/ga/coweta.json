@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Coweta County"
+  },
+  "alternate_names": [
+    "Coweta County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13077",
+    "state_fips": "13",
+    "county_fips": "077",
+    "gnis_id": "326666"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "077"
+}

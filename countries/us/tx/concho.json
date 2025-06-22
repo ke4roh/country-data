@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Concho County"
+  },
+  "alternate_names": [
+    "Concho County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48095",
+    "state_fips": "48",
+    "county_fips": "095",
+    "gnis_id": "1383833"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "095"
+}

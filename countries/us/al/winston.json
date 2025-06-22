@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Winston County"
+  },
+  "alternate_names": [
+    "Winston County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "01133",
+    "state_fips": "01",
+    "county_fips": "133",
+    "gnis_id": "161592"
+  },
+  "parent_id": "us/al",
+  "admin_level": 2,
+  "local_code": "133"
+}

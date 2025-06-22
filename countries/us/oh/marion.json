@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Marion County"
+  },
+  "alternate_names": [
+    "Marion County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39101",
+    "state_fips": "39",
+    "county_fips": "101",
+    "gnis_id": "1074063"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "101"
+}

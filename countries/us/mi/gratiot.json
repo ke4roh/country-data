@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Gratiot County"
+  },
+  "alternate_names": [
+    "Gratiot County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26057",
+    "state_fips": "26",
+    "county_fips": "057",
+    "gnis_id": "1622971"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "057"
+}

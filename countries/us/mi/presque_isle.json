@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Presque Isle County"
+  },
+  "alternate_names": [
+    "Presque Isle County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26141",
+    "state_fips": "26",
+    "county_fips": "141",
+    "gnis_id": "1623013"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "141"
+}

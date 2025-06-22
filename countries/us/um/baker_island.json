@@ -1,0 +1,20 @@
+{
+  "type": "area",
+  "name": {
+    "en": "Baker Island Area"
+  },
+  "alternate_names": [
+    "Baker Island"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "74050",
+    "state_fips": "74",
+    "county_fips": "050",
+    "gnis_id": "1802704"
+  },
+  "parent_id": "us/um",
+  "admin_level": 2,
+  "local_code": "050"
+}

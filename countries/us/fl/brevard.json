@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Brevard County"
+  },
+  "alternate_names": [
+    "Brevard County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12009",
+    "state_fips": "12",
+    "county_fips": "009",
+    "gnis_id": "295749"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "009"
+}

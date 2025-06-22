@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Ontonagon County"
+  },
+  "alternate_names": [
+    "Ontonagon County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26131",
+    "state_fips": "26",
+    "county_fips": "131",
+    "gnis_id": "1623008"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "131"
+}

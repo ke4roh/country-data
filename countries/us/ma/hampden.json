@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hampden County"
+  },
+  "alternate_names": [
+    "Hampden County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "25013",
+    "state_fips": "25",
+    "county_fips": "013",
+    "gnis_id": "606933"
+  },
+  "parent_id": "us/ma",
+  "admin_level": 2,
+  "local_code": "013"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Jones County"
+  },
+  "alternate_names": [
+    "Jones County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "19105",
+    "state_fips": "19",
+    "county_fips": "105",
+    "gnis_id": "465241"
+  },
+  "parent_id": "us/ia",
+  "admin_level": 2,
+  "local_code": "105"
+}

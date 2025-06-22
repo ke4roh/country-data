@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Louisa County"
+  },
+  "alternate_names": [
+    "Louisa County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "19115",
+    "state_fips": "19",
+    "county_fips": "115",
+    "gnis_id": "465246"
+  },
+  "parent_id": "us/ia",
+  "admin_level": 2,
+  "local_code": "115"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Cabarrus County"
+  },
+  "alternate_names": [
+    "Cabarrus County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37025",
+    "state_fips": "37",
+    "county_fips": "025",
+    "gnis_id": "1008540"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "025"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wilbarger County"
+  },
+  "alternate_names": [
+    "Wilbarger County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48487",
+    "state_fips": "48",
+    "county_fips": "487",
+    "gnis_id": "1384029"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "487"
+}

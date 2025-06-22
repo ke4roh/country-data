@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pulaski County"
+  },
+  "alternate_names": [
+    "Pulaski County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29169",
+    "state_fips": "29",
+    "county_fips": "169",
+    "gnis_id": "758539"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "169"
+}

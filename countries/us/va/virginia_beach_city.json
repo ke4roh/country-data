@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Virginia Beach (city) County"
+  },
+  "alternate_names": [
+    "City of Virginia Beach"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51810",
+    "state_fips": "51",
+    "county_fips": "810",
+    "gnis_id": "1498559"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "810"
+}

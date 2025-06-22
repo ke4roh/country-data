@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Rice County"
+  },
+  "alternate_names": [
+    "Rice County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27131",
+    "state_fips": "27",
+    "county_fips": "131",
+    "gnis_id": "659511"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "131"
+}

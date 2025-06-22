@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hood River County"
+  },
+  "alternate_names": [
+    "Hood River County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "41027",
+    "state_fips": "41",
+    "county_fips": "027",
+    "gnis_id": "1155131"
+  },
+  "parent_id": "us/or",
+  "admin_level": 2,
+  "local_code": "027"
+}

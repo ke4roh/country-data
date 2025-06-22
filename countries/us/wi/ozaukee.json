@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Ozaukee County"
+  },
+  "alternate_names": [
+    "Ozaukee County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55089",
+    "state_fips": "55",
+    "county_fips": "089",
+    "gnis_id": "1581105"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "089"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Grant County"
+  },
+  "alternate_names": [
+    "Grant County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55043",
+    "state_fips": "55",
+    "county_fips": "043",
+    "gnis_id": "1581081"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "043"
+}

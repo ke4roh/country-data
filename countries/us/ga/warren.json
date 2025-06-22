@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Warren County"
+  },
+  "alternate_names": [
+    "Warren County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13301",
+    "state_fips": "13",
+    "county_fips": "301",
+    "gnis_id": "347777"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "301"
+}

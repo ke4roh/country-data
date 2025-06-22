@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Cherokee County"
+  },
+  "alternate_names": [
+    "Cherokee County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13057",
+    "state_fips": "13",
+    "county_fips": "057",
+    "gnis_id": "1685718"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "057"
+}

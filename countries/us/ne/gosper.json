@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Gosper County"
+  },
+  "alternate_names": [
+    "Gosper County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31073",
+    "state_fips": "31",
+    "county_fips": "073",
+    "gnis_id": "835858"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "073"
+}

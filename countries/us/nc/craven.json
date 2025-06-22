@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Craven County"
+  },
+  "alternate_names": [
+    "Craven County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37049",
+    "state_fips": "37",
+    "county_fips": "049",
+    "gnis_id": "1026123"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "049"
+}

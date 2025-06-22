@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Northwest Arctic Borough"
+  },
+  "alternate_names": [
+    "Northwest Arctic Borough"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02188",
+    "state_fips": "02",
+    "county_fips": "188",
+    "gnis_id": "1419979"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "188"
+}

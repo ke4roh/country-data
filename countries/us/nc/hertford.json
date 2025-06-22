@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hertford County"
+  },
+  "alternate_names": [
+    "Hertford County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37091",
+    "state_fips": "37",
+    "county_fips": "091",
+    "gnis_id": "1026127"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "091"
+}

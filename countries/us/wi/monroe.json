@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Monroe County"
+  },
+  "alternate_names": [
+    "Monroe County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55081",
+    "state_fips": "55",
+    "county_fips": "081",
+    "gnis_id": "1581101"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "081"
+}

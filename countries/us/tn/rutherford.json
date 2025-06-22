@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Rutherford County"
+  },
+  "alternate_names": [
+    "Rutherford County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47149",
+    "state_fips": "47",
+    "county_fips": "149",
+    "gnis_id": "1639787"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "149"
+}

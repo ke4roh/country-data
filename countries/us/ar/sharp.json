@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Sharp County"
+  },
+  "alternate_names": [
+    "Sharp County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05135",
+    "state_fips": "05",
+    "county_fips": "135",
+    "gnis_id": "69183"
+  },
+  "parent_id": "us/ar",
+  "admin_level": 2,
+  "local_code": "135"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Franklin County"
+  },
+  "alternate_names": [
+    "Franklin County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36033",
+    "state_fips": "36",
+    "county_fips": "033",
+    "gnis_id": "974115"
+  },
+  "parent_id": "us/ny",
+  "admin_level": 2,
+  "local_code": "033"
+}

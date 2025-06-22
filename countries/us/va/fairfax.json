@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Fairfax County"
+  },
+  "alternate_names": [
+    "Fairfax County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51059",
+    "state_fips": "51",
+    "county_fips": "059",
+    "gnis_id": "1480119"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "059"
+}

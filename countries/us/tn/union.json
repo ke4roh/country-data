@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Union County"
+  },
+  "alternate_names": [
+    "Union County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47173",
+    "state_fips": "47",
+    "county_fips": "173",
+    "gnis_id": "1648583"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "173"
+}

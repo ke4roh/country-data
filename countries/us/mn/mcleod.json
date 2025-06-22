@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "McLeod County"
+  },
+  "alternate_names": [
+    "McLeod County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27085",
+    "state_fips": "27",
+    "county_fips": "085",
+    "gnis_id": "659491"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "085"
+}

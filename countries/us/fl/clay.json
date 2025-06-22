@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Clay County"
+  },
+  "alternate_names": [
+    "Clay County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12019",
+    "state_fips": "12",
+    "county_fips": "019",
+    "gnis_id": "295726"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "019"
+}

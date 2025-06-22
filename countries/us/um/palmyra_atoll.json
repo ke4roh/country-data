@@ -1,0 +1,20 @@
+{
+  "type": "area",
+  "name": {
+    "en": "Palmyra Atoll Area"
+  },
+  "alternate_names": [
+    "Palmyra Atoll"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "74400",
+    "state_fips": "74",
+    "county_fips": "400",
+    "gnis_id": "1802709"
+  },
+  "parent_id": "us/um",
+  "admin_level": 2,
+  "local_code": "400"
+}

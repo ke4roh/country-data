@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Duchesne County"
+  },
+  "alternate_names": [
+    "Duchesne County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "49013",
+    "state_fips": "49",
+    "county_fips": "013",
+    "gnis_id": "1448021"
+  },
+  "parent_id": "us/ut",
+  "admin_level": 2,
+  "local_code": "013"
+}

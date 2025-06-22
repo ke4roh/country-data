@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Cayey Municipio"
+  },
+  "alternate_names": [
+    "Cayey Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72035",
+    "state_fips": "72",
+    "county_fips": "035",
+    "gnis_id": "1804497"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "035"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Tehama County"
+  },
+  "alternate_names": [
+    "Tehama County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "06103",
+    "state_fips": "06",
+    "county_fips": "103",
+    "gnis_id": "1692767"
+  },
+  "parent_id": "us/ca",
+  "admin_level": 2,
+  "local_code": "103"
+}

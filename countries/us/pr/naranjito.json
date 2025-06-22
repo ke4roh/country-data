@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Naranjito Municipio"
+  },
+  "alternate_names": [
+    "Naranjito Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72105",
+    "state_fips": "72",
+    "county_fips": "105",
+    "gnis_id": "1804533"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "105"
+}

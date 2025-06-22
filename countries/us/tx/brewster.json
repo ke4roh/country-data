@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Brewster County"
+  },
+  "alternate_names": [
+    "Brewster County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48043",
+    "state_fips": "48",
+    "county_fips": "043",
+    "gnis_id": "1383807"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "043"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Darlington County"
+  },
+  "alternate_names": [
+    "Darlington County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "45031",
+    "state_fips": "45",
+    "county_fips": "031",
+    "gnis_id": "1247992"
+  },
+  "parent_id": "us/sc",
+  "admin_level": 2,
+  "local_code": "031"
+}

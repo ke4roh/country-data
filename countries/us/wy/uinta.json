@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Uinta County"
+  },
+  "alternate_names": [
+    "Uinta County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "56041",
+    "state_fips": "56",
+    "county_fips": "041",
+    "gnis_id": "1605084"
+  },
+  "parent_id": "us/wy",
+  "admin_level": 2,
+  "local_code": "041"
+}

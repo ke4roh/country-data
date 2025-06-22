@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Washakie County"
+  },
+  "alternate_names": [
+    "Washakie County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "56043",
+    "state_fips": "56",
+    "county_fips": "043",
+    "gnis_id": "1605085"
+  },
+  "parent_id": "us/wy",
+  "admin_level": 2,
+  "local_code": "043"
+}

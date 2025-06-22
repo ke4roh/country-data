@@ -1,0 +1,15 @@
+{
+  "type": "state",
+  "name": {
+    "en": "Florida"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12",
+    "gnis_id": "294478"
+  },
+  "parent_id": "us",
+  "admin_level": 1
+}

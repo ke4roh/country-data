@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Christian County"
+  },
+  "alternate_names": [
+    "Christian County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29043",
+    "state_fips": "29",
+    "county_fips": "043",
+    "gnis_id": "758476"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "043"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Garland County"
+  },
+  "alternate_names": [
+    "Garland County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05051",
+    "state_fips": "05",
+    "county_fips": "051",
+    "gnis_id": "66855"
+  },
+  "parent_id": "us/ar",
+  "admin_level": 2,
+  "local_code": "051"
+}

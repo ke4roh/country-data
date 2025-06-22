@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Gwinnett County"
+  },
+  "alternate_names": [
+    "Gwinnett County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13135",
+    "state_fips": "13",
+    "county_fips": "135",
+    "gnis_id": "1688166"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "135"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Rockingham County"
+  },
+  "alternate_names": [
+    "Rockingham County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51165",
+    "state_fips": "51",
+    "county_fips": "165",
+    "gnis_id": "1488970"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "165"
+}

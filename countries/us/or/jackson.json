@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Jackson County"
+  },
+  "alternate_names": [
+    "Jackson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "41029",
+    "state_fips": "41",
+    "county_fips": "029",
+    "gnis_id": "1135853"
+  },
+  "parent_id": "us/or",
+  "admin_level": 2,
+  "local_code": "029"
+}

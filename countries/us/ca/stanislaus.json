@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Stanislaus County"
+  },
+  "alternate_names": [
+    "Stanislaus County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "06099",
+    "state_fips": "06",
+    "county_fips": "099",
+    "gnis_id": "277314"
+  },
+  "parent_id": "us/ca",
+  "admin_level": 2,
+  "local_code": "099"
+}

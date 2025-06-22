@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Randolph County"
+  },
+  "alternate_names": [
+    "Randolph County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13243",
+    "state_fips": "13",
+    "county_fips": "243",
+    "gnis_id": "352242"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "243"
+}

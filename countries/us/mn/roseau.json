@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Roseau County"
+  },
+  "alternate_names": [
+    "Roseau County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27135",
+    "state_fips": "27",
+    "county_fips": "135",
+    "gnis_id": "659513"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "135"
+}

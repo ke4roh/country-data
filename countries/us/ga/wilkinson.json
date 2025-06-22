@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wilkinson County"
+  },
+  "alternate_names": [
+    "Wilkinson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13319",
+    "state_fips": "13",
+    "county_fips": "319",
+    "gnis_id": "346824"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "319"
+}

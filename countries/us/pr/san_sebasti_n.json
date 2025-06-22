@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "San Sebastián Municipio"
+  },
+  "alternate_names": [
+    "San Sebastián Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72131",
+    "state_fips": "72",
+    "county_fips": "131",
+    "gnis_id": "1804546"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "131"
+}

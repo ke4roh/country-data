@@ -1,0 +1,20 @@
+{
+  "type": "parish",
+  "name": {
+    "en": "Ouachita Parish"
+  },
+  "alternate_names": [
+    "Ouachita Parish"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "22073",
+    "state_fips": "22",
+    "county_fips": "073",
+    "gnis_id": "558114"
+  },
+  "parent_id": "us/la",
+  "admin_level": 2,
+  "local_code": "073"
+}

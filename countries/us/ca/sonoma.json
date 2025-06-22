@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Sonoma County"
+  },
+  "alternate_names": [
+    "Sonoma County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "06097",
+    "state_fips": "06",
+    "county_fips": "097",
+    "gnis_id": "1657246"
+  },
+  "parent_id": "us/ca",
+  "admin_level": 2,
+  "local_code": "097"
+}

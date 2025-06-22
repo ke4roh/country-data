@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Woodson County"
+  },
+  "alternate_names": [
+    "Woodson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20207",
+    "state_fips": "20",
+    "county_fips": "207",
+    "gnis_id": "485064"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "207"
+}

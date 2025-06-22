@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Bartholomew County"
+  },
+  "alternate_names": [
+    "Bartholomew County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18005",
+    "state_fips": "18",
+    "county_fips": "005",
+    "gnis_id": "451683"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "005"
+}

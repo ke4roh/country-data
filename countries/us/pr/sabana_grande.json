@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Sabana Grande Municipio"
+  },
+  "alternate_names": [
+    "Sabana Grande Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72121",
+    "state_fips": "72",
+    "county_fips": "121",
+    "gnis_id": "1804541"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "121"
+}

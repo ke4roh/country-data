@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Crawford County"
+  },
+  "alternate_names": [
+    "Crawford County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18025",
+    "state_fips": "18",
+    "county_fips": "025",
+    "gnis_id": "451674"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "025"
+}

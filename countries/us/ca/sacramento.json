@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Sacramento County"
+  },
+  "alternate_names": [
+    "Sacramento County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "06067",
+    "state_fips": "06",
+    "county_fips": "067",
+    "gnis_id": "277298"
+  },
+  "parent_id": "us/ca",
+  "admin_level": 2,
+  "local_code": "067"
+}

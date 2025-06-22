@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Jerauld County"
+  },
+  "alternate_names": [
+    "Jerauld County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46073",
+    "state_fips": "46",
+    "county_fips": "073",
+    "gnis_id": "1265778"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "073"
+}

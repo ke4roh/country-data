@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Mitchell County"
+  },
+  "alternate_names": [
+    "Mitchell County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37121",
+    "state_fips": "37",
+    "county_fips": "121",
+    "gnis_id": "1008571"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "121"
+}

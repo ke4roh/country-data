@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Darke County"
+  },
+  "alternate_names": [
+    "Darke County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39037",
+    "state_fips": "39",
+    "county_fips": "037",
+    "gnis_id": "1074031"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "037"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Northampton County"
+  },
+  "alternate_names": [
+    "Northampton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37131",
+    "state_fips": "37",
+    "county_fips": "131",
+    "gnis_id": "1008575"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "131"
+}

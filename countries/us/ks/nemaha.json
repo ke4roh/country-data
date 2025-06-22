@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Nemaha County"
+  },
+  "alternate_names": [
+    "Nemaha County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20131",
+    "state_fips": "20",
+    "county_fips": "131",
+    "gnis_id": "485029"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "131"
+}

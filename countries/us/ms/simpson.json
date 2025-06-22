@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Simpson County"
+  },
+  "alternate_names": [
+    "Simpson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28127",
+    "state_fips": "28",
+    "county_fips": "127",
+    "gnis_id": "695784"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "127"
+}

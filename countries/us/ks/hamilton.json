@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hamilton County"
+  },
+  "alternate_names": [
+    "Hamilton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20075",
+    "state_fips": "20",
+    "county_fips": "075",
+    "gnis_id": "485327"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "075"
+}

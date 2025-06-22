@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Southampton County"
+  },
+  "alternate_names": [
+    "Southampton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51175",
+    "state_fips": "51",
+    "county_fips": "175",
+    "gnis_id": "1480171"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "175"
+}

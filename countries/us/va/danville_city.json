@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Danville (city) County"
+  },
+  "alternate_names": [
+    "City of Danville"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51590",
+    "state_fips": "51",
+    "county_fips": "590",
+    "gnis_id": "1498421"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "590"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Posey County"
+  },
+  "alternate_names": [
+    "Posey County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18129",
+    "state_fips": "18",
+    "county_fips": "129",
+    "gnis_id": "450383"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "129"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Montgomery County"
+  },
+  "alternate_names": [
+    "Montgomery County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39113",
+    "state_fips": "39",
+    "county_fips": "113",
+    "gnis_id": "1074069"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "113"
+}

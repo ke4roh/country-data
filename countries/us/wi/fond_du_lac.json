@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Fond du Lac County"
+  },
+  "alternate_names": [
+    "Fond du Lac County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55039",
+    "state_fips": "55",
+    "county_fips": "039",
+    "gnis_id": "1581079"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "039"
+}

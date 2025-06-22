@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pembina County"
+  },
+  "alternate_names": [
+    "Pembina County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38067",
+    "state_fips": "38",
+    "county_fips": "067",
+    "gnis_id": "1034212"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "067"
+}

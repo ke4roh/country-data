@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lorain County"
+  },
+  "alternate_names": [
+    "Lorain County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39093",
+    "state_fips": "39",
+    "county_fips": "093",
+    "gnis_id": "1074059"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "093"
+}

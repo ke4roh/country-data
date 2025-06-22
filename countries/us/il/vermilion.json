@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Vermilion County"
+  },
+  "alternate_names": [
+    "Vermilion County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17183",
+    "state_fips": "17",
+    "county_fips": "183",
+    "gnis_id": "1785114"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "183"
+}

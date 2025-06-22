@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Harlan County"
+  },
+  "alternate_names": [
+    "Harlan County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21095",
+    "state_fips": "21",
+    "county_fips": "095",
+    "gnis_id": "516894"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "095"
+}

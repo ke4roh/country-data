@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Osage County"
+  },
+  "alternate_names": [
+    "Osage County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29151",
+    "state_fips": "29",
+    "county_fips": "151",
+    "gnis_id": "758530"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "151"
+}

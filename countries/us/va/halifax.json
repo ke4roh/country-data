@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Halifax County"
+  },
+  "alternate_names": [
+    "Halifax County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51083",
+    "state_fips": "51",
+    "county_fips": "083",
+    "gnis_id": "1496705"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "083"
+}

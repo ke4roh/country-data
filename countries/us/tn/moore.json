@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Moore County"
+  },
+  "alternate_names": [
+    "Moore County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47127",
+    "state_fips": "47",
+    "county_fips": "127",
+    "gnis_id": "1648579"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "127"
+}

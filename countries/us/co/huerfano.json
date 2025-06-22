@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Huerfano County"
+  },
+  "alternate_names": [
+    "Huerfano County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "08055",
+    "state_fips": "08",
+    "county_fips": "055",
+    "gnis_id": "198143"
+  },
+  "parent_id": "us/co",
+  "admin_level": 2,
+  "local_code": "055"
+}

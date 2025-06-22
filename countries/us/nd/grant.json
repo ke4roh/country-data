@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Grant County"
+  },
+  "alternate_names": [
+    "Grant County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38037",
+    "state_fips": "38",
+    "county_fips": "037",
+    "gnis_id": "1035300"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "037"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Long County"
+  },
+  "alternate_names": [
+    "Long County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13183",
+    "state_fips": "13",
+    "county_fips": "183",
+    "gnis_id": "326719"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "183"
+}

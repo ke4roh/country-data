@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Suwannee County"
+  },
+  "alternate_names": [
+    "Suwannee County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12121",
+    "state_fips": "12",
+    "county_fips": "121",
+    "gnis_id": "295729"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "121"
+}

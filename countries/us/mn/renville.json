@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Renville County"
+  },
+  "alternate_names": [
+    "Renville County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27129",
+    "state_fips": "27",
+    "county_fips": "129",
+    "gnis_id": "659510"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "129"
+}

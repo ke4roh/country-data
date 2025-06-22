@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pontotoc County"
+  },
+  "alternate_names": [
+    "Pontotoc County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28115",
+    "state_fips": "28",
+    "county_fips": "115",
+    "gnis_id": "695803"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "115"
+}

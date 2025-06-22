@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Knox County"
+  },
+  "alternate_names": [
+    "Knox County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31107",
+    "state_fips": "31",
+    "county_fips": "107",
+    "gnis_id": "835875"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "107"
+}

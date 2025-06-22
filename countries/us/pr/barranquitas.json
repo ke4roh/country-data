@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Barranquitas Municipio"
+  },
+  "alternate_names": [
+    "Barranquitas Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72019",
+    "state_fips": "72",
+    "county_fips": "019",
+    "gnis_id": "1804489"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "019"
+}

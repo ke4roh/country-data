@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Morgan County"
+  },
+  "alternate_names": [
+    "Morgan County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39115",
+    "state_fips": "39",
+    "county_fips": "115",
+    "gnis_id": "1074070"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "115"
+}

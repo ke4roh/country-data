@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Van Buren County"
+  },
+  "alternate_names": [
+    "Van Buren County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05141",
+    "state_fips": "05",
+    "county_fips": "141",
+    "gnis_id": "69904"
+  },
+  "parent_id": "us/ar",
+  "admin_level": 2,
+  "local_code": "141"
+}

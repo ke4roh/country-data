@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Iron County"
+  },
+  "alternate_names": [
+    "Iron County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29093",
+    "state_fips": "29",
+    "county_fips": "093",
+    "gnis_id": "758501"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "093"
+}

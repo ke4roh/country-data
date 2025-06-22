@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Garza County"
+  },
+  "alternate_names": [
+    "Garza County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48169",
+    "state_fips": "48",
+    "county_fips": "169",
+    "gnis_id": "1383870"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "169"
+}

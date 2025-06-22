@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Cidra Municipio"
+  },
+  "alternate_names": [
+    "Cidra Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72041",
+    "state_fips": "72",
+    "county_fips": "041",
+    "gnis_id": "1804500"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "041"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Stafford County"
+  },
+  "alternate_names": [
+    "Stafford County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51179",
+    "state_fips": "51",
+    "county_fips": "179",
+    "gnis_id": "1480173"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "179"
+}

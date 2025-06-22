@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Ciales Municipio"
+  },
+  "alternate_names": [
+    "Ciales Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72039",
+    "state_fips": "72",
+    "county_fips": "039",
+    "gnis_id": "1804499"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "039"
+}

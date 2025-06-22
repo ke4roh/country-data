@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Sanpete County"
+  },
+  "alternate_names": [
+    "Sanpete County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "49039",
+    "state_fips": "49",
+    "county_fips": "039",
+    "gnis_id": "1448033"
+  },
+  "parent_id": "us/ut",
+  "admin_level": 2,
+  "local_code": "039"
+}

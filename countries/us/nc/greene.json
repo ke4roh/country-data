@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Greene County"
+  },
+  "alternate_names": [
+    "Greene County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37079",
+    "state_fips": "37",
+    "county_fips": "079",
+    "gnis_id": "1008557"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "079"
+}

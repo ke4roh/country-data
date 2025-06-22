@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pocahontas County"
+  },
+  "alternate_names": [
+    "Pocahontas County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "19151",
+    "state_fips": "19",
+    "county_fips": "151",
+    "gnis_id": "465264"
+  },
+  "parent_id": "us/ia",
+  "admin_level": 2,
+  "local_code": "151"
+}

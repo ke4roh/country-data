@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Genesee County"
+  },
+  "alternate_names": [
+    "Genesee County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26049",
+    "state_fips": "26",
+    "county_fips": "049",
+    "gnis_id": "1622967"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "049"
+}

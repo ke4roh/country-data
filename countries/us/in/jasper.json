@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Jasper County"
+  },
+  "alternate_names": [
+    "Jasper County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18073",
+    "state_fips": "18",
+    "county_fips": "073",
+    "gnis_id": "450494"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "073"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Washington County"
+  },
+  "alternate_names": [
+    "Washington County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05143",
+    "state_fips": "05",
+    "county_fips": "143",
+    "gnis_id": "69905"
+  },
+  "parent_id": "us/ar",
+  "admin_level": 2,
+  "local_code": "143"
+}

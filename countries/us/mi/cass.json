@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Cass County"
+  },
+  "alternate_names": [
+    "Cass County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26027",
+    "state_fips": "26",
+    "county_fips": "027",
+    "gnis_id": "1622956"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "027"
+}

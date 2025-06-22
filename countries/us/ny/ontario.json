@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Ontario County"
+  },
+  "alternate_names": [
+    "Ontario County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36069",
+    "state_fips": "36",
+    "county_fips": "069",
+    "gnis_id": "974133"
+  },
+  "parent_id": "us/ny",
+  "admin_level": 2,
+  "local_code": "069"
+}

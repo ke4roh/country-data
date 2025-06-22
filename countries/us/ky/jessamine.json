@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Jessamine County"
+  },
+  "alternate_names": [
+    "Jessamine County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21113",
+    "state_fips": "21",
+    "county_fips": "113",
+    "gnis_id": "516903"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "113"
+}

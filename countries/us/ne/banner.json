@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Banner County"
+  },
+  "alternate_names": [
+    "Banner County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31007",
+    "state_fips": "31",
+    "county_fips": "007",
+    "gnis_id": "835826"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "007"
+}

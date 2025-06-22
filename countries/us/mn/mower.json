@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Mower County"
+  },
+  "alternate_names": [
+    "Mower County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27099",
+    "state_fips": "27",
+    "county_fips": "099",
+    "gnis_id": "659495"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "099"
+}

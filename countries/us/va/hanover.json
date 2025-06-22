@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hanover County"
+  },
+  "alternate_names": [
+    "Hanover County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51085",
+    "state_fips": "51",
+    "county_fips": "085",
+    "gnis_id": "1480132"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "085"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Williamsburg (city) County"
+  },
+  "alternate_names": [
+    "City of Williamsburg"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51830",
+    "state_fips": "51",
+    "county_fips": "830",
+    "gnis_id": "1789076"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "830"
+}

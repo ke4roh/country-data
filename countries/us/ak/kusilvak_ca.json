@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Kusilvak (CA) Borough"
+  },
+  "alternate_names": [
+    "Kusilvak Census Area"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02158",
+    "state_fips": "02",
+    "county_fips": "158",
+    "gnis_id": "1419985"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "158"
+}

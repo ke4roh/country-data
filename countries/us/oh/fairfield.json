@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Fairfield County"
+  },
+  "alternate_names": [
+    "Fairfield County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39045",
+    "state_fips": "39",
+    "county_fips": "045",
+    "gnis_id": "1074035"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "045"
+}

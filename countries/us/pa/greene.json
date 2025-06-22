@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Greene County"
+  },
+  "alternate_names": [
+    "Greene County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "42059",
+    "state_fips": "42",
+    "county_fips": "059",
+    "gnis_id": "1214033"
+  },
+  "parent_id": "us/pa",
+  "admin_level": 2,
+  "local_code": "059"
+}

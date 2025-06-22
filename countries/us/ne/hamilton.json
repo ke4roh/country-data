@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hamilton County"
+  },
+  "alternate_names": [
+    "Hamilton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31081",
+    "state_fips": "31",
+    "county_fips": "081",
+    "gnis_id": "835862"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "081"
+}

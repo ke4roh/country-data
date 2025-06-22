@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Butte County"
+  },
+  "alternate_names": [
+    "Butte County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "16023",
+    "state_fips": "16",
+    "county_fips": "023",
+    "gnis_id": "401703"
+  },
+  "parent_id": "us/id",
+  "admin_level": 2,
+  "local_code": "023"
+}

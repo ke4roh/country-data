@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Eaton County"
+  },
+  "alternate_names": [
+    "Eaton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26045",
+    "state_fips": "26",
+    "county_fips": "045",
+    "gnis_id": "1622965"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "045"
+}

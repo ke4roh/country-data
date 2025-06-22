@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Schuylkill County"
+  },
+  "alternate_names": [
+    "Schuylkill County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "42107",
+    "state_fips": "42",
+    "county_fips": "107",
+    "gnis_id": "1213685"
+  },
+  "parent_id": "us/pa",
+  "admin_level": 2,
+  "local_code": "107"
+}

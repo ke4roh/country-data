@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Stark County"
+  },
+  "alternate_names": [
+    "Stark County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39151",
+    "state_fips": "39",
+    "county_fips": "151",
+    "gnis_id": "1065576"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "151"
+}

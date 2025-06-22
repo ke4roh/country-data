@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hancock County"
+  },
+  "alternate_names": [
+    "Hancock County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28045",
+    "state_fips": "28",
+    "county_fips": "045",
+    "gnis_id": "711756"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "045"
+}

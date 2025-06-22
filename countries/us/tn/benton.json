@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Benton County"
+  },
+  "alternate_names": [
+    "Benton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47005",
+    "state_fips": "47",
+    "county_fips": "005",
+    "gnis_id": "1639724"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "005"
+}

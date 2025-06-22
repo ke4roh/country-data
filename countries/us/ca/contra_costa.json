@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Contra Costa County"
+  },
+  "alternate_names": [
+    "Contra Costa County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "06013",
+    "state_fips": "06",
+    "county_fips": "013",
+    "gnis_id": "1675903"
+  },
+  "parent_id": "us/ca",
+  "admin_level": 2,
+  "local_code": "013"
+}

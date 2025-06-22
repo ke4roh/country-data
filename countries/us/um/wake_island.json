@@ -1,0 +1,20 @@
+{
+  "type": "area",
+  "name": {
+    "en": "Wake Island Area"
+  },
+  "alternate_names": [
+    "Wake Island"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "74450",
+    "state_fips": "74",
+    "county_fips": "450",
+    "gnis_id": "1802700"
+  },
+  "parent_id": "us/um",
+  "admin_level": 2,
+  "local_code": "450"
+}

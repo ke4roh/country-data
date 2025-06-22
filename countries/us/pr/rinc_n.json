@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Rincón Municipio"
+  },
+  "alternate_names": [
+    "Rincón Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72117",
+    "state_fips": "72",
+    "county_fips": "117",
+    "gnis_id": "1804539"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "117"
+}

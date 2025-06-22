@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Richmond (city) County"
+  },
+  "alternate_names": [
+    "City of Richmond"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51760",
+    "state_fips": "51",
+    "county_fips": "760",
+    "gnis_id": "1789073"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "760"
+}

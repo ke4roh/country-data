@@ -1,0 +1,20 @@
+{
+  "type": "area",
+  "name": {
+    "en": "Navassa Island Area"
+  },
+  "alternate_names": [
+    "Navassa Island"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "74350",
+    "state_fips": "74",
+    "county_fips": "350",
+    "gnis_id": "1393098"
+  },
+  "parent_id": "us/um",
+  "admin_level": 2,
+  "local_code": "350"
+}

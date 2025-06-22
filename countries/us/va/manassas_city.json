@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Manassas (city) County"
+  },
+  "alternate_names": [
+    "City of Manassas"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51683",
+    "state_fips": "51",
+    "county_fips": "683",
+    "gnis_id": "1498430"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "683"
+}

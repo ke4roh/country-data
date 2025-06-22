@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "King and Queen County"
+  },
+  "alternate_names": [
+    "King and Queen County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51097",
+    "state_fips": "51",
+    "county_fips": "097",
+    "gnis_id": "1480136"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "097"
+}

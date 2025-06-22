@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Yell County"
+  },
+  "alternate_names": [
+    "Yell County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05149",
+    "state_fips": "05",
+    "county_fips": "149",
+    "gnis_id": "69908"
+  },
+  "parent_id": "us/ar",
+  "admin_level": 2,
+  "local_code": "149"
+}

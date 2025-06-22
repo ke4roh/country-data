@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Sauk County"
+  },
+  "alternate_names": [
+    "Sauk County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55111",
+    "state_fips": "55",
+    "county_fips": "111",
+    "gnis_id": "1581115"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "111"
+}

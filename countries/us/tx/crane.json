@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Crane County"
+  },
+  "alternate_names": [
+    "Crane County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48103",
+    "state_fips": "48",
+    "county_fips": "103",
+    "gnis_id": "1383837"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "103"
+}

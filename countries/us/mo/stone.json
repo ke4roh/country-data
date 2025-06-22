@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Stone County"
+  },
+  "alternate_names": [
+    "Stone County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29209",
+    "state_fips": "29",
+    "county_fips": "209",
+    "gnis_id": "758557"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "209"
+}

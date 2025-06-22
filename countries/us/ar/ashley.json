@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Ashley County"
+  },
+  "alternate_names": [
+    "Ashley County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05003",
+    "state_fips": "05",
+    "county_fips": "003",
+    "gnis_id": "63756"
+  },
+  "parent_id": "us/ar",
+  "admin_level": 2,
+  "local_code": "003"
+}

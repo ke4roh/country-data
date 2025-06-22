@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Heard County"
+  },
+  "alternate_names": [
+    "Heard County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13149",
+    "state_fips": "13",
+    "county_fips": "149",
+    "gnis_id": "347067"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "149"
+}

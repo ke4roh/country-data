@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Trego County"
+  },
+  "alternate_names": [
+    "Trego County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20195",
+    "state_fips": "20",
+    "county_fips": "195",
+    "gnis_id": "485058"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "195"
+}

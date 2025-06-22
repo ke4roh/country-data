@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Herkimer County"
+  },
+  "alternate_names": [
+    "Herkimer County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36043",
+    "state_fips": "36",
+    "county_fips": "043",
+    "gnis_id": "974120"
+  },
+  "parent_id": "us/ny",
+  "admin_level": 2,
+  "local_code": "043"
+}

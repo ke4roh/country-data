@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lake County"
+  },
+  "alternate_names": [
+    "Lake County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26085",
+    "state_fips": "26",
+    "county_fips": "085",
+    "gnis_id": "1622985"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "085"
+}

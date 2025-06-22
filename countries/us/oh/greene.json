@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Greene County"
+  },
+  "alternate_names": [
+    "Greene County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39057",
+    "state_fips": "39",
+    "county_fips": "057",
+    "gnis_id": "1074041"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "057"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Greenlee County"
+  },
+  "alternate_names": [
+    "Greenlee County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "04011",
+    "state_fips": "04",
+    "county_fips": "011",
+    "gnis_id": "42807"
+  },
+  "parent_id": "us/az",
+  "admin_level": 2,
+  "local_code": "011"
+}

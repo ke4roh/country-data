@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Adams County"
+  },
+  "alternate_names": [
+    "Adams County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38001",
+    "state_fips": "38",
+    "county_fips": "001",
+    "gnis_id": "1034210"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "001"
+}

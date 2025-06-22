@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Jasper County"
+  },
+  "alternate_names": [
+    "Jasper County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13159",
+    "state_fips": "13",
+    "county_fips": "159",
+    "gnis_id": "346144"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "159"
+}

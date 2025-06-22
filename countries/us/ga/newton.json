@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Newton County"
+  },
+  "alternate_names": [
+    "Newton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13217",
+    "state_fips": "13",
+    "county_fips": "217",
+    "gnis_id": "1673547"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "217"
+}

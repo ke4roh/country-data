@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Jefferson County"
+  },
+  "alternate_names": [
+    "Jefferson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29099",
+    "state_fips": "29",
+    "county_fips": "099",
+    "gnis_id": "758504"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "099"
+}

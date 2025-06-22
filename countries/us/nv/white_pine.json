@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "White Pine County"
+  },
+  "alternate_names": [
+    "White Pine County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "32033",
+    "state_fips": "32",
+    "county_fips": "033",
+    "gnis_id": "858615"
+  },
+  "parent_id": "us/nv",
+  "admin_level": 2,
+  "local_code": "033"
+}

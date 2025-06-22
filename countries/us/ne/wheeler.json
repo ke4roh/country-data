@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wheeler County"
+  },
+  "alternate_names": [
+    "Wheeler County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31183",
+    "state_fips": "31",
+    "county_fips": "183",
+    "gnis_id": "835913"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "183"
+}

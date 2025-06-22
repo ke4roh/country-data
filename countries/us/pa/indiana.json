@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Indiana County"
+  },
+  "alternate_names": [
+    "Indiana County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "42063",
+    "state_fips": "42",
+    "county_fips": "063",
+    "gnis_id": "1213673"
+  },
+  "parent_id": "us/pa",
+  "admin_level": 2,
+  "local_code": "063"
+}

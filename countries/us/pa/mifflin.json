@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Mifflin County"
+  },
+  "alternate_names": [
+    "Mifflin County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "42087",
+    "state_fips": "42",
+    "county_fips": "087",
+    "gnis_id": "1213679"
+  },
+  "parent_id": "us/pa",
+  "admin_level": 2,
+  "local_code": "087"
+}

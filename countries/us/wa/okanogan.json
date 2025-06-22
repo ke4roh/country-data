@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Okanogan County"
+  },
+  "alternate_names": [
+    "Okanogan County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "53047",
+    "state_fips": "53",
+    "county_fips": "047",
+    "gnis_id": "1531928"
+  },
+  "parent_id": "us/wa",
+  "admin_level": 2,
+  "local_code": "047"
+}

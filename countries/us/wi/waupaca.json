@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Waupaca County"
+  },
+  "alternate_names": [
+    "Waupaca County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55135",
+    "state_fips": "55",
+    "county_fips": "135",
+    "gnis_id": "1581127"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "135"
+}

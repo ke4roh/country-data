@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Fayette County"
+  },
+  "alternate_names": [
+    "Fayette County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17051",
+    "state_fips": "17",
+    "county_fips": "051",
+    "gnis_id": "424227"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "051"
+}

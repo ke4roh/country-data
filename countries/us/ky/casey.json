@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Casey County"
+  },
+  "alternate_names": [
+    "Casey County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21045",
+    "state_fips": "21",
+    "county_fips": "045",
+    "gnis_id": "516869"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "045"
+}

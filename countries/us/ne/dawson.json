@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Dawson County"
+  },
+  "alternate_names": [
+    "Dawson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31047",
+    "state_fips": "31",
+    "county_fips": "047",
+    "gnis_id": "835845"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "047"
+}

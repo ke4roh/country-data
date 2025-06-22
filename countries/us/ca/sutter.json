@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Sutter County"
+  },
+  "alternate_names": [
+    "Sutter County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "06101",
+    "state_fips": "06",
+    "county_fips": "101",
+    "gnis_id": "277315"
+  },
+  "parent_id": "us/ca",
+  "admin_level": 2,
+  "local_code": "101"
+}

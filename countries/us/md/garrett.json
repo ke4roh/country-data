@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Garrett County"
+  },
+  "alternate_names": [
+    "Garrett County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "24023",
+    "state_fips": "24",
+    "county_fips": "023",
+    "gnis_id": "1711058"
+  },
+  "parent_id": "us/md",
+  "admin_level": 2,
+  "local_code": "023"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Coos County"
+  },
+  "alternate_names": [
+    "Coos County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "41011",
+    "state_fips": "41",
+    "county_fips": "011",
+    "gnis_id": "1135848"
+  },
+  "parent_id": "us/or",
+  "admin_level": 2,
+  "local_code": "011"
+}

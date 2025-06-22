@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Luquillo Municipio"
+  },
+  "alternate_names": [
+    "Luquillo Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72089",
+    "state_fips": "72",
+    "county_fips": "089",
+    "gnis_id": "1804525"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "089"
+}

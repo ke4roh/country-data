@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Butler County"
+  },
+  "alternate_names": [
+    "Butler County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21031",
+    "state_fips": "21",
+    "county_fips": "031",
+    "gnis_id": "516862"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "031"
+}

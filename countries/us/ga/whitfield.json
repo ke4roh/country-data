@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Whitfield County"
+  },
+  "alternate_names": [
+    "Whitfield County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13313",
+    "state_fips": "13",
+    "county_fips": "313",
+    "gnis_id": "353513"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "313"
+}

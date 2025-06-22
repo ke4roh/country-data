@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "La Plata County"
+  },
+  "alternate_names": [
+    "La Plata County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "08067",
+    "state_fips": "08",
+    "county_fips": "067",
+    "gnis_id": "198148"
+  },
+  "parent_id": "us/co",
+  "admin_level": 2,
+  "local_code": "067"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Gem County"
+  },
+  "alternate_names": [
+    "Gem County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "16045",
+    "state_fips": "16",
+    "county_fips": "045",
+    "gnis_id": "395442"
+  },
+  "parent_id": "us/id",
+  "admin_level": 2,
+  "local_code": "045"
+}

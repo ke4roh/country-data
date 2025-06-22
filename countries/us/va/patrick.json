@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Patrick County"
+  },
+  "alternate_names": [
+    "Patrick County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51141",
+    "state_fips": "51",
+    "county_fips": "141",
+    "gnis_id": "1497999"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "141"
+}

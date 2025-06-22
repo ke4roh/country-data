@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Ouachita County"
+  },
+  "alternate_names": [
+    "Ouachita County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05103",
+    "state_fips": "05",
+    "county_fips": "103",
+    "gnis_id": "69170"
+  },
+  "parent_id": "us/ar",
+  "admin_level": 2,
+  "local_code": "103"
+}

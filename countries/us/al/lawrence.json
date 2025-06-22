@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lawrence County"
+  },
+  "alternate_names": [
+    "Lawrence County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "01079",
+    "state_fips": "01",
+    "county_fips": "079",
+    "gnis_id": "161565"
+  },
+  "parent_id": "us/al",
+  "admin_level": 2,
+  "local_code": "079"
+}

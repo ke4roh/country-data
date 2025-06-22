@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Belmont County"
+  },
+  "alternate_names": [
+    "Belmont County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39013",
+    "state_fips": "39",
+    "county_fips": "013",
+    "gnis_id": "1065575"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "013"
+}

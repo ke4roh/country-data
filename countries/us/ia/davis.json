@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Davis County"
+  },
+  "alternate_names": [
+    "Davis County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "19051",
+    "state_fips": "19",
+    "county_fips": "051",
+    "gnis_id": "465214"
+  },
+  "parent_id": "us/ia",
+  "admin_level": 2,
+  "local_code": "051"
+}

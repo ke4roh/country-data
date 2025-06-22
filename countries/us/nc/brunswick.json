@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Brunswick County"
+  },
+  "alternate_names": [
+    "Brunswick County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37019",
+    "state_fips": "37",
+    "county_fips": "019",
+    "gnis_id": "1026340"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "019"
+}

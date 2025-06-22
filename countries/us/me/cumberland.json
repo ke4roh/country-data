@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Cumberland County"
+  },
+  "alternate_names": [
+    "Cumberland County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "23005",
+    "state_fips": "23",
+    "county_fips": "005",
+    "gnis_id": "581288"
+  },
+  "parent_id": "us/me",
+  "admin_level": 2,
+  "local_code": "005"
+}

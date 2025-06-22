@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Koochiching County"
+  },
+  "alternate_names": [
+    "Koochiching County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27071",
+    "state_fips": "27",
+    "county_fips": "071",
+    "gnis_id": "659481"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "071"
+}

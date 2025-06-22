@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Adams County"
+  },
+  "alternate_names": [
+    "Adams County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "08001",
+    "state_fips": "08",
+    "county_fips": "001",
+    "gnis_id": "198116"
+  },
+  "parent_id": "us/co",
+  "admin_level": 2,
+  "local_code": "001"
+}

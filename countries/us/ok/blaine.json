@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Blaine County"
+  },
+  "alternate_names": [
+    "Blaine County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "40011",
+    "state_fips": "40",
+    "county_fips": "011",
+    "gnis_id": "1101793"
+  },
+  "parent_id": "us/ok",
+  "admin_level": 2,
+  "local_code": "011"
+}

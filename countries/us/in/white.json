@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "White County"
+  },
+  "alternate_names": [
+    "White County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18181",
+    "state_fips": "18",
+    "county_fips": "181",
+    "gnis_id": "450338"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "181"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "La Paz County"
+  },
+  "alternate_names": [
+    "La Paz County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "04012",
+    "state_fips": "04",
+    "county_fips": "012",
+    "gnis_id": "43540"
+  },
+  "parent_id": "us/az",
+  "admin_level": 2,
+  "local_code": "012"
+}

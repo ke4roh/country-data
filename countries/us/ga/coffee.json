@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Coffee County"
+  },
+  "alternate_names": [
+    "Coffee County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13069",
+    "state_fips": "13",
+    "county_fips": "069",
+    "gnis_id": "347456"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "069"
+}

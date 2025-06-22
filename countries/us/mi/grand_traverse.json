@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Grand Traverse County"
+  },
+  "alternate_names": [
+    "Grand Traverse County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26055",
+    "state_fips": "26",
+    "county_fips": "055",
+    "gnis_id": "1622970"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "055"
+}

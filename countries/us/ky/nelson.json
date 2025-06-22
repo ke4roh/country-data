@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Nelson County"
+  },
+  "alternate_names": [
+    "Nelson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21179",
+    "state_fips": "21",
+    "county_fips": "179",
+    "gnis_id": "516936"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "179"
+}

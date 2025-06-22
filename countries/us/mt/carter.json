@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Carter County"
+  },
+  "alternate_names": [
+    "Carter County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "30011",
+    "state_fips": "30",
+    "county_fips": "011",
+    "gnis_id": "1688746"
+  },
+  "parent_id": "us/mt",
+  "admin_level": 2,
+  "local_code": "011"
+}

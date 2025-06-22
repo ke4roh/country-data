@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Archuleta County"
+  },
+  "alternate_names": [
+    "Archuleta County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "08007",
+    "state_fips": "08",
+    "county_fips": "007",
+    "gnis_id": "198119"
+  },
+  "parent_id": "us/co",
+  "admin_level": 2,
+  "local_code": "007"
+}

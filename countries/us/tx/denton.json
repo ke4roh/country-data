@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Denton County"
+  },
+  "alternate_names": [
+    "Denton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48121",
+    "state_fips": "48",
+    "county_fips": "121",
+    "gnis_id": "1383847"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "121"
+}

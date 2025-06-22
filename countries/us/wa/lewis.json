@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lewis County"
+  },
+  "alternate_names": [
+    "Lewis County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "53041",
+    "state_fips": "53",
+    "county_fips": "041",
+    "gnis_id": "1531927"
+  },
+  "parent_id": "us/wa",
+  "admin_level": 2,
+  "local_code": "041"
+}

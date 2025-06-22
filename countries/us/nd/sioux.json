@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Sioux County"
+  },
+  "alternate_names": [
+    "Sioux County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38085",
+    "state_fips": "38",
+    "county_fips": "085",
+    "gnis_id": "1034208"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "085"
+}

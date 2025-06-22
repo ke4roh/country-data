@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Cabo Rojo Municipio"
+  },
+  "alternate_names": [
+    "Cabo Rojo Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72023",
+    "state_fips": "72",
+    "county_fips": "023",
+    "gnis_id": "1804491"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "023"
+}

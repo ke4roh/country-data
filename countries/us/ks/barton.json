@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Barton County"
+  },
+  "alternate_names": [
+    "Barton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20009",
+    "state_fips": "20",
+    "county_fips": "009",
+    "gnis_id": "484974"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "009"
+}

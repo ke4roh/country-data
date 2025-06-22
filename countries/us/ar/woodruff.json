@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Woodruff County"
+  },
+  "alternate_names": [
+    "Woodruff County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05147",
+    "state_fips": "05",
+    "county_fips": "147",
+    "gnis_id": "69907"
+  },
+  "parent_id": "us/ar",
+  "admin_level": 2,
+  "local_code": "147"
+}

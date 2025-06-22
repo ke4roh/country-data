@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Clarke County"
+  },
+  "alternate_names": [
+    "Clarke County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13059",
+    "state_fips": "13",
+    "county_fips": "059",
+    "gnis_id": "1672699"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "059"
+}

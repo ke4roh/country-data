@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pipestone County"
+  },
+  "alternate_names": [
+    "Pipestone County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27117",
+    "state_fips": "27",
+    "county_fips": "117",
+    "gnis_id": "659504"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "117"
+}

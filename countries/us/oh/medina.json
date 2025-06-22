@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Medina County"
+  },
+  "alternate_names": [
+    "Medina County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39103",
+    "state_fips": "39",
+    "county_fips": "103",
+    "gnis_id": "1074064"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "103"
+}

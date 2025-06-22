@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Greater Bridgeport County"
+  },
+  "alternate_names": [
+    "Greater Bridgeport Planning Region"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "09120",
+    "state_fips": "09",
+    "county_fips": "120",
+    "gnis_id": "2830245"
+  },
+  "parent_id": "us/ct",
+  "admin_level": 2,
+  "local_code": "120"
+}

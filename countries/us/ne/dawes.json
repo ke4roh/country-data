@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Dawes County"
+  },
+  "alternate_names": [
+    "Dawes County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31045",
+    "state_fips": "31",
+    "county_fips": "045",
+    "gnis_id": "835844"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "045"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Guánica Municipio"
+  },
+  "alternate_names": [
+    "Guánica Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72055",
+    "state_fips": "72",
+    "county_fips": "055",
+    "gnis_id": "1804508"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "055"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "parish",
+  "name": {
+    "en": "East Carroll Parish"
+  },
+  "alternate_names": [
+    "East Carroll Parish"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "22035",
+    "state_fips": "22",
+    "county_fips": "035",
+    "gnis_id": "558534"
+  },
+  "parent_id": "us/la",
+  "admin_level": 2,
+  "local_code": "035"
+}

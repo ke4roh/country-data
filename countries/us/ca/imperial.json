@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Imperial County"
+  },
+  "alternate_names": [
+    "Imperial County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "06025",
+    "state_fips": "06",
+    "county_fips": "025",
+    "gnis_id": "277277"
+  },
+  "parent_id": "us/ca",
+  "admin_level": 2,
+  "local_code": "025"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Carbon County"
+  },
+  "alternate_names": [
+    "Carbon County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "56007",
+    "state_fips": "56",
+    "county_fips": "007",
+    "gnis_id": "1605069"
+  },
+  "parent_id": "us/wy",
+  "admin_level": 2,
+  "local_code": "007"
+}

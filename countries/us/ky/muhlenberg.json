@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Muhlenberg County"
+  },
+  "alternate_names": [
+    "Muhlenberg County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21177",
+    "state_fips": "21",
+    "county_fips": "177",
+    "gnis_id": "516935"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "177"
+}

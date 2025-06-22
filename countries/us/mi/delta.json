@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Delta County"
+  },
+  "alternate_names": [
+    "Delta County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26041",
+    "state_fips": "26",
+    "county_fips": "041",
+    "gnis_id": "1622963"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "041"
+}

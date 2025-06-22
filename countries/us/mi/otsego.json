@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Otsego County"
+  },
+  "alternate_names": [
+    "Otsego County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26137",
+    "state_fips": "26",
+    "county_fips": "137",
+    "gnis_id": "1623011"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "137"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wright County"
+  },
+  "alternate_names": [
+    "Wright County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27171",
+    "state_fips": "27",
+    "county_fips": "171",
+    "gnis_id": "659530"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "171"
+}

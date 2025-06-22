@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Champaign County"
+  },
+  "alternate_names": [
+    "Champaign County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17019",
+    "state_fips": "17",
+    "county_fips": "019",
+    "gnis_id": "424211"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "019"
+}

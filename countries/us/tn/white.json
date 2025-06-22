@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "White County"
+  },
+  "alternate_names": [
+    "White County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47185",
+    "state_fips": "47",
+    "county_fips": "185",
+    "gnis_id": "1639800"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "185"
+}

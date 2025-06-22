@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Moultrie County"
+  },
+  "alternate_names": [
+    "Moultrie County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17139",
+    "state_fips": "17",
+    "county_fips": "139",
+    "gnis_id": "1784885"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "139"
+}

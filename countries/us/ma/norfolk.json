@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Norfolk County"
+  },
+  "alternate_names": [
+    "Norfolk County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "25021",
+    "state_fips": "25",
+    "county_fips": "021",
+    "gnis_id": "606937"
+  },
+  "parent_id": "us/ma",
+  "admin_level": 2,
+  "local_code": "021"
+}

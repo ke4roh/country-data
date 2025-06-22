@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hutchinson County"
+  },
+  "alternate_names": [
+    "Hutchinson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48233",
+    "state_fips": "48",
+    "county_fips": "233",
+    "gnis_id": "1383902"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "233"
+}

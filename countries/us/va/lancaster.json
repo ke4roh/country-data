@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lancaster County"
+  },
+  "alternate_names": [
+    "Lancaster County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51103",
+    "state_fips": "51",
+    "county_fips": "103",
+    "gnis_id": "1480139"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "103"
+}

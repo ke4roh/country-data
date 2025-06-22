@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Douglas County"
+  },
+  "alternate_names": [
+    "Douglas County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17041",
+    "state_fips": "17",
+    "county_fips": "041",
+    "gnis_id": "424222"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "041"
+}

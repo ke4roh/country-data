@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Davison County"
+  },
+  "alternate_names": [
+    "Davison County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46035",
+    "state_fips": "46",
+    "county_fips": "035",
+    "gnis_id": "1266980"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "035"
+}

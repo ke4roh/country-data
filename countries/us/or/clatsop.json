@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Clatsop County"
+  },
+  "alternate_names": [
+    "Clatsop County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "41007",
+    "state_fips": "41",
+    "county_fips": "007",
+    "gnis_id": "1135846"
+  },
+  "parent_id": "us/or",
+  "admin_level": 2,
+  "local_code": "007"
+}

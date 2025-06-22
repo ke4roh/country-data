@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lewis County"
+  },
+  "alternate_names": [
+    "Lewis County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21135",
+    "state_fips": "21",
+    "county_fips": "135",
+    "gnis_id": "516914"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "135"
+}

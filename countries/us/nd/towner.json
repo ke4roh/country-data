@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Towner County"
+  },
+  "alternate_names": [
+    "Towner County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38095",
+    "state_fips": "38",
+    "county_fips": "095",
+    "gnis_id": "1034213"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "095"
+}

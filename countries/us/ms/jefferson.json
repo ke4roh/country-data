@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Jefferson County"
+  },
+  "alternate_names": [
+    "Jefferson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28063",
+    "state_fips": "28",
+    "county_fips": "063",
+    "gnis_id": "695755"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "063"
+}

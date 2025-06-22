@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Mercer County"
+  },
+  "alternate_names": [
+    "Mercer County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "42085",
+    "state_fips": "42",
+    "county_fips": "085",
+    "gnis_id": "1213678"
+  },
+  "parent_id": "us/pa",
+  "admin_level": 2,
+  "local_code": "085"
+}

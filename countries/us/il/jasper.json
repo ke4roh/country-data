@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Jasper County"
+  },
+  "alternate_names": [
+    "Jasper County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17079",
+    "state_fips": "17",
+    "county_fips": "079",
+    "gnis_id": "424241"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "079"
+}

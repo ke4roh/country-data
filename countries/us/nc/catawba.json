@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Catawba County"
+  },
+  "alternate_names": [
+    "Catawba County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37035",
+    "state_fips": "37",
+    "county_fips": "035",
+    "gnis_id": "1008543"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "035"
+}

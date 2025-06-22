@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Silver Bow County"
+  },
+  "alternate_names": [
+    "Silver Bow County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "30093",
+    "state_fips": "30",
+    "county_fips": "093",
+    "gnis_id": "1719575"
+  },
+  "parent_id": "us/mt",
+  "admin_level": 2,
+  "local_code": "093"
+}

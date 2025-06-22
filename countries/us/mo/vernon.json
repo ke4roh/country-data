@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Vernon County"
+  },
+  "alternate_names": [
+    "Vernon County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29217",
+    "state_fips": "29",
+    "county_fips": "217",
+    "gnis_id": "758561"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "217"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Outagamie County"
+  },
+  "alternate_names": [
+    "Outagamie County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55087",
+    "state_fips": "55",
+    "county_fips": "087",
+    "gnis_id": "1581104"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "087"
+}

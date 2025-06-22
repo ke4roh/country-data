@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Nassau County"
+  },
+  "alternate_names": [
+    "Nassau County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12089",
+    "state_fips": "12",
+    "county_fips": "089",
+    "gnis_id": "295730"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "089"
+}

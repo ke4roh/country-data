@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Martin County"
+  },
+  "alternate_names": [
+    "Martin County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18101",
+    "state_fips": "18",
+    "county_fips": "101",
+    "gnis_id": "451679"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "101"
+}

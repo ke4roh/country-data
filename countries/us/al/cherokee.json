@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Cherokee County"
+  },
+  "alternate_names": [
+    "Cherokee County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "01019",
+    "state_fips": "01",
+    "county_fips": "019",
+    "gnis_id": "161535"
+  },
+  "parent_id": "us/al",
+  "admin_level": 2,
+  "local_code": "019"
+}

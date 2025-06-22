@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Terrell County"
+  },
+  "alternate_names": [
+    "Terrell County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48443",
+    "state_fips": "48",
+    "county_fips": "443",
+    "gnis_id": "1384007"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "443"
+}

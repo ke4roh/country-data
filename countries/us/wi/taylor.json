@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Taylor County"
+  },
+  "alternate_names": [
+    "Taylor County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55119",
+    "state_fips": "55",
+    "county_fips": "119",
+    "gnis_id": "1581119"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "119"
+}

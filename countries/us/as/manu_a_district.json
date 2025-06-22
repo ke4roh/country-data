@@ -1,0 +1,20 @@
+{
+  "type": "district",
+  "name": {
+    "en": "Manu‘a District District"
+  },
+  "alternate_names": [
+    "Manuʻa District"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "60020",
+    "state_fips": "60",
+    "county_fips": "020",
+    "gnis_id": "1805242"
+  },
+  "parent_id": "us/as",
+  "admin_level": 2,
+  "local_code": "020"
+}

@@ -1,0 +1,15 @@
+{
+  "type": "state",
+  "name": {
+    "en": "Georgia"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13",
+    "gnis_id": "1705317"
+  },
+  "parent_id": "us",
+  "admin_level": 1
+}

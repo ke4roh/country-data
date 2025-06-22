@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Chugach Borough"
+  },
+  "alternate_names": [
+    "Chugach Census Area"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02063",
+    "state_fips": "02",
+    "county_fips": "063",
+    "gnis_id": "2804400"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "063"
+}

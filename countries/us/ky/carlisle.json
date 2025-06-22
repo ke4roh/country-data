@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Carlisle County"
+  },
+  "alternate_names": [
+    "Carlisle County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21039",
+    "state_fips": "21",
+    "county_fips": "039",
+    "gnis_id": "516866"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "039"
+}

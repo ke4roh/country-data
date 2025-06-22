@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Menominee County"
+  },
+  "alternate_names": [
+    "Menominee County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26109",
+    "state_fips": "26",
+    "county_fips": "109",
+    "gnis_id": "1622997"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "109"
+}

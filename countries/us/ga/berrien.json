@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Berrien County"
+  },
+  "alternate_names": [
+    "Berrien County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13019",
+    "state_fips": "13",
+    "county_fips": "019",
+    "gnis_id": "326638"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "019"
+}

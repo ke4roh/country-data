@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Ford County"
+  },
+  "alternate_names": [
+    "Ford County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20057",
+    "state_fips": "20",
+    "county_fips": "057",
+    "gnis_id": "484997"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "057"
+}

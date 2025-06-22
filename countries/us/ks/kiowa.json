@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Kiowa County"
+  },
+  "alternate_names": [
+    "Kiowa County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20097",
+    "state_fips": "20",
+    "county_fips": "097",
+    "gnis_id": "485013"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "097"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Audubon County"
+  },
+  "alternate_names": [
+    "Audubon County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "19009",
+    "state_fips": "19",
+    "county_fips": "009",
+    "gnis_id": "465194"
+  },
+  "parent_id": "us/ia",
+  "admin_level": 2,
+  "local_code": "009"
+}

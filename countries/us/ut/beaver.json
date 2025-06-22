@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Beaver County"
+  },
+  "alternate_names": [
+    "Beaver County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "49001",
+    "state_fips": "49",
+    "county_fips": "001",
+    "gnis_id": "1448015"
+  },
+  "parent_id": "us/ut",
+  "admin_level": 2,
+  "local_code": "001"
+}

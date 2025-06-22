@@ -1,0 +1,20 @@
+{
+  "type": "area",
+  "name": {
+    "en": "Kingman Reef Area"
+  },
+  "alternate_names": [
+    "Kingman Reef"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "74250",
+    "state_fips": "74",
+    "county_fips": "250",
+    "gnis_id": "1802708"
+  },
+  "parent_id": "us/um",
+  "admin_level": 2,
+  "local_code": "250"
+}

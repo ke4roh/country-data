@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Gilmer County"
+  },
+  "alternate_names": [
+    "Gilmer County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "54021",
+    "state_fips": "54",
+    "county_fips": "021",
+    "gnis_id": "1689673"
+  },
+  "parent_id": "us/wv",
+  "admin_level": 2,
+  "local_code": "021"
+}

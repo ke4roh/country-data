@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Cuming County"
+  },
+  "alternate_names": [
+    "Cuming County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31039",
+    "state_fips": "31",
+    "county_fips": "039",
+    "gnis_id": "835841"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "039"
+}

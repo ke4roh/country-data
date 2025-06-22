@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wells County"
+  },
+  "alternate_names": [
+    "Wells County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18179",
+    "state_fips": "18",
+    "county_fips": "179",
+    "gnis_id": "450337"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "179"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Luna County"
+  },
+  "alternate_names": [
+    "Luna County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "35029",
+    "state_fips": "35",
+    "county_fips": "029",
+    "gnis_id": "933057"
+  },
+  "parent_id": "us/nm",
+  "admin_level": 2,
+  "local_code": "029"
+}

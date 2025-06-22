@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Bowman County"
+  },
+  "alternate_names": [
+    "Bowman County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38011",
+    "state_fips": "38",
+    "county_fips": "011",
+    "gnis_id": "1035619"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "011"
+}

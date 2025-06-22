@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Henderson County"
+  },
+  "alternate_names": [
+    "Henderson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47077",
+    "state_fips": "47",
+    "county_fips": "077",
+    "gnis_id": "1639754"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "077"
+}

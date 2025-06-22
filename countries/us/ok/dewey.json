@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Dewey County"
+  },
+  "alternate_names": [
+    "Dewey County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "40043",
+    "state_fips": "40",
+    "county_fips": "043",
+    "gnis_id": "1101809"
+  },
+  "parent_id": "us/ok",
+  "admin_level": 2,
+  "local_code": "043"
+}

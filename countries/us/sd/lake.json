@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lake County"
+  },
+  "alternate_names": [
+    "Lake County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46079",
+    "state_fips": "46",
+    "county_fips": "079",
+    "gnis_id": "1265776"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "079"
+}

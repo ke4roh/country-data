@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Emporia (city) County"
+  },
+  "alternate_names": [
+    "City of Emporia"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51595",
+    "state_fips": "51",
+    "county_fips": "595",
+    "gnis_id": "1498422"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "595"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Faulk County"
+  },
+  "alternate_names": [
+    "Faulk County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46049",
+    "state_fips": "46",
+    "county_fips": "049",
+    "gnis_id": "1265760"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "049"
+}

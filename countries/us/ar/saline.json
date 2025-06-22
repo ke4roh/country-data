@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Saline County"
+  },
+  "alternate_names": [
+    "Saline County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05125",
+    "state_fips": "05",
+    "county_fips": "125",
+    "gnis_id": "67102"
+  },
+  "parent_id": "us/ar",
+  "admin_level": 2,
+  "local_code": "125"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Watonwan County"
+  },
+  "alternate_names": [
+    "Watonwan County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27165",
+    "state_fips": "27",
+    "county_fips": "165",
+    "gnis_id": "659527"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "165"
+}

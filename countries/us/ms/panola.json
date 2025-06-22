@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Panola County"
+  },
+  "alternate_names": [
+    "Panola County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28107",
+    "state_fips": "28",
+    "county_fips": "107",
+    "gnis_id": "695776"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "107"
+}

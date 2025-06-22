@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Colfax County"
+  },
+  "alternate_names": [
+    "Colfax County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "35007",
+    "state_fips": "35",
+    "county_fips": "007",
+    "gnis_id": "929117"
+  },
+  "parent_id": "us/nm",
+  "admin_level": 2,
+  "local_code": "007"
+}

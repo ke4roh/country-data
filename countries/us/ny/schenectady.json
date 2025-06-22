@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Schenectady County"
+  },
+  "alternate_names": [
+    "Schenectady County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36093",
+    "state_fips": "36",
+    "county_fips": "093",
+    "gnis_id": "974144"
+  },
+  "parent_id": "us/ny",
+  "admin_level": 2,
+  "local_code": "093"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Roscommon County"
+  },
+  "alternate_names": [
+    "Roscommon County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26143",
+    "state_fips": "26",
+    "county_fips": "143",
+    "gnis_id": "1623014"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "143"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Morrill County"
+  },
+  "alternate_names": [
+    "Morrill County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31123",
+    "state_fips": "31",
+    "county_fips": "123",
+    "gnis_id": "835883"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "123"
+}

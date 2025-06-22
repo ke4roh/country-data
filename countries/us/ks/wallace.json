@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wallace County"
+  },
+  "alternate_names": [
+    "Wallace County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20199",
+    "state_fips": "20",
+    "county_fips": "199",
+    "gnis_id": "485060"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "199"
+}

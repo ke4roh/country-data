@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Haralson County"
+  },
+  "alternate_names": [
+    "Haralson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13143",
+    "state_fips": "13",
+    "county_fips": "143",
+    "gnis_id": "350637"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "143"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Knox County"
+  },
+  "alternate_names": [
+    "Knox County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "23013",
+    "state_fips": "23",
+    "county_fips": "013",
+    "gnis_id": "581292"
+  },
+  "parent_id": "us/me",
+  "admin_level": 2,
+  "local_code": "013"
+}

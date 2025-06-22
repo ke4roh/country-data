@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "DeKalb County"
+  },
+  "alternate_names": [
+    "DeKalb County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17037",
+    "state_fips": "17",
+    "county_fips": "037",
+    "gnis_id": "422190"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "037"
+}

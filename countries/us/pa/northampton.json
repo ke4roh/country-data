@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Northampton County"
+  },
+  "alternate_names": [
+    "Northampton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "42095",
+    "state_fips": "42",
+    "county_fips": "095",
+    "gnis_id": "1209185"
+  },
+  "parent_id": "us/pa",
+  "admin_level": 2,
+  "local_code": "095"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Austin County"
+  },
+  "alternate_names": [
+    "Austin County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48015",
+    "state_fips": "48",
+    "county_fips": "015",
+    "gnis_id": "1383793"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "015"
+}

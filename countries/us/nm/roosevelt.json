@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Roosevelt County"
+  },
+  "alternate_names": [
+    "Roosevelt County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "35041",
+    "state_fips": "35",
+    "county_fips": "041",
+    "gnis_id": "1702369"
+  },
+  "parent_id": "us/nm",
+  "admin_level": 2,
+  "local_code": "041"
+}

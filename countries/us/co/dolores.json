@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Dolores County"
+  },
+  "alternate_names": [
+    "Dolores County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "08033",
+    "state_fips": "08",
+    "county_fips": "033",
+    "gnis_id": "198132"
+  },
+  "parent_id": "us/co",
+  "admin_level": 2,
+  "local_code": "033"
+}

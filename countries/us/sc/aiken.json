@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Aiken County"
+  },
+  "alternate_names": [
+    "Aiken County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "45003",
+    "state_fips": "45",
+    "county_fips": "003",
+    "gnis_id": "1247979"
+  },
+  "parent_id": "us/sc",
+  "admin_level": 2,
+  "local_code": "003"
+}

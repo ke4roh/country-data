@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Winston County"
+  },
+  "alternate_names": [
+    "Winston County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28159",
+    "state_fips": "28",
+    "county_fips": "159",
+    "gnis_id": "695800"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "159"
+}

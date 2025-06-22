@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wallowa County"
+  },
+  "alternate_names": [
+    "Wallowa County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "41063",
+    "state_fips": "41",
+    "county_fips": "063",
+    "gnis_id": "1155135"
+  },
+  "parent_id": "us/or",
+  "admin_level": 2,
+  "local_code": "063"
+}

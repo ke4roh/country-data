@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Drew County"
+  },
+  "alternate_names": [
+    "Drew County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05043",
+    "state_fips": "05",
+    "county_fips": "043",
+    "gnis_id": "66851"
+  },
+  "parent_id": "us/ar",
+  "admin_level": 2,
+  "local_code": "043"
+}

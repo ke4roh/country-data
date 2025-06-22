@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Macoupin County"
+  },
+  "alternate_names": [
+    "Macoupin County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17117",
+    "state_fips": "17",
+    "county_fips": "117",
+    "gnis_id": "424257"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "117"
+}

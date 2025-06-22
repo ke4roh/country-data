@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Barren County"
+  },
+  "alternate_names": [
+    "Barren County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21009",
+    "state_fips": "21",
+    "county_fips": "009",
+    "gnis_id": "516851"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "009"
+}

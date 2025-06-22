@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Quay County"
+  },
+  "alternate_names": [
+    "Quay County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "35037",
+    "state_fips": "35",
+    "county_fips": "037",
+    "gnis_id": "929110"
+  },
+  "parent_id": "us/nm",
+  "admin_level": 2,
+  "local_code": "037"
+}

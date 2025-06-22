@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Nuckolls County"
+  },
+  "alternate_names": [
+    "Nuckolls County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31129",
+    "state_fips": "31",
+    "county_fips": "129",
+    "gnis_id": "835886"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "129"
+}

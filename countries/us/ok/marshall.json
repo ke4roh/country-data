@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Marshall County"
+  },
+  "alternate_names": [
+    "Marshall County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "40095",
+    "state_fips": "40",
+    "county_fips": "095",
+    "gnis_id": "1101832"
+  },
+  "parent_id": "us/ok",
+  "admin_level": 2,
+  "local_code": "095"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Teller County"
+  },
+  "alternate_names": [
+    "Teller County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "08119",
+    "state_fips": "08",
+    "county_fips": "119",
+    "gnis_id": "198175"
+  },
+  "parent_id": "us/co",
+  "admin_level": 2,
+  "local_code": "119"
+}

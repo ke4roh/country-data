@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hillsborough County"
+  },
+  "alternate_names": [
+    "Hillsborough County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "33011",
+    "state_fips": "33",
+    "county_fips": "011",
+    "gnis_id": "873179"
+  },
+  "parent_id": "us/nh",
+  "admin_level": 2,
+  "local_code": "011"
+}

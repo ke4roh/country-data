@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Charlottesville (city) County"
+  },
+  "alternate_names": [
+    "City of Charlottesville"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51540",
+    "state_fips": "51",
+    "county_fips": "540",
+    "gnis_id": "1789068"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "540"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Douglas County"
+  },
+  "alternate_names": [
+    "Douglas County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27041",
+    "state_fips": "27",
+    "county_fips": "041",
+    "gnis_id": "659466"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "041"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Fayette County"
+  },
+  "alternate_names": [
+    "Fayette County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "19065",
+    "state_fips": "19",
+    "county_fips": "065",
+    "gnis_id": "465221"
+  },
+  "parent_id": "us/ia",
+  "admin_level": 2,
+  "local_code": "065"
+}

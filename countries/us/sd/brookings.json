@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Brookings County"
+  },
+  "alternate_names": [
+    "Brookings County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46011",
+    "state_fips": "46",
+    "county_fips": "011",
+    "gnis_id": "1265779"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "011"
+}

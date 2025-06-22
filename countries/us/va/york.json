@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "York County"
+  },
+  "alternate_names": [
+    "York County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51199",
+    "state_fips": "51",
+    "county_fips": "199",
+    "gnis_id": "1480182"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "199"
+}

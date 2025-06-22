@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Bayfield County"
+  },
+  "alternate_names": [
+    "Bayfield County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55007",
+    "state_fips": "55",
+    "county_fips": "007",
+    "gnis_id": "1581063"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "007"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Meigs County"
+  },
+  "alternate_names": [
+    "Meigs County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39105",
+    "state_fips": "39",
+    "county_fips": "105",
+    "gnis_id": "1074065"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "105"
+}

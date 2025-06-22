@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Haywood County"
+  },
+  "alternate_names": [
+    "Haywood County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37087",
+    "state_fips": "37",
+    "county_fips": "087",
+    "gnis_id": "1008561"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "087"
+}

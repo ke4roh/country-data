@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pawnee County"
+  },
+  "alternate_names": [
+    "Pawnee County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "40117",
+    "state_fips": "40",
+    "county_fips": "117",
+    "gnis_id": "1101846"
+  },
+  "parent_id": "us/ok",
+  "admin_level": 2,
+  "local_code": "117"
+}

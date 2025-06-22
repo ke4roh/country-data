@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Abbeville County"
+  },
+  "alternate_names": [
+    "Abbeville County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "45001",
+    "state_fips": "45",
+    "county_fips": "001",
+    "gnis_id": "1245666"
+  },
+  "parent_id": "us/sc",
+  "admin_level": 2,
+  "local_code": "001"
+}

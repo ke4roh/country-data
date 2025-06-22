@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Montgomery County"
+  },
+  "alternate_names": [
+    "Montgomery County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20125",
+    "state_fips": "20",
+    "county_fips": "125",
+    "gnis_id": "485027"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "125"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Madison County"
+  },
+  "alternate_names": [
+    "Madison County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05087",
+    "state_fips": "05",
+    "county_fips": "087",
+    "gnis_id": "69165"
+  },
+  "parent_id": "us/ar",
+  "admin_level": 2,
+  "local_code": "087"
+}

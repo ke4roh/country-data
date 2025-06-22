@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Ottawa County"
+  },
+  "alternate_names": [
+    "Ottawa County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39123",
+    "state_fips": "39",
+    "county_fips": "123",
+    "gnis_id": "1074074"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "123"
+}

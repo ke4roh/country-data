@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Baker County"
+  },
+  "alternate_names": [
+    "Baker County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12003",
+    "state_fips": "12",
+    "county_fips": "003",
+    "gnis_id": "306920"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "003"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Valencia County"
+  },
+  "alternate_names": [
+    "Valencia County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "35061",
+    "state_fips": "35",
+    "county_fips": "061",
+    "gnis_id": "933052"
+  },
+  "parent_id": "us/nm",
+  "admin_level": 2,
+  "local_code": "061"
+}

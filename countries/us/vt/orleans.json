@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Orleans County"
+  },
+  "alternate_names": [
+    "Orleans County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "50019",
+    "state_fips": "50",
+    "county_fips": "019",
+    "gnis_id": "1461766"
+  },
+  "parent_id": "us/vt",
+  "admin_level": 2,
+  "local_code": "019"
+}

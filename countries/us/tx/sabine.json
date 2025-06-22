@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Sabine County"
+  },
+  "alternate_names": [
+    "Sabine County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48403",
+    "state_fips": "48",
+    "county_fips": "403",
+    "gnis_id": "1383987"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "403"
+}

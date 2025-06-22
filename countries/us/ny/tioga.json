@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Tioga County"
+  },
+  "alternate_names": [
+    "Tioga County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36107",
+    "state_fips": "36",
+    "county_fips": "107",
+    "gnis_id": "974151"
+  },
+  "parent_id": "us/ny",
+  "admin_level": 2,
+  "local_code": "107"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Cleveland County"
+  },
+  "alternate_names": [
+    "Cleveland County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37045",
+    "state_fips": "37",
+    "county_fips": "045",
+    "gnis_id": "1008547"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "045"
+}

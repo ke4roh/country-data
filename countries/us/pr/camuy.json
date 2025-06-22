@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Camuy Municipio"
+  },
+  "alternate_names": [
+    "Camuy Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72027",
+    "state_fips": "72",
+    "county_fips": "027",
+    "gnis_id": "1804493"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "027"
+}

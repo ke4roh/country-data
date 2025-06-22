@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Presidio County"
+  },
+  "alternate_names": [
+    "Presidio County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48377",
+    "state_fips": "48",
+    "county_fips": "377",
+    "gnis_id": "1383974"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "377"
+}

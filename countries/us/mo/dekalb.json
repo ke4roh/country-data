@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "DeKalb County"
+  },
+  "alternate_names": [
+    "DeKalb County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29063",
+    "state_fips": "29",
+    "county_fips": "063",
+    "gnis_id": "758486"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "063"
+}

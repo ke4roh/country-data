@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "San Germán Municipio"
+  },
+  "alternate_names": [
+    "San Germán Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72125",
+    "state_fips": "72",
+    "county_fips": "125",
+    "gnis_id": "1804543"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "125"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Turner County"
+  },
+  "alternate_names": [
+    "Turner County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46125",
+    "state_fips": "46",
+    "county_fips": "125",
+    "gnis_id": "1265770"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "125"
+}

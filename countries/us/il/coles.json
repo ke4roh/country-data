@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Coles County"
+  },
+  "alternate_names": [
+    "Coles County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17029",
+    "state_fips": "17",
+    "county_fips": "029",
+    "gnis_id": "424216"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "029"
+}

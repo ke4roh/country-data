@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hayes County"
+  },
+  "alternate_names": [
+    "Hayes County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31085",
+    "state_fips": "31",
+    "county_fips": "085",
+    "gnis_id": "835864"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "085"
+}

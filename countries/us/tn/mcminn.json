@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "McMinn County"
+  },
+  "alternate_names": [
+    "McMinn County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47107",
+    "state_fips": "47",
+    "county_fips": "107",
+    "gnis_id": "1639773"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "107"
+}

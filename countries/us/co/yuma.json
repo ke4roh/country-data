@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Yuma County"
+  },
+  "alternate_names": [
+    "Yuma County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "08125",
+    "state_fips": "08",
+    "county_fips": "125",
+    "gnis_id": "198178"
+  },
+  "parent_id": "us/co",
+  "admin_level": 2,
+  "local_code": "125"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "South Central Connecticut County"
+  },
+  "alternate_names": [
+    "South Central Connecticut Planning Region"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "09170",
+    "state_fips": "09",
+    "county_fips": "170",
+    "gnis_id": "2830252"
+  },
+  "parent_id": "us/ct",
+  "admin_level": 2,
+  "local_code": "170"
+}

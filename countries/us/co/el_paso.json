@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "El Paso County"
+  },
+  "alternate_names": [
+    "El Paso County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "08041",
+    "state_fips": "08",
+    "county_fips": "041",
+    "gnis_id": "198135"
+  },
+  "parent_id": "us/co",
+  "admin_level": 2,
+  "local_code": "041"
+}

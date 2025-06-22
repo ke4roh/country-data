@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pontotoc County"
+  },
+  "alternate_names": [
+    "Pontotoc County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "40123",
+    "state_fips": "40",
+    "county_fips": "123",
+    "gnis_id": "1101849"
+  },
+  "parent_id": "us/ok",
+  "admin_level": 2,
+  "local_code": "123"
+}

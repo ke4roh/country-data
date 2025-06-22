@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Palm Beach County"
+  },
+  "alternate_names": [
+    "Palm Beach County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12099",
+    "state_fips": "12",
+    "county_fips": "099",
+    "gnis_id": "295761"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "099"
+}

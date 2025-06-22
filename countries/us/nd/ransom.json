@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Ransom County"
+  },
+  "alternate_names": [
+    "Ransom County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38073",
+    "state_fips": "38",
+    "county_fips": "073",
+    "gnis_id": "1035301"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "073"
+}

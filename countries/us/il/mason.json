@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Mason County"
+  },
+  "alternate_names": [
+    "Mason County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17125",
+    "state_fips": "17",
+    "county_fips": "125",
+    "gnis_id": "424261"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "125"
+}

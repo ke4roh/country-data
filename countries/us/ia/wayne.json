@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wayne County"
+  },
+  "alternate_names": [
+    "Wayne County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "19185",
+    "state_fips": "19",
+    "county_fips": "185",
+    "gnis_id": "465281"
+  },
+  "parent_id": "us/ia",
+  "admin_level": 2,
+  "local_code": "185"
+}

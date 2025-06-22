@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Rush County"
+  },
+  "alternate_names": [
+    "Rush County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18139",
+    "state_fips": "18",
+    "county_fips": "139",
+    "gnis_id": "446854"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "139"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Clay County"
+  },
+  "alternate_names": [
+    "Clay County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37043",
+    "state_fips": "37",
+    "county_fips": "043",
+    "gnis_id": "1008546"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "043"
+}

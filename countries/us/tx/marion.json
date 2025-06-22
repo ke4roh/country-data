@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Marion County"
+  },
+  "alternate_names": [
+    "Marion County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48315",
+    "state_fips": "48",
+    "county_fips": "315",
+    "gnis_id": "1383940"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "315"
+}

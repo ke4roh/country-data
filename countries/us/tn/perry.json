@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Perry County"
+  },
+  "alternate_names": [
+    "Perry County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47135",
+    "state_fips": "47",
+    "county_fips": "135",
+    "gnis_id": "1639781"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "135"
+}

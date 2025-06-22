@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Chesapeake (city) County"
+  },
+  "alternate_names": [
+    "City of Chesapeake"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51550",
+    "state_fips": "51",
+    "county_fips": "550",
+    "gnis_id": "1498558"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "550"
+}

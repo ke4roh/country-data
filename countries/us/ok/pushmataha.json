@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pushmataha County"
+  },
+  "alternate_names": [
+    "Pushmataha County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "40127",
+    "state_fips": "40",
+    "county_fips": "127",
+    "gnis_id": "1101851"
+  },
+  "parent_id": "us/ok",
+  "admin_level": 2,
+  "local_code": "127"
+}

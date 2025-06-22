@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Yauco Municipio"
+  },
+  "alternate_names": [
+    "Yauco Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72153",
+    "state_fips": "72",
+    "county_fips": "153",
+    "gnis_id": "1804557"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "153"
+}

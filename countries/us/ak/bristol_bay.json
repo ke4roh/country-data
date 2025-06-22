@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Bristol Bay Borough"
+  },
+  "alternate_names": [
+    "Bristol Bay Borough"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02060",
+    "state_fips": "02",
+    "county_fips": "060",
+    "gnis_id": "1419967"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "060"
+}

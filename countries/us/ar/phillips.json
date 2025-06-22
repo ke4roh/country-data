@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Phillips County"
+  },
+  "alternate_names": [
+    "Phillips County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05107",
+    "state_fips": "05",
+    "county_fips": "107",
+    "gnis_id": "69172"
+  },
+  "parent_id": "us/ar",
+  "admin_level": 2,
+  "local_code": "107"
+}

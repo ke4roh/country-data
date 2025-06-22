@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Andrew County"
+  },
+  "alternate_names": [
+    "Andrew County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29003",
+    "state_fips": "29",
+    "county_fips": "003",
+    "gnis_id": "758456"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "003"
+}

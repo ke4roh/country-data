@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Floyd County"
+  },
+  "alternate_names": [
+    "Floyd County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18043",
+    "state_fips": "18",
+    "county_fips": "043",
+    "gnis_id": "450350"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "043"
+}

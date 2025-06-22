@@ -1,0 +1,20 @@
+{
+  "type": "parish",
+  "name": {
+    "en": "St. John the Baptist Parish"
+  },
+  "alternate_names": [
+    "Saint John the Baptist Parish"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "22095",
+    "state_fips": "22",
+    "county_fips": "095",
+    "gnis_id": "1629472"
+  },
+  "parent_id": "us/la",
+  "admin_level": 2,
+  "local_code": "095"
+}

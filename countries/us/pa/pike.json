@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pike County"
+  },
+  "alternate_names": [
+    "Pike County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "42103",
+    "state_fips": "42",
+    "county_fips": "103",
+    "gnis_id": "1213683"
+  },
+  "parent_id": "us/pa",
+  "admin_level": 2,
+  "local_code": "103"
+}

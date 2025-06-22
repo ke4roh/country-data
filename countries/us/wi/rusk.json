@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Rusk County"
+  },
+  "alternate_names": [
+    "Rusk County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55107",
+    "state_fips": "55",
+    "county_fips": "107",
+    "gnis_id": "1581114"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "107"
+}

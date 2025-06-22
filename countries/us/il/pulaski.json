@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pulaski County"
+  },
+  "alternate_names": [
+    "Pulaski County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17153",
+    "state_fips": "17",
+    "county_fips": "153",
+    "gnis_id": "1784966"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "153"
+}

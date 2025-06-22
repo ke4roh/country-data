@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hinds County"
+  },
+  "alternate_names": [
+    "Hinds County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28049",
+    "state_fips": "28",
+    "county_fips": "049",
+    "gnis_id": "695748"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "049"
+}

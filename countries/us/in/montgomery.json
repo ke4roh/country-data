@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Montgomery County"
+  },
+  "alternate_names": [
+    "Montgomery County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18107",
+    "state_fips": "18",
+    "county_fips": "107",
+    "gnis_id": "450374"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "107"
+}

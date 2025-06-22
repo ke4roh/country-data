@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wasatch County"
+  },
+  "alternate_names": [
+    "Wasatch County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "49051",
+    "state_fips": "49",
+    "county_fips": "051",
+    "gnis_id": "1448039"
+  },
+  "parent_id": "us/ut",
+  "admin_level": 2,
+  "local_code": "051"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Brown County"
+  },
+  "alternate_names": [
+    "Brown County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46013",
+    "state_fips": "46",
+    "county_fips": "013",
+    "gnis_id": "1265785"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "013"
+}

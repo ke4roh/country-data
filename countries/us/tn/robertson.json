@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Robertson County"
+  },
+  "alternate_names": [
+    "Robertson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47147",
+    "state_fips": "47",
+    "county_fips": "147",
+    "gnis_id": "1639786"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "147"
+}

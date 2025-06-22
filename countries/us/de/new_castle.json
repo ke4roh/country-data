@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "New Castle County"
+  },
+  "alternate_names": [
+    "New Castle County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "10003",
+    "state_fips": "10",
+    "county_fips": "003",
+    "gnis_id": "217270"
+  },
+  "parent_id": "us/de",
+  "admin_level": 2,
+  "local_code": "003"
+}

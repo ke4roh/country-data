@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Grant County"
+  },
+  "alternate_names": [
+    "Grant County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20067",
+    "state_fips": "20",
+    "county_fips": "067",
+    "gnis_id": "485099"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "067"
+}

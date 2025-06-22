@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Leavenworth County"
+  },
+  "alternate_names": [
+    "Leavenworth County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20103",
+    "state_fips": "20",
+    "county_fips": "103",
+    "gnis_id": "485016"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "103"
+}

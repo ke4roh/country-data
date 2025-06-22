@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Price County"
+  },
+  "alternate_names": [
+    "Price County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55099",
+    "state_fips": "55",
+    "county_fips": "099",
+    "gnis_id": "1581110"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "099"
+}

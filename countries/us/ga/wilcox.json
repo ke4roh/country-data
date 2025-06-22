@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wilcox County"
+  },
+  "alternate_names": [
+    "Wilcox County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13315",
+    "state_fips": "13",
+    "county_fips": "315",
+    "gnis_id": "345499"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "315"
+}

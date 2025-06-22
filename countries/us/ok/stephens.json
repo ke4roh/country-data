@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Stephens County"
+  },
+  "alternate_names": [
+    "Stephens County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "40137",
+    "state_fips": "40",
+    "county_fips": "137",
+    "gnis_id": "1101856"
+  },
+  "parent_id": "us/ok",
+  "admin_level": 2,
+  "local_code": "137"
+}

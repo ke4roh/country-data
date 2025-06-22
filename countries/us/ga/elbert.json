@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Elbert County"
+  },
+  "alternate_names": [
+    "Elbert County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13105",
+    "state_fips": "13",
+    "county_fips": "105",
+    "gnis_id": "347828"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "105"
+}

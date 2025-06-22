@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Taylor County"
+  },
+  "alternate_names": [
+    "Taylor County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "54091",
+    "state_fips": "54",
+    "county_fips": "091",
+    "gnis_id": "1689856"
+  },
+  "parent_id": "us/wv",
+  "admin_level": 2,
+  "local_code": "091"
+}

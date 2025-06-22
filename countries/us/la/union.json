@@ -1,0 +1,20 @@
+{
+  "type": "parish",
+  "name": {
+    "en": "Union Parish"
+  },
+  "alternate_names": [
+    "Union Parish"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "22111",
+    "state_fips": "22",
+    "county_fips": "111",
+    "gnis_id": "559528"
+  },
+  "parent_id": "us/la",
+  "admin_level": 2,
+  "local_code": "111"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Horry County"
+  },
+  "alternate_names": [
+    "Horry County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "45051",
+    "state_fips": "45",
+    "county_fips": "051",
+    "gnis_id": "1248005"
+  },
+  "parent_id": "us/sc",
+  "admin_level": 2,
+  "local_code": "051"
+}

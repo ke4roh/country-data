@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Karnes County"
+  },
+  "alternate_names": [
+    "Karnes County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48255",
+    "state_fips": "48",
+    "county_fips": "255",
+    "gnis_id": "1383913"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "255"
+}

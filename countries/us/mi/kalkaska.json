@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Kalkaska County"
+  },
+  "alternate_names": [
+    "Kalkaska County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26079",
+    "state_fips": "26",
+    "county_fips": "079",
+    "gnis_id": "1622982"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "079"
+}

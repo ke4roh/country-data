@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Monongalia County"
+  },
+  "alternate_names": [
+    "Monongalia County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "54061",
+    "state_fips": "54",
+    "county_fips": "061",
+    "gnis_id": "1550037"
+  },
+  "parent_id": "us/wv",
+  "admin_level": 2,
+  "local_code": "061"
+}

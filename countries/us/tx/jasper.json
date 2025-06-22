@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Jasper County"
+  },
+  "alternate_names": [
+    "Jasper County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48241",
+    "state_fips": "48",
+    "county_fips": "241",
+    "gnis_id": "1383906"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "241"
+}

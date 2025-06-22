@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Nelson County"
+  },
+  "alternate_names": [
+    "Nelson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38063",
+    "state_fips": "38",
+    "county_fips": "063",
+    "gnis_id": "1034217"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "063"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Power County"
+  },
+  "alternate_names": [
+    "Power County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "16077",
+    "state_fips": "16",
+    "county_fips": "077",
+    "gnis_id": "394951"
+  },
+  "parent_id": "us/id",
+  "admin_level": 2,
+  "local_code": "077"
+}

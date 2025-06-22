@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Eddy County"
+  },
+  "alternate_names": [
+    "Eddy County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "35015",
+    "state_fips": "35",
+    "county_fips": "015",
+    "gnis_id": "936829"
+  },
+  "parent_id": "us/nm",
+  "admin_level": 2,
+  "local_code": "015"
+}

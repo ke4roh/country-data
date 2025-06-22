@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wheeler County"
+  },
+  "alternate_names": [
+    "Wheeler County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "41069",
+    "state_fips": "41",
+    "county_fips": "069",
+    "gnis_id": "1135865"
+  },
+  "parent_id": "us/or",
+  "admin_level": 2,
+  "local_code": "069"
+}

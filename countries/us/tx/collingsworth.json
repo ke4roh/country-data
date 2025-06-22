@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Collingsworth County"
+  },
+  "alternate_names": [
+    "Collingsworth County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48087",
+    "state_fips": "48",
+    "county_fips": "087",
+    "gnis_id": "1383829"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "087"
+}

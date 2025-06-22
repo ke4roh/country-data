@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hodgeman County"
+  },
+  "alternate_names": [
+    "Hodgeman County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20083",
+    "state_fips": "20",
+    "county_fips": "083",
+    "gnis_id": "485006"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "083"
+}

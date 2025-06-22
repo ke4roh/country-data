@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Putnam County"
+  },
+  "alternate_names": [
+    "Putnam County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17155",
+    "state_fips": "17",
+    "county_fips": "155",
+    "gnis_id": "424279"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "155"
+}

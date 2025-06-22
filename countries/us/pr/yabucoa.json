@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Yabucoa Municipio"
+  },
+  "alternate_names": [
+    "Yabucoa Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72151",
+    "state_fips": "72",
+    "county_fips": "151",
+    "gnis_id": "1804556"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "151"
+}

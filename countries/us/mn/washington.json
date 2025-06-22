@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Washington County"
+  },
+  "alternate_names": [
+    "Washington County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27163",
+    "state_fips": "27",
+    "county_fips": "163",
+    "gnis_id": "659526"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "163"
+}

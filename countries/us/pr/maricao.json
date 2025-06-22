@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Maricao Municipio"
+  },
+  "alternate_names": [
+    "Maricao Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72093",
+    "state_fips": "72",
+    "county_fips": "093",
+    "gnis_id": "1804527"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "093"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Putnam County"
+  },
+  "alternate_names": [
+    "Putnam County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12107",
+    "state_fips": "12",
+    "county_fips": "107",
+    "gnis_id": "306910"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "107"
+}

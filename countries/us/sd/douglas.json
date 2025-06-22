@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Douglas County"
+  },
+  "alternate_names": [
+    "Douglas County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46043",
+    "state_fips": "46",
+    "county_fips": "043",
+    "gnis_id": "1266978"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "043"
+}

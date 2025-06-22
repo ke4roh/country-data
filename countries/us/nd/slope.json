@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Slope County"
+  },
+  "alternate_names": [
+    "Slope County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38087",
+    "state_fips": "38",
+    "county_fips": "087",
+    "gnis_id": "1035896"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "087"
+}

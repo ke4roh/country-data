@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Windham County"
+  },
+  "alternate_names": [
+    "Windham County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "50025",
+    "state_fips": "50",
+    "county_fips": "025",
+    "gnis_id": "1461769"
+  },
+  "parent_id": "us/vt",
+  "admin_level": 2,
+  "local_code": "025"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wise County"
+  },
+  "alternate_names": [
+    "Wise County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51195",
+    "state_fips": "51",
+    "county_fips": "195",
+    "gnis_id": "1496656"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "195"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "White County"
+  },
+  "alternate_names": [
+    "White County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05145",
+    "state_fips": "05",
+    "county_fips": "145",
+    "gnis_id": "69906"
+  },
+  "parent_id": "us/ar",
+  "admin_level": 2,
+  "local_code": "145"
+}

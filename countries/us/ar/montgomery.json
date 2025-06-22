@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Montgomery County"
+  },
+  "alternate_names": [
+    "Montgomery County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05097",
+    "state_fips": "05",
+    "county_fips": "097",
+    "gnis_id": "69168"
+  },
+  "parent_id": "us/ar",
+  "admin_level": 2,
+  "local_code": "097"
+}

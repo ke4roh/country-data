@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wheeler County"
+  },
+  "alternate_names": [
+    "Wheeler County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13309",
+    "state_fips": "13",
+    "county_fips": "309",
+    "gnis_id": "351278"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "309"
+}

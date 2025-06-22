@@ -1,0 +1,20 @@
+{
+  "type": "district",
+  "name": {
+    "en": "Rose Island District"
+  },
+  "alternate_names": [
+    "Rose Island"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "60030",
+    "state_fips": "60",
+    "county_fips": "030",
+    "gnis_id": "1805243"
+  },
+  "parent_id": "us/as",
+  "admin_level": 2,
+  "local_code": "030"
+}

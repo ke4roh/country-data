@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Magoffin County"
+  },
+  "alternate_names": [
+    "Magoffin County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21153",
+    "state_fips": "21",
+    "county_fips": "153",
+    "gnis_id": "516920"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "153"
+}

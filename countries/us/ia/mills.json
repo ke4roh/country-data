@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Mills County"
+  },
+  "alternate_names": [
+    "Mills County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "19129",
+    "state_fips": "19",
+    "county_fips": "129",
+    "gnis_id": "465253"
+  },
+  "parent_id": "us/ia",
+  "admin_level": 2,
+  "local_code": "129"
+}

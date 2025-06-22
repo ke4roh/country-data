@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Calaveras County"
+  },
+  "alternate_names": [
+    "Calaveras County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "06009",
+    "state_fips": "06",
+    "county_fips": "009",
+    "gnis_id": "1675885"
+  },
+  "parent_id": "us/ca",
+  "admin_level": 2,
+  "local_code": "009"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Burleson County"
+  },
+  "alternate_names": [
+    "Burleson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48051",
+    "state_fips": "48",
+    "county_fips": "051",
+    "gnis_id": "1383811"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "051"
+}

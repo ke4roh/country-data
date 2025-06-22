@@ -1,0 +1,15 @@
+{
+  "type": "state",
+  "name": {
+    "en": "Massachusetts"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "25",
+    "gnis_id": "606926"
+  },
+  "parent_id": "us",
+  "admin_level": 1
+}

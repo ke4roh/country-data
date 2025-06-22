@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Converse County"
+  },
+  "alternate_names": [
+    "Converse County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "56009",
+    "state_fips": "56",
+    "county_fips": "009",
+    "gnis_id": "1605070"
+  },
+  "parent_id": "us/wy",
+  "admin_level": 2,
+  "local_code": "009"
+}

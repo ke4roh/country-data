@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Saluda County"
+  },
+  "alternate_names": [
+    "Saluda County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "45081",
+    "state_fips": "45",
+    "county_fips": "081",
+    "gnis_id": "1248016"
+  },
+  "parent_id": "us/sc",
+  "admin_level": 2,
+  "local_code": "081"
+}

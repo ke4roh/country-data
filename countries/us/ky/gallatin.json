@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Gallatin County"
+  },
+  "alternate_names": [
+    "Gallatin County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21077",
+    "state_fips": "21",
+    "county_fips": "077",
+    "gnis_id": "516885"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "077"
+}

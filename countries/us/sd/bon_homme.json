@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Bon Homme County"
+  },
+  "alternate_names": [
+    "Bon Homme County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46009",
+    "state_fips": "46",
+    "county_fips": "009",
+    "gnis_id": "1266997"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "009"
+}

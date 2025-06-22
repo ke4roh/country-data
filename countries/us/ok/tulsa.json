@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Tulsa County"
+  },
+  "alternate_names": [
+    "Tulsa County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "40143",
+    "state_fips": "40",
+    "county_fips": "143",
+    "gnis_id": "1101859"
+  },
+  "parent_id": "us/ok",
+  "admin_level": 2,
+  "local_code": "143"
+}

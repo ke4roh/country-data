@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Guayama Municipio"
+  },
+  "alternate_names": [
+    "Guayama Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72057",
+    "state_fips": "72",
+    "county_fips": "057",
+    "gnis_id": "1804509"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "057"
+}

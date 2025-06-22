@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Miami County"
+  },
+  "alternate_names": [
+    "Miami County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20121",
+    "state_fips": "20",
+    "county_fips": "121",
+    "gnis_id": "485025"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "121"
+}

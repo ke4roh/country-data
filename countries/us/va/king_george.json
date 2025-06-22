@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "King George County"
+  },
+  "alternate_names": [
+    "King George County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51099",
+    "state_fips": "51",
+    "county_fips": "099",
+    "gnis_id": "1480137"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "099"
+}

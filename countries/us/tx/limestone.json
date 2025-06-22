@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Limestone County"
+  },
+  "alternate_names": [
+    "Limestone County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48293",
+    "state_fips": "48",
+    "county_fips": "293",
+    "gnis_id": "1383932"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "293"
+}

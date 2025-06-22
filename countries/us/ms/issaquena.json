@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Issaquena County"
+  },
+  "alternate_names": [
+    "Issaquena County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28055",
+    "state_fips": "28",
+    "county_fips": "055",
+    "gnis_id": "695751"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "055"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Minnehaha County"
+  },
+  "alternate_names": [
+    "Minnehaha County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46099",
+    "state_fips": "46",
+    "county_fips": "099",
+    "gnis_id": "1265772"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "099"
+}

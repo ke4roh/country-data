@@ -1,0 +1,20 @@
+{
+  "type": "island",
+  "name": {
+    "en": "St. Croix Island"
+  },
+  "alternate_names": [
+    "Saint Croix Island"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "78010",
+    "state_fips": "78",
+    "county_fips": "010",
+    "gnis_id": "2378248"
+  },
+  "parent_id": "us/vi",
+  "admin_level": 2,
+  "local_code": "010"
+}

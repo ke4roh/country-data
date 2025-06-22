@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Aguadilla Municipio"
+  },
+  "alternate_names": [
+    "Aguadilla Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72005",
+    "state_fips": "72",
+    "county_fips": "005",
+    "gnis_id": "1804482"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "005"
+}

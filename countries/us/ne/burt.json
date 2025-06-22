@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Burt County"
+  },
+  "alternate_names": [
+    "Burt County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31021",
+    "state_fips": "31",
+    "county_fips": "021",
+    "gnis_id": "835832"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "021"
+}

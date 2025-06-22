@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "DuPage County"
+  },
+  "alternate_names": [
+    "DuPage County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17043",
+    "state_fips": "17",
+    "county_fips": "043",
+    "gnis_id": "422191"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "043"
+}

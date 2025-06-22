@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "McCone County"
+  },
+  "alternate_names": [
+    "McCone County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "30055",
+    "state_fips": "30",
+    "county_fips": "055",
+    "gnis_id": "1716270"
+  },
+  "parent_id": "us/mt",
+  "admin_level": 2,
+  "local_code": "055"
+}

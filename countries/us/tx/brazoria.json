@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Brazoria County"
+  },
+  "alternate_names": [
+    "Brazoria County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48039",
+    "state_fips": "48",
+    "county_fips": "039",
+    "gnis_id": "1383805"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "039"
+}

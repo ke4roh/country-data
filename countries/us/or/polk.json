@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Polk County"
+  },
+  "alternate_names": [
+    "Polk County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "41053",
+    "state_fips": "41",
+    "county_fips": "053",
+    "gnis_id": "1135862"
+  },
+  "parent_id": "us/or",
+  "admin_level": 2,
+  "local_code": "053"
+}

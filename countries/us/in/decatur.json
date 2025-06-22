@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Decatur County"
+  },
+  "alternate_names": [
+    "Decatur County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18031",
+    "state_fips": "18",
+    "county_fips": "031",
+    "gnis_id": "450345"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "031"
+}

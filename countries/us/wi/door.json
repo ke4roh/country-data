@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Door County"
+  },
+  "alternate_names": [
+    "Door County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55029",
+    "state_fips": "55",
+    "county_fips": "029",
+    "gnis_id": "1581074"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "029"
+}

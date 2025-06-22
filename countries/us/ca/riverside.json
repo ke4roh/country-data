@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Riverside County"
+  },
+  "alternate_names": [
+    "Riverside County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "06065",
+    "state_fips": "06",
+    "county_fips": "065",
+    "gnis_id": "277297"
+  },
+  "parent_id": "us/ca",
+  "admin_level": 2,
+  "local_code": "065"
+}

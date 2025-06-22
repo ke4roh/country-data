@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Dearborn County"
+  },
+  "alternate_names": [
+    "Dearborn County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18029",
+    "state_fips": "18",
+    "county_fips": "029",
+    "gnis_id": "450344"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "029"
+}

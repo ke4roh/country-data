@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Villalba Municipio"
+  },
+  "alternate_names": [
+    "Villalba Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72149",
+    "state_fips": "72",
+    "county_fips": "149",
+    "gnis_id": "1804555"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "149"
+}

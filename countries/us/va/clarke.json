@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Clarke County"
+  },
+  "alternate_names": [
+    "Clarke County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51043",
+    "state_fips": "51",
+    "county_fips": "043",
+    "gnis_id": "1690562"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "043"
+}

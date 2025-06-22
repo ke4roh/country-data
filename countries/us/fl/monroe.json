@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Monroe County"
+  },
+  "alternate_names": [
+    "Monroe County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12087",
+    "state_fips": "12",
+    "county_fips": "087",
+    "gnis_id": "295759"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "087"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Carbon County"
+  },
+  "alternate_names": [
+    "Carbon County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "30009",
+    "state_fips": "30",
+    "county_fips": "009",
+    "gnis_id": "1720111"
+  },
+  "parent_id": "us/mt",
+  "admin_level": 2,
+  "local_code": "009"
+}

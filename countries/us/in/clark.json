@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Clark County"
+  },
+  "alternate_names": [
+    "Clark County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18019",
+    "state_fips": "18",
+    "county_fips": "019",
+    "gnis_id": "450340"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "019"
+}

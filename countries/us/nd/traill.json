@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Traill County"
+  },
+  "alternate_names": [
+    "Traill County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38097",
+    "state_fips": "38",
+    "county_fips": "097",
+    "gnis_id": "1034221"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "097"
+}

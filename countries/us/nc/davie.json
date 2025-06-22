@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Davie County"
+  },
+  "alternate_names": [
+    "Davie County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37059",
+    "state_fips": "37",
+    "county_fips": "059",
+    "gnis_id": "1008549"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "059"
+}

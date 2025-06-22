@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Jefferson Davis County"
+  },
+  "alternate_names": [
+    "Jefferson Davis County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28065",
+    "state_fips": "28",
+    "county_fips": "065",
+    "gnis_id": "695756"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "065"
+}

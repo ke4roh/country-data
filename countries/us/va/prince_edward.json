@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Prince Edward County"
+  },
+  "alternate_names": [
+    "Prince Edward County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51147",
+    "state_fips": "51",
+    "county_fips": "147",
+    "gnis_id": "1492359"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "147"
+}

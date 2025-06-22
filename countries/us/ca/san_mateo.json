@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "San Mateo County"
+  },
+  "alternate_names": [
+    "San Mateo County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "06081",
+    "state_fips": "06",
+    "county_fips": "081",
+    "gnis_id": "277305"
+  },
+  "parent_id": "us/ca",
+  "admin_level": 2,
+  "local_code": "081"
+}

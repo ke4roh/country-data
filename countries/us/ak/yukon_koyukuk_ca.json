@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Yukon-Koyukuk (CA) Borough"
+  },
+  "alternate_names": [
+    "Yukon-Koyukuk Census Area"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02290",
+    "state_fips": "02",
+    "county_fips": "290",
+    "gnis_id": "1419987"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "290"
+}

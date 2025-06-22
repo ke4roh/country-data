@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Edgar County"
+  },
+  "alternate_names": [
+    "Edgar County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17045",
+    "state_fips": "17",
+    "county_fips": "045",
+    "gnis_id": "424224"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "045"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Bonneville County"
+  },
+  "alternate_names": [
+    "Bonneville County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "16019",
+    "state_fips": "16",
+    "county_fips": "019",
+    "gnis_id": "395407"
+  },
+  "parent_id": "us/id",
+  "admin_level": 2,
+  "local_code": "019"
+}

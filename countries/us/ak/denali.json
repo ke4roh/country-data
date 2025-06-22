@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Denali Borough"
+  },
+  "alternate_names": [
+    "Denali Borough"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02068",
+    "state_fips": "02",
+    "county_fips": "068",
+    "gnis_id": "1419988"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "068"
+}

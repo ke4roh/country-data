@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Crawford County"
+  },
+  "alternate_names": [
+    "Crawford County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29055",
+    "state_fips": "29",
+    "county_fips": "055",
+    "gnis_id": "758482"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "055"
+}

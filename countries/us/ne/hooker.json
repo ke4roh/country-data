@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hooker County"
+  },
+  "alternate_names": [
+    "Hooker County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31091",
+    "state_fips": "31",
+    "county_fips": "091",
+    "gnis_id": "835867"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "091"
+}

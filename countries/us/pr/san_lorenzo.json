@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "San Lorenzo Municipio"
+  },
+  "alternate_names": [
+    "San Lorenzo Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72129",
+    "state_fips": "72",
+    "county_fips": "129",
+    "gnis_id": "1804545"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "129"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pierce County"
+  },
+  "alternate_names": [
+    "Pierce County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13229",
+    "state_fips": "13",
+    "county_fips": "229",
+    "gnis_id": "349086"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "229"
+}

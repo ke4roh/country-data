@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wakulla County"
+  },
+  "alternate_names": [
+    "Wakulla County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12129",
+    "state_fips": "12",
+    "county_fips": "129",
+    "gnis_id": "306912"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "129"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Saline County"
+  },
+  "alternate_names": [
+    "Saline County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20169",
+    "state_fips": "20",
+    "county_fips": "169",
+    "gnis_id": "485047"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "169"
+}

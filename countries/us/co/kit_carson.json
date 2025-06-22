@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Kit Carson County"
+  },
+  "alternate_names": [
+    "Kit Carson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "08063",
+    "state_fips": "08",
+    "county_fips": "063",
+    "gnis_id": "198147"
+  },
+  "parent_id": "us/co",
+  "admin_level": 2,
+  "local_code": "063"
+}

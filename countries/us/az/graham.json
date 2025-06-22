@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Graham County"
+  },
+  "alternate_names": [
+    "Graham County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "04009",
+    "state_fips": "04",
+    "county_fips": "009",
+    "gnis_id": "25444"
+  },
+  "parent_id": "us/az",
+  "admin_level": 2,
+  "local_code": "009"
+}

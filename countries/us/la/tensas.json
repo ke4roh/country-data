@@ -1,0 +1,20 @@
+{
+  "type": "parish",
+  "name": {
+    "en": "Tensas Parish"
+  },
+  "alternate_names": [
+    "Tensas Parish"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "22107",
+    "state_fips": "22",
+    "county_fips": "107",
+    "gnis_id": "559509"
+  },
+  "parent_id": "us/la",
+  "admin_level": 2,
+  "local_code": "107"
+}

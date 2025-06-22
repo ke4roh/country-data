@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Tipton County"
+  },
+  "alternate_names": [
+    "Tipton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18159",
+    "state_fips": "18",
+    "county_fips": "159",
+    "gnis_id": "450394"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "159"
+}

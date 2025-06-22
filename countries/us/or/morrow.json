@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Morrow County"
+  },
+  "alternate_names": [
+    "Morrow County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "41049",
+    "state_fips": "41",
+    "county_fips": "049",
+    "gnis_id": "1135860"
+  },
+  "parent_id": "us/or",
+  "admin_level": 2,
+  "local_code": "049"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Clay County"
+  },
+  "alternate_names": [
+    "Clay County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47027",
+    "state_fips": "47",
+    "county_fips": "027",
+    "gnis_id": "1648573"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "027"
+}

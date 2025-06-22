@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Richardson County"
+  },
+  "alternate_names": [
+    "Richardson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31147",
+    "state_fips": "31",
+    "county_fips": "147",
+    "gnis_id": "835895"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "147"
+}

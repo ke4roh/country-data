@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Sumner County"
+  },
+  "alternate_names": [
+    "Sumner County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47165",
+    "state_fips": "47",
+    "county_fips": "165",
+    "gnis_id": "1639794"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "165"
+}

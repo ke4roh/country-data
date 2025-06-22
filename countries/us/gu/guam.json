@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Guam County"
+  },
+  "alternate_names": [
+    "Territory of Guam"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "66010",
+    "state_fips": "66",
+    "county_fips": "010",
+    "gnis_id": "1802705"
+  },
+  "parent_id": "us/gu",
+  "admin_level": 2,
+  "local_code": "010"
+}

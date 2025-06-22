@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Custer County"
+  },
+  "alternate_names": [
+    "Custer County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46033",
+    "state_fips": "46",
+    "county_fips": "033",
+    "gnis_id": "1265788"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "033"
+}

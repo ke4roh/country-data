@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Baltimore County"
+  },
+  "alternate_names": [
+    "Baltimore County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "24005",
+    "state_fips": "24",
+    "county_fips": "005",
+    "gnis_id": "1695314"
+  },
+  "parent_id": "us/md",
+  "admin_level": 2,
+  "local_code": "005"
+}

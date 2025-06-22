@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Waynesboro (city) County"
+  },
+  "alternate_names": [
+    "City of Waynesboro"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51820",
+    "state_fips": "51",
+    "county_fips": "820",
+    "gnis_id": "1498443"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "820"
+}

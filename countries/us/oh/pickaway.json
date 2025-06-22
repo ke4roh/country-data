@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pickaway County"
+  },
+  "alternate_names": [
+    "Pickaway County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39129",
+    "state_fips": "39",
+    "county_fips": "129",
+    "gnis_id": "1074077"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "129"
+}

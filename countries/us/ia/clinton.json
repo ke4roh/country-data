@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Clinton County"
+  },
+  "alternate_names": [
+    "Clinton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "19045",
+    "state_fips": "19",
+    "county_fips": "045",
+    "gnis_id": "465211"
+  },
+  "parent_id": "us/ia",
+  "admin_level": 2,
+  "local_code": "045"
+}

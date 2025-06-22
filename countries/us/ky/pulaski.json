@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pulaski County"
+  },
+  "alternate_names": [
+    "Pulaski County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21199",
+    "state_fips": "21",
+    "county_fips": "199",
+    "gnis_id": "516946"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "199"
+}

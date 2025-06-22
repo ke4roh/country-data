@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lemhi County"
+  },
+  "alternate_names": [
+    "Lemhi County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "16059",
+    "state_fips": "16",
+    "county_fips": "059",
+    "gnis_id": "399754"
+  },
+  "parent_id": "us/id",
+  "admin_level": 2,
+  "local_code": "059"
+}

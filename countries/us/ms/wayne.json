@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wayne County"
+  },
+  "alternate_names": [
+    "Wayne County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28153",
+    "state_fips": "28",
+    "county_fips": "153",
+    "gnis_id": "695797"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "153"
+}

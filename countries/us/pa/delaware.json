@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Delaware County"
+  },
+  "alternate_names": [
+    "Delaware County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "42045",
+    "state_fips": "42",
+    "county_fips": "045",
+    "gnis_id": "1209177"
+  },
+  "parent_id": "us/pa",
+  "admin_level": 2,
+  "local_code": "045"
+}

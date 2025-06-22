@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Humboldt County"
+  },
+  "alternate_names": [
+    "Humboldt County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "06023",
+    "state_fips": "06",
+    "county_fips": "023",
+    "gnis_id": "1681908"
+  },
+  "parent_id": "us/ca",
+  "admin_level": 2,
+  "local_code": "023"
+}

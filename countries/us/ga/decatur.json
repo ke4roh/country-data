@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Decatur County"
+  },
+  "alternate_names": [
+    "Decatur County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13087",
+    "state_fips": "13",
+    "county_fips": "087",
+    "gnis_id": "352234"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "087"
+}

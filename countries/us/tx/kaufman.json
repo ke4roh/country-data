@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Kaufman County"
+  },
+  "alternate_names": [
+    "Kaufman County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48257",
+    "state_fips": "48",
+    "county_fips": "257",
+    "gnis_id": "1383914"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "257"
+}

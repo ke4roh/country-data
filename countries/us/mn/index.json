@@ -1,0 +1,15 @@
+{
+  "type": "state",
+  "name": {
+    "en": "Minnesota"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27",
+    "gnis_id": "662849"
+  },
+  "parent_id": "us",
+  "admin_level": 1
+}

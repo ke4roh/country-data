@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Red Lake County"
+  },
+  "alternate_names": [
+    "Red Lake County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27125",
+    "state_fips": "27",
+    "county_fips": "125",
+    "gnis_id": "659508"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "125"
+}

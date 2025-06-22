@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Cochise County"
+  },
+  "alternate_names": [
+    "Cochise County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "04003",
+    "state_fips": "04",
+    "county_fips": "003",
+    "gnis_id": "25442"
+  },
+  "parent_id": "us/az",
+  "admin_level": 2,
+  "local_code": "003"
+}

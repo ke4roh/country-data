@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Fallon County"
+  },
+  "alternate_names": [
+    "Fallon County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "30025",
+    "state_fips": "30",
+    "county_fips": "025",
+    "gnis_id": "1688745"
+  },
+  "parent_id": "us/mt",
+  "admin_level": 2,
+  "local_code": "025"
+}

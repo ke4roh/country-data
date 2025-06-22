@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Val Verde County"
+  },
+  "alternate_names": [
+    "Val Verde County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48465",
+    "state_fips": "48",
+    "county_fips": "465",
+    "gnis_id": "1384018"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "465"
+}

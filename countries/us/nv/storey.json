@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Storey County"
+  },
+  "alternate_names": [
+    "Storey County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "32029",
+    "state_fips": "32",
+    "county_fips": "029",
+    "gnis_id": "858642"
+  },
+  "parent_id": "us/nv",
+  "admin_level": 2,
+  "local_code": "029"
+}

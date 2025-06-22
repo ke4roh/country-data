@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Attala County"
+  },
+  "alternate_names": [
+    "Attala County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28007",
+    "state_fips": "28",
+    "county_fips": "007",
+    "gnis_id": "695728"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "007"
+}

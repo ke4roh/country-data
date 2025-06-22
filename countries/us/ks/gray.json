@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Gray County"
+  },
+  "alternate_names": [
+    "Gray County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20069",
+    "state_fips": "20",
+    "county_fips": "069",
+    "gnis_id": "485001"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "069"
+}

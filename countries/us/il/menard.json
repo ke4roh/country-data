@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Menard County"
+  },
+  "alternate_names": [
+    "Menard County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17129",
+    "state_fips": "17",
+    "county_fips": "129",
+    "gnis_id": "424266"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "129"
+}

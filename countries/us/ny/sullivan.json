@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Sullivan County"
+  },
+  "alternate_names": [
+    "Sullivan County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36105",
+    "state_fips": "36",
+    "county_fips": "105",
+    "gnis_id": "974150"
+  },
+  "parent_id": "us/ny",
+  "admin_level": 2,
+  "local_code": "105"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Dunn County"
+  },
+  "alternate_names": [
+    "Dunn County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55033",
+    "state_fips": "55",
+    "county_fips": "033",
+    "gnis_id": "1581076"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "033"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Dodge County"
+  },
+  "alternate_names": [
+    "Dodge County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55027",
+    "state_fips": "55",
+    "county_fips": "027",
+    "gnis_id": "1581073"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "027"
+}

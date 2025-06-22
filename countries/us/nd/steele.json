@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Steele County"
+  },
+  "alternate_names": [
+    "Steele County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38091",
+    "state_fips": "38",
+    "county_fips": "091",
+    "gnis_id": "1034220"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "091"
+}

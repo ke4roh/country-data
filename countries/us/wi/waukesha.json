@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Waukesha County"
+  },
+  "alternate_names": [
+    "Waukesha County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55133",
+    "state_fips": "55",
+    "county_fips": "133",
+    "gnis_id": "1581126"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "133"
+}

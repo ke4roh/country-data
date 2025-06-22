@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Dorchester County"
+  },
+  "alternate_names": [
+    "Dorchester County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "24019",
+    "state_fips": "24",
+    "county_fips": "019",
+    "gnis_id": "596495"
+  },
+  "parent_id": "us/md",
+  "admin_level": 2,
+  "local_code": "019"
+}

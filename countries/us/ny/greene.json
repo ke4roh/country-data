@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Greene County"
+  },
+  "alternate_names": [
+    "Greene County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36039",
+    "state_fips": "36",
+    "county_fips": "039",
+    "gnis_id": "974118"
+  },
+  "parent_id": "us/ny",
+  "admin_level": 2,
+  "local_code": "039"
+}

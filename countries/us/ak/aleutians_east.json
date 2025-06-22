@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Aleutians East Borough"
+  },
+  "alternate_names": [
+    "Aleutians East Borough"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02013",
+    "state_fips": "02",
+    "county_fips": "013",
+    "gnis_id": "1419964"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "013"
+}

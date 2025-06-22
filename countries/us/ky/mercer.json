@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Mercer County"
+  },
+  "alternate_names": [
+    "Mercer County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21167",
+    "state_fips": "21",
+    "county_fips": "167",
+    "gnis_id": "516930"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "167"
+}

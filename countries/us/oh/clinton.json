@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Clinton County"
+  },
+  "alternate_names": [
+    "Clinton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39027",
+    "state_fips": "39",
+    "county_fips": "027",
+    "gnis_id": "1074026"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "027"
+}

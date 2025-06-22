@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Allendale County"
+  },
+  "alternate_names": [
+    "Allendale County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "45005",
+    "state_fips": "45",
+    "county_fips": "005",
+    "gnis_id": "1247980"
+  },
+  "parent_id": "us/sc",
+  "admin_level": 2,
+  "local_code": "005"
+}

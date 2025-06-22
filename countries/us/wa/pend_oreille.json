@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pend Oreille County"
+  },
+  "alternate_names": [
+    "Pend Oreille County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "53051",
+    "state_fips": "53",
+    "county_fips": "051",
+    "gnis_id": "1529157"
+  },
+  "parent_id": "us/wa",
+  "admin_level": 2,
+  "local_code": "051"
+}

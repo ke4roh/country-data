@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Franklin (city) County"
+  },
+  "alternate_names": [
+    "City of Franklin"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51620",
+    "state_fips": "51",
+    "county_fips": "620",
+    "gnis_id": "1498424"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "620"
+}

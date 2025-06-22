@@ -1,0 +1,20 @@
+{
+  "type": "parish",
+  "name": {
+    "en": "Livingston Parish"
+  },
+  "alternate_names": [
+    "Livingston Parish"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "22063",
+    "state_fips": "22",
+    "county_fips": "063",
+    "gnis_id": "558083"
+  },
+  "parent_id": "us/la",
+  "admin_level": 2,
+  "local_code": "063"
+}

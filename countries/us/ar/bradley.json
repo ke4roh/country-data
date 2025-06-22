@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Bradley County"
+  },
+  "alternate_names": [
+    "Bradley County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05011",
+    "state_fips": "05",
+    "county_fips": "011",
+    "gnis_id": "63757"
+  },
+  "parent_id": "us/ar",
+  "admin_level": 2,
+  "local_code": "011"
+}

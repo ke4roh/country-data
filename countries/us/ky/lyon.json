@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lyon County"
+  },
+  "alternate_names": [
+    "Lyon County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21143",
+    "state_fips": "21",
+    "county_fips": "143",
+    "gnis_id": "516918"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "143"
+}

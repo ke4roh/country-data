@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Yellowstone County"
+  },
+  "alternate_names": [
+    "Yellowstone County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "30111",
+    "state_fips": "30",
+    "county_fips": "111",
+    "gnis_id": "1719558"
+  },
+  "parent_id": "us/mt",
+  "admin_level": 2,
+  "local_code": "111"
+}

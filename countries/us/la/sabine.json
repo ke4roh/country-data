@@ -1,0 +1,20 @@
+{
+  "type": "parish",
+  "name": {
+    "en": "Sabine Parish"
+  },
+  "alternate_names": [
+    "Sabine Parish"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "22085",
+    "state_fips": "22",
+    "county_fips": "085",
+    "gnis_id": "559489"
+  },
+  "parent_id": "us/la",
+  "admin_level": 2,
+  "local_code": "085"
+}

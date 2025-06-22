@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Edgecombe County"
+  },
+  "alternate_names": [
+    "Edgecombe County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37065",
+    "state_fips": "37",
+    "county_fips": "065",
+    "gnis_id": "1008551"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "065"
+}

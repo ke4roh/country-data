@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lincoln County"
+  },
+  "alternate_names": [
+    "Lincoln County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27081",
+    "state_fips": "27",
+    "county_fips": "081",
+    "gnis_id": "659486"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "081"
+}

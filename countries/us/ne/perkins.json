@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Perkins County"
+  },
+  "alternate_names": [
+    "Perkins County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31135",
+    "state_fips": "31",
+    "county_fips": "135",
+    "gnis_id": "835889"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "135"
+}

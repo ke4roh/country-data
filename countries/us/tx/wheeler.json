@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wheeler County"
+  },
+  "alternate_names": [
+    "Wheeler County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48483",
+    "state_fips": "48",
+    "county_fips": "483",
+    "gnis_id": "1384027"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "483"
+}

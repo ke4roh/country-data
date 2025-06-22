@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Chisago County"
+  },
+  "alternate_names": [
+    "Chisago County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27025",
+    "state_fips": "27",
+    "county_fips": "025",
+    "gnis_id": "659458"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "025"
+}

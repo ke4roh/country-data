@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Jackson County"
+  },
+  "alternate_names": [
+    "Jackson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27063",
+    "state_fips": "27",
+    "county_fips": "063",
+    "gnis_id": "659477"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "063"
+}

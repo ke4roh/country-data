@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Seminole County"
+  },
+  "alternate_names": [
+    "Seminole County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "40133",
+    "state_fips": "40",
+    "county_fips": "133",
+    "gnis_id": "1101854"
+  },
+  "parent_id": "us/ok",
+  "admin_level": 2,
+  "local_code": "133"
+}

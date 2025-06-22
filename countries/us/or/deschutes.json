@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Deschutes County"
+  },
+  "alternate_names": [
+    "Deschutes County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "41017",
+    "state_fips": "41",
+    "county_fips": "017",
+    "gnis_id": "1155130"
+  },
+  "parent_id": "us/or",
+  "admin_level": 2,
+  "local_code": "017"
+}

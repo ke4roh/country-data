@@ -1,0 +1,20 @@
+{
+  "type": "parish",
+  "name": {
+    "en": "Cameron Parish"
+  },
+  "alternate_names": [
+    "Cameron Parish"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "22023",
+    "state_fips": "22",
+    "county_fips": "023",
+    "gnis_id": "558488"
+  },
+  "parent_id": "us/la",
+  "admin_level": 2,
+  "local_code": "023"
+}

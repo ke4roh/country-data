@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Coahoma County"
+  },
+  "alternate_names": [
+    "Coahoma County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28027",
+    "state_fips": "28",
+    "county_fips": "027",
+    "gnis_id": "695738"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "027"
+}

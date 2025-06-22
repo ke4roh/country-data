@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Charlotte County"
+  },
+  "alternate_names": [
+    "Charlotte County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51037",
+    "state_fips": "51",
+    "county_fips": "037",
+    "gnis_id": "1492442"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "037"
+}

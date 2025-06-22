@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Columbia County"
+  },
+  "alternate_names": [
+    "Columbia County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "42037",
+    "state_fips": "42",
+    "county_fips": "037",
+    "gnis_id": "1213665"
+  },
+  "parent_id": "us/pa",
+  "admin_level": 2,
+  "local_code": "037"
+}

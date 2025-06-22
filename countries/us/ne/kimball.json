@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Kimball County"
+  },
+  "alternate_names": [
+    "Kimball County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31105",
+    "state_fips": "31",
+    "county_fips": "105",
+    "gnis_id": "835874"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "105"
+}

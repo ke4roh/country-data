@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Atkinson County"
+  },
+  "alternate_names": [
+    "Atkinson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13003",
+    "state_fips": "13",
+    "county_fips": "003",
+    "gnis_id": "345784"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "003"
+}

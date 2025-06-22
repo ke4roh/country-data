@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Tillamook County"
+  },
+  "alternate_names": [
+    "Tillamook County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "41057",
+    "state_fips": "41",
+    "county_fips": "057",
+    "gnis_id": "1135864"
+  },
+  "parent_id": "us/or",
+  "admin_level": 2,
+  "local_code": "057"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Stephenson County"
+  },
+  "alternate_names": [
+    "Stephenson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17177",
+    "state_fips": "17",
+    "county_fips": "177",
+    "gnis_id": "1785076"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "177"
+}

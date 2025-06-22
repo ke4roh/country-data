@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Muskegon County"
+  },
+  "alternate_names": [
+    "Muskegon County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26121",
+    "state_fips": "26",
+    "county_fips": "121",
+    "gnis_id": "1623003"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "121"
+}

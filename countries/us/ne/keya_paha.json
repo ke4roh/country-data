@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Keya Paha County"
+  },
+  "alternate_names": [
+    "Keya Paha County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31103",
+    "state_fips": "31",
+    "county_fips": "103",
+    "gnis_id": "835873"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "103"
+}

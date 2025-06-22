@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Castro County"
+  },
+  "alternate_names": [
+    "Castro County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48069",
+    "state_fips": "48",
+    "county_fips": "069",
+    "gnis_id": "1383820"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "069"
+}

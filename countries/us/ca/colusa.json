@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Colusa County"
+  },
+  "alternate_names": [
+    "Colusa County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "06011",
+    "state_fips": "06",
+    "county_fips": "011",
+    "gnis_id": "1675902"
+  },
+  "parent_id": "us/ca",
+  "admin_level": 2,
+  "local_code": "011"
+}

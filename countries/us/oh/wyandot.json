@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wyandot County"
+  },
+  "alternate_names": [
+    "Wyandot County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39175",
+    "state_fips": "39",
+    "county_fips": "175",
+    "gnis_id": "1074099"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "175"
+}

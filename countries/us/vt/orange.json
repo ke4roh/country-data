@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Orange County"
+  },
+  "alternate_names": [
+    "Orange County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "50017",
+    "state_fips": "50",
+    "county_fips": "017",
+    "gnis_id": "1461765"
+  },
+  "parent_id": "us/vt",
+  "admin_level": 2,
+  "local_code": "017"
+}

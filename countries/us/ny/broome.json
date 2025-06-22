@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Broome County"
+  },
+  "alternate_names": [
+    "Broome County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36007",
+    "state_fips": "36",
+    "county_fips": "007",
+    "gnis_id": "974102"
+  },
+  "parent_id": "us/ny",
+  "admin_level": 2,
+  "local_code": "007"
+}

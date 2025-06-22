@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Gibson County"
+  },
+  "alternate_names": [
+    "Gibson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18051",
+    "state_fips": "18",
+    "county_fips": "051",
+    "gnis_id": "450354"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "051"
+}

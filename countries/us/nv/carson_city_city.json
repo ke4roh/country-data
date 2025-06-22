@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Carson City (city) County"
+  },
+  "alternate_names": [
+    "Carson City"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "32510",
+    "state_fips": "32",
+    "county_fips": "510",
+    "gnis_id": "863219"
+  },
+  "parent_id": "us/nv",
+  "admin_level": 2,
+  "local_code": "510"
+}

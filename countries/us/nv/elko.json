@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Elko County"
+  },
+  "alternate_names": [
+    "Elko County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "32007",
+    "state_fips": "32",
+    "county_fips": "007",
+    "gnis_id": "857664"
+  },
+  "parent_id": "us/nv",
+  "admin_level": 2,
+  "local_code": "007"
+}

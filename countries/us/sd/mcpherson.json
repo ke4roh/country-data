@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "McPherson County"
+  },
+  "alternate_names": [
+    "McPherson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46089",
+    "state_fips": "46",
+    "county_fips": "089",
+    "gnis_id": "1265762"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "089"
+}

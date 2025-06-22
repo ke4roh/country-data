@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Morgan County"
+  },
+  "alternate_names": [
+    "Morgan County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13211",
+    "state_fips": "13",
+    "county_fips": "211",
+    "gnis_id": "346008"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "211"
+}

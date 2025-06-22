@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Southeastern Connecticut County"
+  },
+  "alternate_names": [
+    "Southeastern Connecticut Planning Region"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "09180",
+    "state_fips": "09",
+    "county_fips": "180",
+    "gnis_id": "2830253"
+  },
+  "parent_id": "us/ct",
+  "admin_level": 2,
+  "local_code": "180"
+}

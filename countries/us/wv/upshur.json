@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Upshur County"
+  },
+  "alternate_names": [
+    "Upshur County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "54097",
+    "state_fips": "54",
+    "county_fips": "097",
+    "gnis_id": "1696800"
+  },
+  "parent_id": "us/wv",
+  "admin_level": 2,
+  "local_code": "097"
+}

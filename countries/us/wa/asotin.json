@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Asotin County"
+  },
+  "alternate_names": [
+    "Asotin County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "53003",
+    "state_fips": "53",
+    "county_fips": "003",
+    "gnis_id": "1533502"
+  },
+  "parent_id": "us/wa",
+  "admin_level": 2,
+  "local_code": "003"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Monroe County"
+  },
+  "alternate_names": [
+    "Monroe County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "54063",
+    "state_fips": "54",
+    "county_fips": "063",
+    "gnis_id": "1557702"
+  },
+  "parent_id": "us/wv",
+  "admin_level": 2,
+  "local_code": "063"
+}

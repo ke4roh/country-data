@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Becker County"
+  },
+  "alternate_names": [
+    "Becker County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27005",
+    "state_fips": "27",
+    "county_fips": "005",
+    "gnis_id": "659448"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "005"
+}

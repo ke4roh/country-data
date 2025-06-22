@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Bedford County"
+  },
+  "alternate_names": [
+    "Bedford County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "42009",
+    "state_fips": "42",
+    "county_fips": "009",
+    "gnis_id": "1209171"
+  },
+  "parent_id": "us/pa",
+  "admin_level": 2,
+  "local_code": "009"
+}

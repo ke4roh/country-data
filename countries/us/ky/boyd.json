@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Boyd County"
+  },
+  "alternate_names": [
+    "Boyd County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21019",
+    "state_fips": "21",
+    "county_fips": "019",
+    "gnis_id": "516856"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "019"
+}

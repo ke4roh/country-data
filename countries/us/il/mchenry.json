@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "McHenry County"
+  },
+  "alternate_names": [
+    "McHenry County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17111",
+    "state_fips": "17",
+    "county_fips": "111",
+    "gnis_id": "1784815"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "111"
+}

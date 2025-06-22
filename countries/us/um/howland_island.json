@@ -1,0 +1,20 @@
+{
+  "type": "area",
+  "name": {
+    "en": "Howland Island Area"
+  },
+  "alternate_names": [
+    "Howland Island"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "74100",
+    "state_fips": "74",
+    "county_fips": "100",
+    "gnis_id": "1802706"
+  },
+  "parent_id": "us/um",
+  "admin_level": 2,
+  "local_code": "100"
+}

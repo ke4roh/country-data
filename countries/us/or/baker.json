@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Baker County"
+  },
+  "alternate_names": [
+    "Baker County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "41001",
+    "state_fips": "41",
+    "county_fips": "001",
+    "gnis_id": "1135845"
+  },
+  "parent_id": "us/or",
+  "admin_level": 2,
+  "local_code": "001"
+}

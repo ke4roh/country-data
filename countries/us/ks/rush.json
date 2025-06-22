@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Rush County"
+  },
+  "alternate_names": [
+    "Rush County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20165",
+    "state_fips": "20",
+    "county_fips": "165",
+    "gnis_id": "485358"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "165"
+}

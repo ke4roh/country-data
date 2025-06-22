@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Lajas Municipio"
+  },
+  "alternate_names": [
+    "Lajas Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72079",
+    "state_fips": "72",
+    "county_fips": "079",
+    "gnis_id": "1804520"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "079"
+}

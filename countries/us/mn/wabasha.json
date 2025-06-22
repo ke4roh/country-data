@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wabasha County"
+  },
+  "alternate_names": [
+    "Wabasha County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27157",
+    "state_fips": "27",
+    "county_fips": "157",
+    "gnis_id": "659523"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "157"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Black Hawk County"
+  },
+  "alternate_names": [
+    "Black Hawk County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "19013",
+    "state_fips": "19",
+    "county_fips": "013",
+    "gnis_id": "465196"
+  },
+  "parent_id": "us/ia",
+  "admin_level": 2,
+  "local_code": "013"
+}

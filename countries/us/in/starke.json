@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Starke County"
+  },
+  "alternate_names": [
+    "Starke County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18149",
+    "state_fips": "18",
+    "county_fips": "149",
+    "gnis_id": "450389"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "149"
+}

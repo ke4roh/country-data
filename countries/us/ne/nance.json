@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Nance County"
+  },
+  "alternate_names": [
+    "Nance County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31125",
+    "state_fips": "31",
+    "county_fips": "125",
+    "gnis_id": "835884"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "125"
+}

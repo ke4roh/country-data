@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Clinton County"
+  },
+  "alternate_names": [
+    "Clinton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17027",
+    "state_fips": "17",
+    "county_fips": "027",
+    "gnis_id": "424215"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "027"
+}

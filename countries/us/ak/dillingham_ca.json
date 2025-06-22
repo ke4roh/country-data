@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Dillingham (CA) Borough"
+  },
+  "alternate_names": [
+    "Dillingham Census Area"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02070",
+    "state_fips": "02",
+    "county_fips": "070",
+    "gnis_id": "1419968"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "070"
+}

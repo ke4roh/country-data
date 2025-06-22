@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Holmes County"
+  },
+  "alternate_names": [
+    "Holmes County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12059",
+    "state_fips": "12",
+    "county_fips": "059",
+    "gnis_id": "295735"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "059"
+}

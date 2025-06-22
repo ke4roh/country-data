@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Schley County"
+  },
+  "alternate_names": [
+    "Schley County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13249",
+    "state_fips": "13",
+    "county_fips": "249",
+    "gnis_id": "344129"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "249"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Fayette County"
+  },
+  "alternate_names": [
+    "Fayette County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "54019",
+    "state_fips": "54",
+    "county_fips": "019",
+    "gnis_id": "1560095"
+  },
+  "parent_id": "us/wv",
+  "admin_level": 2,
+  "local_code": "019"
+}

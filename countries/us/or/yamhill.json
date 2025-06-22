@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Yamhill County"
+  },
+  "alternate_names": [
+    "Yamhill County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "41071",
+    "state_fips": "41",
+    "county_fips": "071",
+    "gnis_id": "1135866"
+  },
+  "parent_id": "us/or",
+  "admin_level": 2,
+  "local_code": "071"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Anoka County"
+  },
+  "alternate_names": [
+    "Anoka County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27003",
+    "state_fips": "27",
+    "county_fips": "003",
+    "gnis_id": "659447"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "003"
+}

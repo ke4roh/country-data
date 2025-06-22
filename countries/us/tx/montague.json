@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Montague County"
+  },
+  "alternate_names": [
+    "Montague County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48337",
+    "state_fips": "48",
+    "county_fips": "337",
+    "gnis_id": "1383954"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "337"
+}

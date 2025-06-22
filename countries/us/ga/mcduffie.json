@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "McDuffie County"
+  },
+  "alternate_names": [
+    "McDuffie County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13189",
+    "state_fips": "13",
+    "county_fips": "189",
+    "gnis_id": "348794"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "189"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Fairfax (city) County"
+  },
+  "alternate_names": [
+    "City of Fairfax"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51600",
+    "state_fips": "51",
+    "county_fips": "600",
+    "gnis_id": "1789070"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "600"
+}

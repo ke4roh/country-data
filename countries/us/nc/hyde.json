@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hyde County"
+  },
+  "alternate_names": [
+    "Hyde County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37095",
+    "state_fips": "37",
+    "county_fips": "095",
+    "gnis_id": "1008564"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "095"
+}

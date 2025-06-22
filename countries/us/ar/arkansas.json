@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Arkansas County"
+  },
+  "alternate_names": [
+    "Arkansas County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05001",
+    "state_fips": "05",
+    "county_fips": "001",
+    "gnis_id": "63755"
+  },
+  "parent_id": "us/ar",
+  "admin_level": 2,
+  "local_code": "001"
+}

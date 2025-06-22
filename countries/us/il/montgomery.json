@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Montgomery County"
+  },
+  "alternate_names": [
+    "Montgomery County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17135",
+    "state_fips": "17",
+    "county_fips": "135",
+    "gnis_id": "1784866"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "135"
+}

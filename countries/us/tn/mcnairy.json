@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "McNairy County"
+  },
+  "alternate_names": [
+    "McNairy County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47109",
+    "state_fips": "47",
+    "county_fips": "109",
+    "gnis_id": "1639774"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "109"
+}

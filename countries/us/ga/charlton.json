@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Charlton County"
+  },
+  "alternate_names": [
+    "Charlton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13049",
+    "state_fips": "13",
+    "county_fips": "049",
+    "gnis_id": "357747"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "049"
+}

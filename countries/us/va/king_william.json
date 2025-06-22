@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "King William County"
+  },
+  "alternate_names": [
+    "King William County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51101",
+    "state_fips": "51",
+    "county_fips": "101",
+    "gnis_id": "1480138"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "101"
+}

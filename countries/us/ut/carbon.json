@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Carbon County"
+  },
+  "alternate_names": [
+    "Carbon County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "49007",
+    "state_fips": "49",
+    "county_fips": "007",
+    "gnis_id": "1448018"
+  },
+  "parent_id": "us/ut",
+  "admin_level": 2,
+  "local_code": "007"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Custer County"
+  },
+  "alternate_names": [
+    "Custer County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "40039",
+    "state_fips": "40",
+    "county_fips": "039",
+    "gnis_id": "1101807"
+  },
+  "parent_id": "us/ok",
+  "admin_level": 2,
+  "local_code": "039"
+}

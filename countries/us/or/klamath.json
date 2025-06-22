@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Klamath County"
+  },
+  "alternate_names": [
+    "Klamath County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "41035",
+    "state_fips": "41",
+    "county_fips": "035",
+    "gnis_id": "1155134"
+  },
+  "parent_id": "us/or",
+  "admin_level": 2,
+  "local_code": "035"
+}

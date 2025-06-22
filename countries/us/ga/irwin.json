@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Irwin County"
+  },
+  "alternate_names": [
+    "Irwin County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13155",
+    "state_fips": "13",
+    "county_fips": "155",
+    "gnis_id": "352302"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "155"
+}

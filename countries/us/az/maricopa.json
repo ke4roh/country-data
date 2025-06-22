@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Maricopa County"
+  },
+  "alternate_names": [
+    "Maricopa County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "04013",
+    "state_fips": "04",
+    "county_fips": "013",
+    "gnis_id": "37026"
+  },
+  "parent_id": "us/az",
+  "admin_level": 2,
+  "local_code": "013"
+}

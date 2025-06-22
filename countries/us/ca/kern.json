@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Kern County"
+  },
+  "alternate_names": [
+    "Kern County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "06029",
+    "state_fips": "06",
+    "county_fips": "029",
+    "gnis_id": "2054176"
+  },
+  "parent_id": "us/ca",
+  "admin_level": 2,
+  "local_code": "029"
+}

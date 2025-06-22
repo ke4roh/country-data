@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Manassas Park (city) County"
+  },
+  "alternate_names": [
+    "City of Manassas Park"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51685",
+    "state_fips": "51",
+    "county_fips": "685",
+    "gnis_id": "1498431"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "685"
+}

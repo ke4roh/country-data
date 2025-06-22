@@ -1,0 +1,20 @@
+{
+  "type": "municipality",
+  "name": {
+    "en": "Saipan Municipality"
+  },
+  "alternate_names": [
+    "Municipality of Saipan"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "69110",
+    "state_fips": "69",
+    "county_fips": "110",
+    "gnis_id": "1805247"
+  },
+  "parent_id": "us/mp",
+  "admin_level": 2,
+  "local_code": "110"
+}

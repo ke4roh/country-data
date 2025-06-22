@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Renville County"
+  },
+  "alternate_names": [
+    "Renville County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38075",
+    "state_fips": "38",
+    "county_fips": "075",
+    "gnis_id": "1034229"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "075"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Bennett County"
+  },
+  "alternate_names": [
+    "Bennett County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46007",
+    "state_fips": "46",
+    "county_fips": "007",
+    "gnis_id": "1265812"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "007"
+}

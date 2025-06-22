@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Elmore County"
+  },
+  "alternate_names": [
+    "Elmore County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "01051",
+    "state_fips": "01",
+    "county_fips": "051",
+    "gnis_id": "161551"
+  },
+  "parent_id": "us/al",
+  "admin_level": 2,
+  "local_code": "051"
+}

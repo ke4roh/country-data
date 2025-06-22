@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Tyler County"
+  },
+  "alternate_names": [
+    "Tyler County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "54095",
+    "state_fips": "54",
+    "county_fips": "095",
+    "gnis_id": "1678706"
+  },
+  "parent_id": "us/wv",
+  "admin_level": 2,
+  "local_code": "095"
+}

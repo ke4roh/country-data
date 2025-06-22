@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hardin County"
+  },
+  "alternate_names": [
+    "Hardin County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47071",
+    "state_fips": "47",
+    "county_fips": "071",
+    "gnis_id": "1639751"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "071"
+}

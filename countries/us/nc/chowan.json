@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Chowan County"
+  },
+  "alternate_names": [
+    "Chowan County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37041",
+    "state_fips": "37",
+    "county_fips": "041",
+    "gnis_id": "1025822"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "041"
+}

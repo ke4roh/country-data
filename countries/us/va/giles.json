@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Giles County"
+  },
+  "alternate_names": [
+    "Giles County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51071",
+    "state_fips": "51",
+    "county_fips": "071",
+    "gnis_id": "1494551"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "071"
+}

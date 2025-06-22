@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Marquette County"
+  },
+  "alternate_names": [
+    "Marquette County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55077",
+    "state_fips": "55",
+    "county_fips": "077",
+    "gnis_id": "1581098"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "077"
+}

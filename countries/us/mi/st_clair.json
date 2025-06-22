@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "St. Clair County"
+  },
+  "alternate_names": [
+    "Saint Clair County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26147",
+    "state_fips": "26",
+    "county_fips": "147",
+    "gnis_id": "1625033"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "147"
+}

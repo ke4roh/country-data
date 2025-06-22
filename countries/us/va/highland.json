@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Highland County"
+  },
+  "alternate_names": [
+    "Highland County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51091",
+    "state_fips": "51",
+    "county_fips": "091",
+    "gnis_id": "1673774"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "091"
+}

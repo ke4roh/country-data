@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Mecklenburg County"
+  },
+  "alternate_names": [
+    "Mecklenburg County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37119",
+    "state_fips": "37",
+    "county_fips": "119",
+    "gnis_id": "1008570"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "119"
+}

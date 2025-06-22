@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wexford County"
+  },
+  "alternate_names": [
+    "Wexford County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26165",
+    "state_fips": "26",
+    "county_fips": "165",
+    "gnis_id": "1623023"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "165"
+}

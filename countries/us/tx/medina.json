@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Medina County"
+  },
+  "alternate_names": [
+    "Medina County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48325",
+    "state_fips": "48",
+    "county_fips": "325",
+    "gnis_id": "1383948"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "325"
+}

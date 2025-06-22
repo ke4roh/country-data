@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Kanabec County"
+  },
+  "alternate_names": [
+    "Kanabec County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27065",
+    "state_fips": "27",
+    "county_fips": "065",
+    "gnis_id": "659478"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "065"
+}

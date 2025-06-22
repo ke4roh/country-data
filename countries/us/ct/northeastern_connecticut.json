@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Northeastern Connecticut County"
+  },
+  "alternate_names": [
+    "Northeastern Connecticut Planning Region"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "09150",
+    "state_fips": "09",
+    "county_fips": "150",
+    "gnis_id": "2830250"
+  },
+  "parent_id": "us/ct",
+  "admin_level": 2,
+  "local_code": "150"
+}

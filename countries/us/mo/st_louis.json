@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "St. Louis County"
+  },
+  "alternate_names": [
+    "Saint Louis County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29189",
+    "state_fips": "29",
+    "county_fips": "189",
+    "gnis_id": "758549"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "189"
+}

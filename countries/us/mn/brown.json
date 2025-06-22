@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Brown County"
+  },
+  "alternate_names": [
+    "Brown County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27015",
+    "state_fips": "27",
+    "county_fips": "015",
+    "gnis_id": "659453"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "015"
+}

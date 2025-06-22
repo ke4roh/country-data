@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Monroe County"
+  },
+  "alternate_names": [
+    "Monroe County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39111",
+    "state_fips": "39",
+    "county_fips": "111",
+    "gnis_id": "1074068"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "111"
+}

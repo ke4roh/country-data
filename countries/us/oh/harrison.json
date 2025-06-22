@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Harrison County"
+  },
+  "alternate_names": [
+    "Harrison County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39067",
+    "state_fips": "39",
+    "county_fips": "067",
+    "gnis_id": "1074046"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "067"
+}

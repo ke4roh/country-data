@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Bristol (city) County"
+  },
+  "alternate_names": [
+    "City of Bristol"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51520",
+    "state_fips": "51",
+    "county_fips": "520",
+    "gnis_id": "1498416"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "520"
+}

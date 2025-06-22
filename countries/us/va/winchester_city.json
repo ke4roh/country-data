@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Winchester (city) County"
+  },
+  "alternate_names": [
+    "City of Winchester"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51840",
+    "state_fips": "51",
+    "county_fips": "840",
+    "gnis_id": "1789077"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "840"
+}

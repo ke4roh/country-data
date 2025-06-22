@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Sevier County"
+  },
+  "alternate_names": [
+    "Sevier County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "49041",
+    "state_fips": "49",
+    "county_fips": "041",
+    "gnis_id": "1448034"
+  },
+  "parent_id": "us/ut",
+  "admin_level": 2,
+  "local_code": "041"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Coos County"
+  },
+  "alternate_names": [
+    "Coos County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "33007",
+    "state_fips": "33",
+    "county_fips": "007",
+    "gnis_id": "873177"
+  },
+  "parent_id": "us/nh",
+  "admin_level": 2,
+  "local_code": "007"
+}

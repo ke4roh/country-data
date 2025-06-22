@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Webb County"
+  },
+  "alternate_names": [
+    "Webb County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48479",
+    "state_fips": "48",
+    "county_fips": "479",
+    "gnis_id": "1384025"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "479"
+}

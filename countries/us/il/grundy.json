@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Grundy County"
+  },
+  "alternate_names": [
+    "Grundy County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17063",
+    "state_fips": "17",
+    "county_fips": "063",
+    "gnis_id": "424233"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "063"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Cataño Municipio"
+  },
+  "alternate_names": [
+    "Cataño Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72033",
+    "state_fips": "72",
+    "county_fips": "033",
+    "gnis_id": "1804496"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "033"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Dade County"
+  },
+  "alternate_names": [
+    "Dade County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29057",
+    "state_fips": "29",
+    "county_fips": "057",
+    "gnis_id": "758483"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "057"
+}

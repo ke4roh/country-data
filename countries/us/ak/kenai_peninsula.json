@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Kenai Peninsula Borough"
+  },
+  "alternate_names": [
+    "Kenai Peninsula Borough"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02122",
+    "state_fips": "02",
+    "county_fips": "122",
+    "gnis_id": "1419972"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "122"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hocking County"
+  },
+  "alternate_names": [
+    "Hocking County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39073",
+    "state_fips": "39",
+    "county_fips": "073",
+    "gnis_id": "1074049"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "073"
+}

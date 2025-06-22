@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Ketchikan Gateway Borough"
+  },
+  "alternate_names": [
+    "Ketchikan Gateway Borough"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02130",
+    "state_fips": "02",
+    "county_fips": "130",
+    "gnis_id": "1419973"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "130"
+}

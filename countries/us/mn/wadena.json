@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wadena County"
+  },
+  "alternate_names": [
+    "Wadena County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27159",
+    "state_fips": "27",
+    "county_fips": "159",
+    "gnis_id": "659524"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "159"
+}

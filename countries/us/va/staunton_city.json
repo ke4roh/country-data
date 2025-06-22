@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Staunton (city) County"
+  },
+  "alternate_names": [
+    "City of Staunton"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51790",
+    "state_fips": "51",
+    "county_fips": "790",
+    "gnis_id": "1789075"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "790"
+}

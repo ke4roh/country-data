@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Franklin County"
+  },
+  "alternate_names": [
+    "Franklin County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "50011",
+    "state_fips": "50",
+    "county_fips": "011",
+    "gnis_id": "1461762"
+  },
+  "parent_id": "us/vt",
+  "admin_level": 2,
+  "local_code": "011"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Salt Lake County"
+  },
+  "alternate_names": [
+    "Salt Lake County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "49035",
+    "state_fips": "49",
+    "county_fips": "035",
+    "gnis_id": "1448031"
+  },
+  "parent_id": "us/ut",
+  "admin_level": 2,
+  "local_code": "035"
+}

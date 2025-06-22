@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lewis and Clark County"
+  },
+  "alternate_names": [
+    "Lewis and Clark County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "30049",
+    "state_fips": "30",
+    "county_fips": "049",
+    "gnis_id": "793926"
+  },
+  "parent_id": "us/mt",
+  "admin_level": 2,
+  "local_code": "049"
+}

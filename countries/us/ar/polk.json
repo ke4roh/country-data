@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Polk County"
+  },
+  "alternate_names": [
+    "Polk County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05113",
+    "state_fips": "05",
+    "county_fips": "113",
+    "gnis_id": "69175"
+  },
+  "parent_id": "us/ar",
+  "admin_level": 2,
+  "local_code": "113"
+}

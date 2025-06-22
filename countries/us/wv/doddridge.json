@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Doddridge County"
+  },
+  "alternate_names": [
+    "Doddridge County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "54017",
+    "state_fips": "54",
+    "county_fips": "017",
+    "gnis_id": "1689476"
+  },
+  "parent_id": "us/wv",
+  "admin_level": 2,
+  "local_code": "017"
+}

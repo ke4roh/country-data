@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Miller County"
+  },
+  "alternate_names": [
+    "Miller County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29131",
+    "state_fips": "29",
+    "county_fips": "131",
+    "gnis_id": "758520"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "131"
+}

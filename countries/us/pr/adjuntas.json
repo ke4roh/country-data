@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Adjuntas Municipio"
+  },
+  "alternate_names": [
+    "Adjuntas Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72001",
+    "state_fips": "72",
+    "county_fips": "001",
+    "gnis_id": "1804480"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "001"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Chatham County"
+  },
+  "alternate_names": [
+    "Chatham County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13051",
+    "state_fips": "13",
+    "county_fips": "051",
+    "gnis_id": "1694477"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "051"
+}

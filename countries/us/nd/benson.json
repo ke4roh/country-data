@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Benson County"
+  },
+  "alternate_names": [
+    "Benson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38005",
+    "state_fips": "38",
+    "county_fips": "005",
+    "gnis_id": "1034216"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "005"
+}

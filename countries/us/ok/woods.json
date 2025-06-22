@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Woods County"
+  },
+  "alternate_names": [
+    "Woods County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "40151",
+    "state_fips": "40",
+    "county_fips": "151",
+    "gnis_id": "1101863"
+  },
+  "parent_id": "us/ok",
+  "admin_level": 2,
+  "local_code": "151"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Citrus County"
+  },
+  "alternate_names": [
+    "Citrus County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12017",
+    "state_fips": "12",
+    "county_fips": "017",
+    "gnis_id": "295752"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "017"
+}

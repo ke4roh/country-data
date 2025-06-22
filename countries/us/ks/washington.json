@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Washington County"
+  },
+  "alternate_names": [
+    "Washington County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20201",
+    "state_fips": "20",
+    "county_fips": "201",
+    "gnis_id": "485061"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "201"
+}

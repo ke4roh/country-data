@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Allen County"
+  },
+  "alternate_names": [
+    "Allen County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20001",
+    "state_fips": "20",
+    "county_fips": "001",
+    "gnis_id": "484970"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "001"
+}

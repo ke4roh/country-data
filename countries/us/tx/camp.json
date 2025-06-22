@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Camp County"
+  },
+  "alternate_names": [
+    "Camp County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48063",
+    "state_fips": "48",
+    "county_fips": "063",
+    "gnis_id": "1383817"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "063"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Grady County"
+  },
+  "alternate_names": [
+    "Grady County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "40051",
+    "state_fips": "40",
+    "county_fips": "051",
+    "gnis_id": "1101813"
+  },
+  "parent_id": "us/ok",
+  "admin_level": 2,
+  "local_code": "051"
+}

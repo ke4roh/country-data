@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "McPherson County"
+  },
+  "alternate_names": [
+    "McPherson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20113",
+    "state_fips": "20",
+    "county_fips": "113",
+    "gnis_id": "485021"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "113"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Comal County"
+  },
+  "alternate_names": [
+    "Comal County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48091",
+    "state_fips": "48",
+    "county_fips": "091",
+    "gnis_id": "1383831"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "091"
+}

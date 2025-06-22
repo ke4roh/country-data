@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Van Wert County"
+  },
+  "alternate_names": [
+    "Van Wert County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39161",
+    "state_fips": "39",
+    "county_fips": "161",
+    "gnis_id": "1074092"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "161"
+}

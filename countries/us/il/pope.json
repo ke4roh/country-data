@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pope County"
+  },
+  "alternate_names": [
+    "Pope County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17151",
+    "state_fips": "17",
+    "county_fips": "151",
+    "gnis_id": "424277"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "151"
+}

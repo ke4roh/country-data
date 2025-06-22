@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Las Animas County"
+  },
+  "alternate_names": [
+    "Las Animas County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "08071",
+    "state_fips": "08",
+    "county_fips": "071",
+    "gnis_id": "198151"
+  },
+  "parent_id": "us/co",
+  "admin_level": 2,
+  "local_code": "071"
+}

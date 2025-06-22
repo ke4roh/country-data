@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Tucker County"
+  },
+  "alternate_names": [
+    "Tucker County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "54093",
+    "state_fips": "54",
+    "county_fips": "093",
+    "gnis_id": "1689423"
+  },
+  "parent_id": "us/wv",
+  "admin_level": 2,
+  "local_code": "093"
+}

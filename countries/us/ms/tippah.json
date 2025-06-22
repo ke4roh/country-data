@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Tippah County"
+  },
+  "alternate_names": [
+    "Tippah County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28139",
+    "state_fips": "28",
+    "county_fips": "139",
+    "gnis_id": "695790"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "139"
+}

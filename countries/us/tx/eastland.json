@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Eastland County"
+  },
+  "alternate_names": [
+    "Eastland County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48133",
+    "state_fips": "48",
+    "county_fips": "133",
+    "gnis_id": "1383852"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "133"
+}

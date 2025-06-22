@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Benton County"
+  },
+  "alternate_names": [
+    "Benton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "41003",
+    "state_fips": "41",
+    "county_fips": "003",
+    "gnis_id": "1155126"
+  },
+  "parent_id": "us/or",
+  "admin_level": 2,
+  "local_code": "003"
+}

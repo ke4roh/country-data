@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Humboldt County"
+  },
+  "alternate_names": [
+    "Humboldt County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "19091",
+    "state_fips": "19",
+    "county_fips": "091",
+    "gnis_id": "465234"
+  },
+  "parent_id": "us/ia",
+  "admin_level": 2,
+  "local_code": "091"
+}

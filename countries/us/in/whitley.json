@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Whitley County"
+  },
+  "alternate_names": [
+    "Whitley County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18183",
+    "state_fips": "18",
+    "county_fips": "183",
+    "gnis_id": "450369"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "183"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Mingo County"
+  },
+  "alternate_names": [
+    "Mingo County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "54059",
+    "state_fips": "54",
+    "county_fips": "059",
+    "gnis_id": "1550036"
+  },
+  "parent_id": "us/wv",
+  "admin_level": 2,
+  "local_code": "059"
+}

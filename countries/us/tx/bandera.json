@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Bandera County"
+  },
+  "alternate_names": [
+    "Bandera County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48019",
+    "state_fips": "48",
+    "county_fips": "019",
+    "gnis_id": "1383795"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "019"
+}

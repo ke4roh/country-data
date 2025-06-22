@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Towns County"
+  },
+  "alternate_names": [
+    "Towns County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13281",
+    "state_fips": "13",
+    "county_fips": "281",
+    "gnis_id": "351252"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "281"
+}

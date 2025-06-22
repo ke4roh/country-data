@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Leflore County"
+  },
+  "alternate_names": [
+    "Leflore County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28083",
+    "state_fips": "28",
+    "county_fips": "083",
+    "gnis_id": "695765"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "083"
+}

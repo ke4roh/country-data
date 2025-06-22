@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pawnee County"
+  },
+  "alternate_names": [
+    "Pawnee County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20145",
+    "state_fips": "20",
+    "county_fips": "145",
+    "gnis_id": "485036"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "145"
+}

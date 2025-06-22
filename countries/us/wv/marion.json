@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Marion County"
+  },
+  "alternate_names": [
+    "Marion County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "54049",
+    "state_fips": "54",
+    "county_fips": "049",
+    "gnis_id": "1718173"
+  },
+  "parent_id": "us/wv",
+  "admin_level": 2,
+  "local_code": "049"
+}

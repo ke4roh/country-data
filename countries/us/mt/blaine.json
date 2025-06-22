@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Blaine County"
+  },
+  "alternate_names": [
+    "Blaine County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "30005",
+    "state_fips": "30",
+    "county_fips": "005",
+    "gnis_id": "1722470"
+  },
+  "parent_id": "us/mt",
+  "admin_level": 2,
+  "local_code": "005"
+}

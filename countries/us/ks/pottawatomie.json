@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pottawatomie County"
+  },
+  "alternate_names": [
+    "Pottawatomie County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20149",
+    "state_fips": "20",
+    "county_fips": "149",
+    "gnis_id": "485038"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "149"
+}

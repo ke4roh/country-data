@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Tazewell County"
+  },
+  "alternate_names": [
+    "Tazewell County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17179",
+    "state_fips": "17",
+    "county_fips": "179",
+    "gnis_id": "1785094"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "179"
+}

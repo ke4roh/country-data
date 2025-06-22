@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Rice County"
+  },
+  "alternate_names": [
+    "Rice County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20159",
+    "state_fips": "20",
+    "county_fips": "159",
+    "gnis_id": "485043"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "159"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Dougherty County"
+  },
+  "alternate_names": [
+    "Dougherty County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13095",
+    "state_fips": "13",
+    "county_fips": "095",
+    "gnis_id": "351259"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "095"
+}

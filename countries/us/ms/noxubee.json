@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Noxubee County"
+  },
+  "alternate_names": [
+    "Noxubee County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28103",
+    "state_fips": "28",
+    "county_fips": "103",
+    "gnis_id": "695774"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "103"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lavaca County"
+  },
+  "alternate_names": [
+    "Lavaca County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48285",
+    "state_fips": "48",
+    "county_fips": "285",
+    "gnis_id": "1383928"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "285"
+}

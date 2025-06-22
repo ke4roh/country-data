@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Grenada County"
+  },
+  "alternate_names": [
+    "Grenada County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28043",
+    "state_fips": "28",
+    "county_fips": "043",
+    "gnis_id": "695746"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "043"
+}

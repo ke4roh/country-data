@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "McCulloch County"
+  },
+  "alternate_names": [
+    "McCulloch County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48307",
+    "state_fips": "48",
+    "county_fips": "307",
+    "gnis_id": "1383945"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "307"
+}

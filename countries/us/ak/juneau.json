@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Juneau Borough"
+  },
+  "alternate_names": [
+    "Juneau City and Borough"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02110",
+    "state_fips": "02",
+    "county_fips": "110",
+    "gnis_id": "1419971"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "110"
+}

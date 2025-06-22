@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Rawlins County"
+  },
+  "alternate_names": [
+    "Rawlins County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20153",
+    "state_fips": "20",
+    "county_fips": "153",
+    "gnis_id": "485040"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "153"
+}

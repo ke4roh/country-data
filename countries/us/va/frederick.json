@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Frederick County"
+  },
+  "alternate_names": [
+    "Frederick County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51069",
+    "state_fips": "51",
+    "county_fips": "069",
+    "gnis_id": "1480124"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "069"
+}

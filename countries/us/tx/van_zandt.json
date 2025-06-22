@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Van Zandt County"
+  },
+  "alternate_names": [
+    "Van Zandt County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48467",
+    "state_fips": "48",
+    "county_fips": "467",
+    "gnis_id": "1384019"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "467"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Skagway Borough"
+  },
+  "alternate_names": [
+    "Skagway Municipality"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02230",
+    "state_fips": "02",
+    "county_fips": "230",
+    "gnis_id": "2339479"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "230"
+}

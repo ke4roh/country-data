@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Walker County"
+  },
+  "alternate_names": [
+    "Walker County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48471",
+    "state_fips": "48",
+    "county_fips": "471",
+    "gnis_id": "1384021"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "471"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Sequatchie County"
+  },
+  "alternate_names": [
+    "Sequatchie County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47153",
+    "state_fips": "47",
+    "county_fips": "153",
+    "gnis_id": "1652643"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "153"
+}

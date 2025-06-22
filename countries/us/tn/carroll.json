@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Carroll County"
+  },
+  "alternate_names": [
+    "Carroll County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47017",
+    "state_fips": "47",
+    "county_fips": "017",
+    "gnis_id": "1639729"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "017"
+}

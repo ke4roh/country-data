@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Saline County"
+  },
+  "alternate_names": [
+    "Saline County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17165",
+    "state_fips": "17",
+    "county_fips": "165",
+    "gnis_id": "424283"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "165"
+}

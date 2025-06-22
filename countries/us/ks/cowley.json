@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Cowley County"
+  },
+  "alternate_names": [
+    "Cowley County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20035",
+    "state_fips": "20",
+    "county_fips": "035",
+    "gnis_id": "484987"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "035"
+}

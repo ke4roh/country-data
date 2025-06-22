@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hampshire County"
+  },
+  "alternate_names": [
+    "Hampshire County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "54027",
+    "state_fips": "54",
+    "county_fips": "027",
+    "gnis_id": "1718644"
+  },
+  "parent_id": "us/wv",
+  "admin_level": 2,
+  "local_code": "027"
+}

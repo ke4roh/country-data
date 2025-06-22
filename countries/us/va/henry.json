@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Henry County"
+  },
+  "alternate_names": [
+    "Henry County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51089",
+    "state_fips": "51",
+    "county_fips": "089",
+    "gnis_id": "1502770"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "089"
+}

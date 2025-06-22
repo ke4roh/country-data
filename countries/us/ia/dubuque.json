@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Dubuque County"
+  },
+  "alternate_names": [
+    "Dubuque County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "19061",
+    "state_fips": "19",
+    "county_fips": "061",
+    "gnis_id": "465219"
+  },
+  "parent_id": "us/ia",
+  "admin_level": 2,
+  "local_code": "061"
+}

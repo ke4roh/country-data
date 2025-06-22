@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Armstrong County"
+  },
+  "alternate_names": [
+    "Armstrong County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "42005",
+    "state_fips": "42",
+    "county_fips": "005",
+    "gnis_id": "1213658"
+  },
+  "parent_id": "us/pa",
+  "admin_level": 2,
+  "local_code": "005"
+}

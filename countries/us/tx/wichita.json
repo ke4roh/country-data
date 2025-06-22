@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wichita County"
+  },
+  "alternate_names": [
+    "Wichita County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48485",
+    "state_fips": "48",
+    "county_fips": "485",
+    "gnis_id": "1384028"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "485"
+}

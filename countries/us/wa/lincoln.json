@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lincoln County"
+  },
+  "alternate_names": [
+    "Lincoln County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "53043",
+    "state_fips": "53",
+    "county_fips": "043",
+    "gnis_id": "1514052"
+  },
+  "parent_id": "us/wa",
+  "admin_level": 2,
+  "local_code": "043"
+}

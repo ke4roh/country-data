@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Glenn County"
+  },
+  "alternate_names": [
+    "Glenn County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "06021",
+    "state_fips": "06",
+    "county_fips": "021",
+    "gnis_id": "277275"
+  },
+  "parent_id": "us/ca",
+  "admin_level": 2,
+  "local_code": "021"
+}

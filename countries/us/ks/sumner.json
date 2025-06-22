@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Sumner County"
+  },
+  "alternate_names": [
+    "Sumner County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20191",
+    "state_fips": "20",
+    "county_fips": "191",
+    "gnis_id": "481812"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "191"
+}

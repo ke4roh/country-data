@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Owsley County"
+  },
+  "alternate_names": [
+    "Owsley County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21189",
+    "state_fips": "21",
+    "county_fips": "189",
+    "gnis_id": "516941"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "189"
+}

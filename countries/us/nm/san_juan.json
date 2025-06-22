@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "San Juan County"
+  },
+  "alternate_names": [
+    "San Juan County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "35045",
+    "state_fips": "35",
+    "county_fips": "045",
+    "gnis_id": "936844"
+  },
+  "parent_id": "us/nm",
+  "admin_level": 2,
+  "local_code": "045"
+}

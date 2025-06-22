@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Otero County"
+  },
+  "alternate_names": [
+    "Otero County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "35035",
+    "state_fips": "35",
+    "county_fips": "035",
+    "gnis_id": "929104"
+  },
+  "parent_id": "us/nm",
+  "admin_level": 2,
+  "local_code": "035"
+}

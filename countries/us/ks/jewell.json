@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Jewell County"
+  },
+  "alternate_names": [
+    "Jewell County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20089",
+    "state_fips": "20",
+    "county_fips": "089",
+    "gnis_id": "485009"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "089"
+}

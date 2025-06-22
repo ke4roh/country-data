@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Charleston County"
+  },
+  "alternate_names": [
+    "Charleston County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "45019",
+    "state_fips": "45",
+    "county_fips": "019",
+    "gnis_id": "1252740"
+  },
+  "parent_id": "us/sc",
+  "admin_level": 2,
+  "local_code": "019"
+}

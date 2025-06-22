@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Union County"
+  },
+  "alternate_names": [
+    "Union County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13291",
+    "state_fips": "13",
+    "county_fips": "291",
+    "gnis_id": "353193"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "291"
+}

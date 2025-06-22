@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Miami County"
+  },
+  "alternate_names": [
+    "Miami County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18103",
+    "state_fips": "18",
+    "county_fips": "103",
+    "gnis_id": "450373"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "103"
+}

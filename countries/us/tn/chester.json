@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Chester County"
+  },
+  "alternate_names": [
+    "Chester County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47023",
+    "state_fips": "47",
+    "county_fips": "023",
+    "gnis_id": "1639732"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "023"
+}

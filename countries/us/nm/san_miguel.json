@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "San Miguel County"
+  },
+  "alternate_names": [
+    "San Miguel County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "35047",
+    "state_fips": "35",
+    "county_fips": "047",
+    "gnis_id": "929114"
+  },
+  "parent_id": "us/nm",
+  "admin_level": 2,
+  "local_code": "047"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Dent County"
+  },
+  "alternate_names": [
+    "Dent County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29065",
+    "state_fips": "29",
+    "county_fips": "065",
+    "gnis_id": "758487"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "065"
+}

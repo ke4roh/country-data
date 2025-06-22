@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Ringgold County"
+  },
+  "alternate_names": [
+    "Ringgold County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "19159",
+    "state_fips": "19",
+    "county_fips": "159",
+    "gnis_id": "465268"
+  },
+  "parent_id": "us/ia",
+  "admin_level": 2,
+  "local_code": "159"
+}

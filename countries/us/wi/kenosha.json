@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Kenosha County"
+  },
+  "alternate_names": [
+    "Kenosha County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55059",
+    "state_fips": "55",
+    "county_fips": "059",
+    "gnis_id": "1581089"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "059"
+}

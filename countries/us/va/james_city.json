@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "James City County"
+  },
+  "alternate_names": [
+    "James City County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51095",
+    "state_fips": "51",
+    "county_fips": "095",
+    "gnis_id": "1480135"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "095"
+}

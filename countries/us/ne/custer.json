@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Custer County"
+  },
+  "alternate_names": [
+    "Custer County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31041",
+    "state_fips": "31",
+    "county_fips": "041",
+    "gnis_id": "835842"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "041"
+}

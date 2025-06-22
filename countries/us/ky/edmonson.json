@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Edmonson County"
+  },
+  "alternate_names": [
+    "Edmonson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21061",
+    "state_fips": "21",
+    "county_fips": "061",
+    "gnis_id": "516877"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "061"
+}

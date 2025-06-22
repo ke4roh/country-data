@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Campbell County"
+  },
+  "alternate_names": [
+    "Campbell County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47013",
+    "state_fips": "47",
+    "county_fips": "013",
+    "gnis_id": "1639728"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "013"
+}

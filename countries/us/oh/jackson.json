@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Jackson County"
+  },
+  "alternate_names": [
+    "Jackson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39079",
+    "state_fips": "39",
+    "county_fips": "079",
+    "gnis_id": "1074052"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "079"
+}

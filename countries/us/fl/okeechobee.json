@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Okeechobee County"
+  },
+  "alternate_names": [
+    "Okeechobee County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12093",
+    "state_fips": "12",
+    "county_fips": "093",
+    "gnis_id": "295760"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "093"
+}

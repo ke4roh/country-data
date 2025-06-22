@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hennepin County"
+  },
+  "alternate_names": [
+    "Hennepin County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27053",
+    "state_fips": "27",
+    "county_fips": "053",
+    "gnis_id": "659472"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "053"
+}

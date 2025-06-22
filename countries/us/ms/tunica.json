@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Tunica County"
+  },
+  "alternate_names": [
+    "Tunica County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28143",
+    "state_fips": "28",
+    "county_fips": "143",
+    "gnis_id": "695792"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "143"
+}

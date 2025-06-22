@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Autauga County"
+  },
+  "alternate_names": [
+    "Autauga County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "01001",
+    "state_fips": "01",
+    "county_fips": "001",
+    "gnis_id": "161526"
+  },
+  "parent_id": "us/al",
+  "admin_level": 2,
+  "local_code": "001"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "parish",
+  "name": {
+    "en": "Bossier Parish"
+  },
+  "alternate_names": [
+    "Bossier Parish"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "22015",
+    "state_fips": "22",
+    "county_fips": "015",
+    "gnis_id": "558453"
+  },
+  "parent_id": "us/la",
+  "admin_level": 2,
+  "local_code": "015"
+}

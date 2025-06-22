@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Kodiak Island Borough"
+  },
+  "alternate_names": [
+    "Kodiak Island Borough"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02150",
+    "state_fips": "02",
+    "county_fips": "150",
+    "gnis_id": "1419974"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "150"
+}

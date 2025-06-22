@@ -1,0 +1,20 @@
+{
+  "type": "parish",
+  "name": {
+    "en": "LaSalle Parish"
+  },
+  "alternate_names": [
+    "LaSalle Parish"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "22059",
+    "state_fips": "22",
+    "county_fips": "059",
+    "gnis_id": "558049"
+  },
+  "parent_id": "us/la",
+  "admin_level": 2,
+  "local_code": "059"
+}

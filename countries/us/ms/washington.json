@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Washington County"
+  },
+  "alternate_names": [
+    "Washington County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28151",
+    "state_fips": "28",
+    "county_fips": "151",
+    "gnis_id": "695796"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "151"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Kiowa County"
+  },
+  "alternate_names": [
+    "Kiowa County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "40075",
+    "state_fips": "40",
+    "county_fips": "075",
+    "gnis_id": "1101825"
+  },
+  "parent_id": "us/ok",
+  "admin_level": 2,
+  "local_code": "075"
+}

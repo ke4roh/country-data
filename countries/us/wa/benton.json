@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Benton County"
+  },
+  "alternate_names": [
+    "Benton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "53005",
+    "state_fips": "53",
+    "county_fips": "005",
+    "gnis_id": "1513302"
+  },
+  "parent_id": "us/wa",
+  "admin_level": 2,
+  "local_code": "005"
+}

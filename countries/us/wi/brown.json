@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Brown County"
+  },
+  "alternate_names": [
+    "Brown County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55009",
+    "state_fips": "55",
+    "county_fips": "009",
+    "gnis_id": "1581064"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "009"
+}

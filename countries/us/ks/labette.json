@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Labette County"
+  },
+  "alternate_names": [
+    "Labette County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20099",
+    "state_fips": "20",
+    "county_fips": "099",
+    "gnis_id": "485014"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "099"
+}

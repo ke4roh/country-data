@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lamar County"
+  },
+  "alternate_names": [
+    "Lamar County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13171",
+    "state_fips": "13",
+    "county_fips": "171",
+    "gnis_id": "326713"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "171"
+}

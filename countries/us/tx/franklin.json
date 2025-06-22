@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Franklin County"
+  },
+  "alternate_names": [
+    "Franklin County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48159",
+    "state_fips": "48",
+    "county_fips": "159",
+    "gnis_id": "1383865"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "159"
+}

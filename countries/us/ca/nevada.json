@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Nevada County"
+  },
+  "alternate_names": [
+    "Nevada County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "06057",
+    "state_fips": "06",
+    "county_fips": "057",
+    "gnis_id": "1682927"
+  },
+  "parent_id": "us/ca",
+  "admin_level": 2,
+  "local_code": "057"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Foster County"
+  },
+  "alternate_names": [
+    "Foster County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38031",
+    "state_fips": "38",
+    "county_fips": "031",
+    "gnis_id": "1034223"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "031"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Yellow Medicine County"
+  },
+  "alternate_names": [
+    "Yellow Medicine County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27173",
+    "state_fips": "27",
+    "county_fips": "173",
+    "gnis_id": "659531"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "173"
+}

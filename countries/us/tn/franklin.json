@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Franklin County"
+  },
+  "alternate_names": [
+    "Franklin County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47051",
+    "state_fips": "47",
+    "county_fips": "051",
+    "gnis_id": "1639744"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "051"
+}

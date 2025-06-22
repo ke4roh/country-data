@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Perry County"
+  },
+  "alternate_names": [
+    "Perry County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29157",
+    "state_fips": "29",
+    "county_fips": "157",
+    "gnis_id": "758533"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "157"
+}

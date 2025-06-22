@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Suffolk County"
+  },
+  "alternate_names": [
+    "Suffolk County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36103",
+    "state_fips": "36",
+    "county_fips": "103",
+    "gnis_id": "974149"
+  },
+  "parent_id": "us/ny",
+  "admin_level": 2,
+  "local_code": "103"
+}

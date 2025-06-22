@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Genesee County"
+  },
+  "alternate_names": [
+    "Genesee County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36037",
+    "state_fips": "36",
+    "county_fips": "037",
+    "gnis_id": "974117"
+  },
+  "parent_id": "us/ny",
+  "admin_level": 2,
+  "local_code": "037"
+}

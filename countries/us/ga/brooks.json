@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Brooks County"
+  },
+  "alternate_names": [
+    "Brooks County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13027",
+    "state_fips": "13",
+    "county_fips": "027",
+    "gnis_id": "345518"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "027"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Jenkins County"
+  },
+  "alternate_names": [
+    "Jenkins County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13165",
+    "state_fips": "13",
+    "county_fips": "165",
+    "gnis_id": "342985"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "165"
+}

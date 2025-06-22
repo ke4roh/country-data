@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Williamson County"
+  },
+  "alternate_names": [
+    "Williamson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17199",
+    "state_fips": "17",
+    "county_fips": "199",
+    "gnis_id": "1785215"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "199"
+}

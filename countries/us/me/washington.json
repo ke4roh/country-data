@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Washington County"
+  },
+  "alternate_names": [
+    "Washington County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "23029",
+    "state_fips": "23",
+    "county_fips": "029",
+    "gnis_id": "581300"
+  },
+  "parent_id": "us/me",
+  "admin_level": 2,
+  "local_code": "029"
+}

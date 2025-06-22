@@ -1,0 +1,15 @@
+{
+  "type": "state",
+  "name": {
+    "en": "Mississippi"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28",
+    "gnis_id": "1779790"
+  },
+  "parent_id": "us",
+  "admin_level": 1
+}

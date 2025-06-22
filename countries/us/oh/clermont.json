@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Clermont County"
+  },
+  "alternate_names": [
+    "Clermont County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39025",
+    "state_fips": "39",
+    "county_fips": "025",
+    "gnis_id": "1074025"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "025"
+}

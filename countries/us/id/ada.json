@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Ada County"
+  },
+  "alternate_names": [
+    "Ada County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "16001",
+    "state_fips": "16",
+    "county_fips": "001",
+    "gnis_id": "395066"
+  },
+  "parent_id": "us/id",
+  "admin_level": 2,
+  "local_code": "001"
+}

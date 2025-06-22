@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Throckmorton County"
+  },
+  "alternate_names": [
+    "Throckmorton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48447",
+    "state_fips": "48",
+    "county_fips": "447",
+    "gnis_id": "1384009"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "447"
+}

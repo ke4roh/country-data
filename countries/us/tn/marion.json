@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Marion County"
+  },
+  "alternate_names": [
+    "Marion County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47115",
+    "state_fips": "47",
+    "county_fips": "115",
+    "gnis_id": "1639770"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "115"
+}

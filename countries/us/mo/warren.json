@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Warren County"
+  },
+  "alternate_names": [
+    "Warren County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29219",
+    "state_fips": "29",
+    "county_fips": "219",
+    "gnis_id": "758562"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "219"
+}

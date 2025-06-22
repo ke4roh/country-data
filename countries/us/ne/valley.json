@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Valley County"
+  },
+  "alternate_names": [
+    "Valley County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31175",
+    "state_fips": "31",
+    "county_fips": "175",
+    "gnis_id": "835909"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "175"
+}

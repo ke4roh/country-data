@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Macon County"
+  },
+  "alternate_names": [
+    "Macon County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17115",
+    "state_fips": "17",
+    "county_fips": "115",
+    "gnis_id": "424256"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "115"
+}

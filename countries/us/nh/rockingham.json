@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Rockingham County"
+  },
+  "alternate_names": [
+    "Rockingham County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "33015",
+    "state_fips": "33",
+    "county_fips": "015",
+    "gnis_id": "873181"
+  },
+  "parent_id": "us/nh",
+  "admin_level": 2,
+  "local_code": "015"
+}

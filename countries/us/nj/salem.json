@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Salem County"
+  },
+  "alternate_names": [
+    "Salem County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "34033",
+    "state_fips": "34",
+    "county_fips": "033",
+    "gnis_id": "882233"
+  },
+  "parent_id": "us/nj",
+  "admin_level": 2,
+  "local_code": "033"
+}

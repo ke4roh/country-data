@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Kittson County"
+  },
+  "alternate_names": [
+    "Kittson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27069",
+    "state_fips": "27",
+    "county_fips": "069",
+    "gnis_id": "659480"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "069"
+}

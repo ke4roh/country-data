@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Yakima County"
+  },
+  "alternate_names": [
+    "Yakima County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "53077",
+    "state_fips": "53",
+    "county_fips": "077",
+    "gnis_id": "1531929"
+  },
+  "parent_id": "us/wa",
+  "admin_level": 2,
+  "local_code": "077"
+}

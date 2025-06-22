@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Griggs County"
+  },
+  "alternate_names": [
+    "Griggs County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38039",
+    "state_fips": "38",
+    "county_fips": "039",
+    "gnis_id": "1034219"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "039"
+}

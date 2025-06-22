@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Vilas County"
+  },
+  "alternate_names": [
+    "Vilas County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55125",
+    "state_fips": "55",
+    "county_fips": "125",
+    "gnis_id": "1581122"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "125"
+}

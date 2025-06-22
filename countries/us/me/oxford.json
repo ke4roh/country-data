@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Oxford County"
+  },
+  "alternate_names": [
+    "Oxford County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "23017",
+    "state_fips": "23",
+    "county_fips": "017",
+    "gnis_id": "581294"
+  },
+  "parent_id": "us/me",
+  "admin_level": 2,
+  "local_code": "017"
+}

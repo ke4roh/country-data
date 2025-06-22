@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Dane County"
+  },
+  "alternate_names": [
+    "Dane County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55025",
+    "state_fips": "55",
+    "county_fips": "025",
+    "gnis_id": "1581072"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "025"
+}

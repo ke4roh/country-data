@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Stewart County"
+  },
+  "alternate_names": [
+    "Stewart County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47161",
+    "state_fips": "47",
+    "county_fips": "161",
+    "gnis_id": "1639792"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "161"
+}

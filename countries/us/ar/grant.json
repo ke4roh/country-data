@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Grant County"
+  },
+  "alternate_names": [
+    "Grant County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05053",
+    "state_fips": "05",
+    "county_fips": "053",
+    "gnis_id": "66856"
+  },
+  "parent_id": "us/ar",
+  "admin_level": 2,
+  "local_code": "053"
+}

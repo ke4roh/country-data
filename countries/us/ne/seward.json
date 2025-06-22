@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Seward County"
+  },
+  "alternate_names": [
+    "Seward County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31159",
+    "state_fips": "31",
+    "county_fips": "159",
+    "gnis_id": "835901"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "159"
+}

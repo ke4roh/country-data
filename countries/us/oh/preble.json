@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Preble County"
+  },
+  "alternate_names": [
+    "Preble County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39135",
+    "state_fips": "39",
+    "county_fips": "135",
+    "gnis_id": "1074080"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "135"
+}

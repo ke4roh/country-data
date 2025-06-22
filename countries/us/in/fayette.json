@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Fayette County"
+  },
+  "alternate_names": [
+    "Fayette County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18041",
+    "state_fips": "18",
+    "county_fips": "041",
+    "gnis_id": "450349"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "041"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Queens County"
+  },
+  "alternate_names": [
+    "Queens County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36081",
+    "state_fips": "36",
+    "county_fips": "081",
+    "gnis_id": "974139"
+  },
+  "parent_id": "us/ny",
+  "admin_level": 2,
+  "local_code": "081"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Monroe County"
+  },
+  "alternate_names": [
+    "Monroe County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26115",
+    "state_fips": "26",
+    "county_fips": "115",
+    "gnis_id": "1623000"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "115"
+}

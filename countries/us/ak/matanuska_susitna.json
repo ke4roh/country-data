@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Matanuska-Susitna Borough"
+  },
+  "alternate_names": [
+    "Matanuska-Susitna Borough"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02170",
+    "state_fips": "02",
+    "county_fips": "170",
+    "gnis_id": "1419976"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "170"
+}

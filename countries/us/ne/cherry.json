@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Cherry County"
+  },
+  "alternate_names": [
+    "Cherry County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31031",
+    "state_fips": "31",
+    "county_fips": "031",
+    "gnis_id": "835837"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "031"
+}

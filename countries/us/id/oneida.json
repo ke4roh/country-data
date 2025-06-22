@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Oneida County"
+  },
+  "alternate_names": [
+    "Oneida County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "16071",
+    "state_fips": "16",
+    "county_fips": "071",
+    "gnis_id": "399759"
+  },
+  "parent_id": "us/id",
+  "admin_level": 2,
+  "local_code": "071"
+}

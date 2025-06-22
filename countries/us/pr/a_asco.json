@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Añasco Municipio"
+  },
+  "alternate_names": [
+    "Añasco Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72011",
+    "state_fips": "72",
+    "county_fips": "011",
+    "gnis_id": "1804485"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "011"
+}

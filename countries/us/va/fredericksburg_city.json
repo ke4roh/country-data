@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Fredericksburg (city) County"
+  },
+  "alternate_names": [
+    "City of Fredericksburg"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51630",
+    "state_fips": "51",
+    "county_fips": "630",
+    "gnis_id": "1498425"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "630"
+}

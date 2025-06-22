@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Polk County"
+  },
+  "alternate_names": [
+    "Polk County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13233",
+    "state_fips": "13",
+    "county_fips": "233",
+    "gnis_id": "343585"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "233"
+}

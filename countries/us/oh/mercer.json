@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Mercer County"
+  },
+  "alternate_names": [
+    "Mercer County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39107",
+    "state_fips": "39",
+    "county_fips": "107",
+    "gnis_id": "1074066"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "107"
+}

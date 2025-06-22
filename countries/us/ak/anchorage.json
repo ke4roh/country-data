@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Anchorage Borough"
+  },
+  "alternate_names": [
+    "Anchorage Municipality"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02020",
+    "state_fips": "02",
+    "county_fips": "020",
+    "gnis_id": "1416061"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "020"
+}

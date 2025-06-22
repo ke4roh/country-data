@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Webster County"
+  },
+  "alternate_names": [
+    "Webster County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21233",
+    "state_fips": "21",
+    "county_fips": "233",
+    "gnis_id": "516963"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "233"
+}

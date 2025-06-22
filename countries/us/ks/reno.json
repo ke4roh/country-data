@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Reno County"
+  },
+  "alternate_names": [
+    "Reno County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20155",
+    "state_fips": "20",
+    "county_fips": "155",
+    "gnis_id": "485041"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "155"
+}

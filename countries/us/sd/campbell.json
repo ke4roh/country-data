@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Campbell County"
+  },
+  "alternate_names": [
+    "Campbell County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46021",
+    "state_fips": "46",
+    "county_fips": "021",
+    "gnis_id": "1266974"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "021"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Atchison County"
+  },
+  "alternate_names": [
+    "Atchison County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20005",
+    "state_fips": "20",
+    "county_fips": "005",
+    "gnis_id": "484972"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "005"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "North Slope Borough"
+  },
+  "alternate_names": [
+    "North Slope Borough"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02185",
+    "state_fips": "02",
+    "county_fips": "185",
+    "gnis_id": "1419978"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "185"
+}

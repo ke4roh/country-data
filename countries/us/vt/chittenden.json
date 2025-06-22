@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Chittenden County"
+  },
+  "alternate_names": [
+    "Chittenden County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "50007",
+    "state_fips": "50",
+    "county_fips": "007",
+    "gnis_id": "1461760"
+  },
+  "parent_id": "us/vt",
+  "admin_level": 2,
+  "local_code": "007"
+}

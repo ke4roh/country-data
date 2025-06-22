@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Jackson County"
+  },
+  "alternate_names": [
+    "Jackson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13157",
+    "state_fips": "13",
+    "county_fips": "157",
+    "gnis_id": "349570"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "157"
+}

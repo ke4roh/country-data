@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Las Piedras Municipio"
+  },
+  "alternate_names": [
+    "Las Piedras Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72085",
+    "state_fips": "72",
+    "county_fips": "085",
+    "gnis_id": "1804523"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "085"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Gordon County"
+  },
+  "alternate_names": [
+    "Gordon County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13129",
+    "state_fips": "13",
+    "county_fips": "129",
+    "gnis_id": "356672"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "129"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Keokuk County"
+  },
+  "alternate_names": [
+    "Keokuk County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "19107",
+    "state_fips": "19",
+    "county_fips": "107",
+    "gnis_id": "465242"
+  },
+  "parent_id": "us/ia",
+  "admin_level": 2,
+  "local_code": "107"
+}

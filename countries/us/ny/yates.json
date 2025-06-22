@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Yates County"
+  },
+  "alternate_names": [
+    "Yates County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36123",
+    "state_fips": "36",
+    "county_fips": "123",
+    "gnis_id": "974159"
+  },
+  "parent_id": "us/ny",
+  "admin_level": 2,
+  "local_code": "123"
+}

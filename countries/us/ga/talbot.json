@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Talbot County"
+  },
+  "alternate_names": [
+    "Talbot County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13263",
+    "state_fips": "13",
+    "county_fips": "263",
+    "gnis_id": "326757"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "263"
+}

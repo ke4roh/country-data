@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Boyle County"
+  },
+  "alternate_names": [
+    "Boyle County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21021",
+    "state_fips": "21",
+    "county_fips": "021",
+    "gnis_id": "516857"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "021"
+}

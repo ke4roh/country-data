@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Maui County"
+  },
+  "alternate_names": [
+    "Maui County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "15009",
+    "state_fips": "15",
+    "county_fips": "009",
+    "gnis_id": "365283"
+  },
+  "parent_id": "us/hi",
+  "admin_level": 2,
+  "local_code": "009"
+}

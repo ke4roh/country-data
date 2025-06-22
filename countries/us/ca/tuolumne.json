@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Tuolumne County"
+  },
+  "alternate_names": [
+    "Tuolumne County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "06109",
+    "state_fips": "06",
+    "county_fips": "109",
+    "gnis_id": "277319"
+  },
+  "parent_id": "us/ca",
+  "admin_level": 2,
+  "local_code": "109"
+}

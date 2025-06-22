@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Waldo County"
+  },
+  "alternate_names": [
+    "Waldo County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "23027",
+    "state_fips": "23",
+    "county_fips": "027",
+    "gnis_id": "581299"
+  },
+  "parent_id": "us/me",
+  "admin_level": 2,
+  "local_code": "027"
+}

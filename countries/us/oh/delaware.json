@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Delaware County"
+  },
+  "alternate_names": [
+    "Delaware County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39041",
+    "state_fips": "39",
+    "county_fips": "041",
+    "gnis_id": "1074033"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "041"
+}

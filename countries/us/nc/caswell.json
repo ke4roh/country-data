@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Caswell County"
+  },
+  "alternate_names": [
+    "Caswell County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37033",
+    "state_fips": "37",
+    "county_fips": "033",
+    "gnis_id": "1008542"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "033"
+}

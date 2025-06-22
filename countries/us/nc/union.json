@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Union County"
+  },
+  "alternate_names": [
+    "Union County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37179",
+    "state_fips": "37",
+    "county_fips": "179",
+    "gnis_id": "1008590"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "179"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Ralls County"
+  },
+  "alternate_names": [
+    "Ralls County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29173",
+    "state_fips": "29",
+    "county_fips": "173",
+    "gnis_id": "758541"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "173"
+}

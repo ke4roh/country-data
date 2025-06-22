@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Toa Alta Municipio"
+  },
+  "alternate_names": [
+    "Toa Alta Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72135",
+    "state_fips": "72",
+    "county_fips": "135",
+    "gnis_id": "1804548"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "135"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Clinton County"
+  },
+  "alternate_names": [
+    "Clinton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18023",
+    "state_fips": "18",
+    "county_fips": "023",
+    "gnis_id": "450342"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "023"
+}

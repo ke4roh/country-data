@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Bennington County"
+  },
+  "alternate_names": [
+    "Bennington County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "50003",
+    "state_fips": "50",
+    "county_fips": "003",
+    "gnis_id": "1461758"
+  },
+  "parent_id": "us/vt",
+  "admin_level": 2,
+  "local_code": "003"
+}

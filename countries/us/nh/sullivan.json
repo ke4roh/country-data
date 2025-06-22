@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Sullivan County"
+  },
+  "alternate_names": [
+    "Sullivan County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "33019",
+    "state_fips": "33",
+    "county_fips": "019",
+    "gnis_id": "873183"
+  },
+  "parent_id": "us/nh",
+  "admin_level": 2,
+  "local_code": "019"
+}

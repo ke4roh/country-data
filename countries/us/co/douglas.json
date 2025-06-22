@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Douglas County"
+  },
+  "alternate_names": [
+    "Douglas County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "08035",
+    "state_fips": "08",
+    "county_fips": "035",
+    "gnis_id": "198133"
+  },
+  "parent_id": "us/co",
+  "admin_level": 2,
+  "local_code": "035"
+}

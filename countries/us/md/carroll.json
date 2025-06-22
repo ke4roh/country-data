@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Carroll County"
+  },
+  "alternate_names": [
+    "Carroll County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "24013",
+    "state_fips": "24",
+    "county_fips": "013",
+    "gnis_id": "1696228"
+  },
+  "parent_id": "us/md",
+  "admin_level": 2,
+  "local_code": "013"
+}

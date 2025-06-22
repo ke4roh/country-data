@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Stanley County"
+  },
+  "alternate_names": [
+    "Stanley County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46117",
+    "state_fips": "46",
+    "county_fips": "117",
+    "gnis_id": "1266998"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "117"
+}

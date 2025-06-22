@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Chaves County"
+  },
+  "alternate_names": [
+    "Chaves County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "35005",
+    "state_fips": "35",
+    "county_fips": "005",
+    "gnis_id": "1702364"
+  },
+  "parent_id": "us/nm",
+  "admin_level": 2,
+  "local_code": "005"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Mercer County"
+  },
+  "alternate_names": [
+    "Mercer County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38057",
+    "state_fips": "38",
+    "county_fips": "057",
+    "gnis_id": "1034233"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "057"
+}

@@ -1,0 +1,15 @@
+{
+  "type": "state",
+  "name": {
+    "en": "Rhode Island"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "44",
+    "gnis_id": "1219835"
+  },
+  "parent_id": "us",
+  "admin_level": 1
+}

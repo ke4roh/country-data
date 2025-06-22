@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pike County"
+  },
+  "alternate_names": [
+    "Pike County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21195",
+    "state_fips": "21",
+    "county_fips": "195",
+    "gnis_id": "516944"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "195"
+}

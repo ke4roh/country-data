@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Washington County"
+  },
+  "alternate_names": [
+    "Washington County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12133",
+    "state_fips": "12",
+    "county_fips": "133",
+    "gnis_id": "295762"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "133"
+}

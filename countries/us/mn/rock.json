@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Rock County"
+  },
+  "alternate_names": [
+    "Rock County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27133",
+    "state_fips": "27",
+    "county_fips": "133",
+    "gnis_id": "659512"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "133"
+}

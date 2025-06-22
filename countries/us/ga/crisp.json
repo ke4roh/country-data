@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Crisp County"
+  },
+  "alternate_names": [
+    "Crisp County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13081",
+    "state_fips": "13",
+    "county_fips": "081",
+    "gnis_id": "351607"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "081"
+}

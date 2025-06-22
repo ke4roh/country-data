@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Manatí Municipio"
+  },
+  "alternate_names": [
+    "Manatí Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72091",
+    "state_fips": "72",
+    "county_fips": "091",
+    "gnis_id": "1804526"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "091"
+}

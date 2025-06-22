@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Meade County"
+  },
+  "alternate_names": [
+    "Meade County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46093",
+    "state_fips": "46",
+    "county_fips": "093",
+    "gnis_id": "1266991"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "093"
+}

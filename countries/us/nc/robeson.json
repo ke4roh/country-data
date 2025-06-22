@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Robeson County"
+  },
+  "alternate_names": [
+    "Robeson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37155",
+    "state_fips": "37",
+    "county_fips": "155",
+    "gnis_id": "1026130"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "155"
+}

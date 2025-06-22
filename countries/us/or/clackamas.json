@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Clackamas County"
+  },
+  "alternate_names": [
+    "Clackamas County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "41005",
+    "state_fips": "41",
+    "county_fips": "005",
+    "gnis_id": "1155127"
+  },
+  "parent_id": "us/or",
+  "admin_level": 2,
+  "local_code": "005"
+}

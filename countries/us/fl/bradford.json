@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Bradford County"
+  },
+  "alternate_names": [
+    "Bradford County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12007",
+    "state_fips": "12",
+    "county_fips": "007",
+    "gnis_id": "303634"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "007"
+}

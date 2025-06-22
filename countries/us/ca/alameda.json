@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Alameda County"
+  },
+  "alternate_names": [
+    "Alameda County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "06001",
+    "state_fips": "06",
+    "county_fips": "001",
+    "gnis_id": "1675839"
+  },
+  "parent_id": "us/ca",
+  "admin_level": 2,
+  "local_code": "001"
+}

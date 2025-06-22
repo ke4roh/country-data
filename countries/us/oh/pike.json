@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pike County"
+  },
+  "alternate_names": [
+    "Pike County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39131",
+    "state_fips": "39",
+    "county_fips": "131",
+    "gnis_id": "1074078"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "131"
+}

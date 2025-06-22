@@ -1,0 +1,20 @@
+{
+  "type": "parish",
+  "name": {
+    "en": "Plaquemines Parish"
+  },
+  "alternate_names": [
+    "Plaquemines Parish"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "22075",
+    "state_fips": "22",
+    "county_fips": "075",
+    "gnis_id": "558125"
+  },
+  "parent_id": "us/la",
+  "admin_level": 2,
+  "local_code": "075"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Payne County"
+  },
+  "alternate_names": [
+    "Payne County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "40119",
+    "state_fips": "40",
+    "county_fips": "119",
+    "gnis_id": "1101847"
+  },
+  "parent_id": "us/ok",
+  "admin_level": 2,
+  "local_code": "119"
+}

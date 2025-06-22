@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Madison County"
+  },
+  "alternate_names": [
+    "Madison County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28089",
+    "state_fips": "28",
+    "county_fips": "089",
+    "gnis_id": "695768"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "089"
+}

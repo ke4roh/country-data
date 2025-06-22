@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Walker County"
+  },
+  "alternate_names": [
+    "Walker County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13295",
+    "state_fips": "13",
+    "county_fips": "295",
+    "gnis_id": "354216"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "295"
+}

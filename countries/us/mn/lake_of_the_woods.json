@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lake of the Woods County"
+  },
+  "alternate_names": [
+    "Lake of the Woods County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27077",
+    "state_fips": "27",
+    "county_fips": "077",
+    "gnis_id": "659483"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "077"
+}

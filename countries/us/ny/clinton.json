@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Clinton County"
+  },
+  "alternate_names": [
+    "Clinton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36019",
+    "state_fips": "36",
+    "county_fips": "019",
+    "gnis_id": "974108"
+  },
+  "parent_id": "us/ny",
+  "admin_level": 2,
+  "local_code": "019"
+}

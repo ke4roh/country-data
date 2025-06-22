@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Yakutat Borough"
+  },
+  "alternate_names": [
+    "Yakutat City and Borough"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02282",
+    "state_fips": "02",
+    "county_fips": "282",
+    "gnis_id": "1419986"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "282"
+}

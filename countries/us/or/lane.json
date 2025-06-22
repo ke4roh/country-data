@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lane County"
+  },
+  "alternate_names": [
+    "Lane County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "41039",
+    "state_fips": "41",
+    "county_fips": "039",
+    "gnis_id": "1135855"
+  },
+  "parent_id": "us/or",
+  "admin_level": 2,
+  "local_code": "039"
+}

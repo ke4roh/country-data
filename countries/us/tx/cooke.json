@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Cooke County"
+  },
+  "alternate_names": [
+    "Cooke County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48097",
+    "state_fips": "48",
+    "county_fips": "097",
+    "gnis_id": "1383834"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "097"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Marshall County"
+  },
+  "alternate_names": [
+    "Marshall County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "19127",
+    "state_fips": "19",
+    "county_fips": "127",
+    "gnis_id": "465252"
+  },
+  "parent_id": "us/ia",
+  "admin_level": 2,
+  "local_code": "127"
+}

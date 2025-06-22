@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Corozal Municipio"
+  },
+  "alternate_names": [
+    "Corozal Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72047",
+    "state_fips": "72",
+    "county_fips": "047",
+    "gnis_id": "1804503"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "047"
+}

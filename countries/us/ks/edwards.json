@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Edwards County"
+  },
+  "alternate_names": [
+    "Edwards County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20047",
+    "state_fips": "20",
+    "county_fips": "047",
+    "gnis_id": "484993"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "047"
+}

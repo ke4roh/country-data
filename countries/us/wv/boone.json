@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Boone County"
+  },
+  "alternate_names": [
+    "Boone County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "54005",
+    "state_fips": "54",
+    "county_fips": "005",
+    "gnis_id": "1550009"
+  },
+  "parent_id": "us/wv",
+  "admin_level": 2,
+  "local_code": "005"
+}

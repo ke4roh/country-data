@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pope County"
+  },
+  "alternate_names": [
+    "Pope County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27121",
+    "state_fips": "27",
+    "county_fips": "121",
+    "gnis_id": "659506"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "121"
+}

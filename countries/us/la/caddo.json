@@ -1,0 +1,20 @@
+{
+  "type": "parish",
+  "name": {
+    "en": "Caddo Parish"
+  },
+  "alternate_names": [
+    "Caddo Parish"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "22017",
+    "state_fips": "22",
+    "county_fips": "017",
+    "gnis_id": "558458"
+  },
+  "parent_id": "us/la",
+  "admin_level": 2,
+  "local_code": "017"
+}

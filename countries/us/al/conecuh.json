@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Conecuh County"
+  },
+  "alternate_names": [
+    "Conecuh County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "01035",
+    "state_fips": "01",
+    "county_fips": "035",
+    "gnis_id": "161543"
+  },
+  "parent_id": "us/al",
+  "admin_level": 2,
+  "local_code": "035"
+}

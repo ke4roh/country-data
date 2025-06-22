@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Aguas Buenas Municipio"
+  },
+  "alternate_names": [
+    "Aguas Buenas Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72007",
+    "state_fips": "72",
+    "county_fips": "007",
+    "gnis_id": "1804483"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "007"
+}

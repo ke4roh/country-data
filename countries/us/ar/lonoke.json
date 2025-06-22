@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lonoke County"
+  },
+  "alternate_names": [
+    "Lonoke County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05085",
+    "state_fips": "05",
+    "county_fips": "085",
+    "gnis_id": "69164"
+  },
+  "parent_id": "us/ar",
+  "admin_level": 2,
+  "local_code": "085"
+}

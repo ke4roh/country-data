@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Tillman County"
+  },
+  "alternate_names": [
+    "Tillman County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "40141",
+    "state_fips": "40",
+    "county_fips": "141",
+    "gnis_id": "1101858"
+  },
+  "parent_id": "us/ok",
+  "admin_level": 2,
+  "local_code": "141"
+}

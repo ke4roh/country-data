@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Culpeper County"
+  },
+  "alternate_names": [
+    "Culpeper County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51047",
+    "state_fips": "51",
+    "county_fips": "047",
+    "gnis_id": "1497831"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "047"
+}

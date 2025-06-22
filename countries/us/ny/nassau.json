@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Nassau County"
+  },
+  "alternate_names": [
+    "Nassau County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36059",
+    "state_fips": "36",
+    "county_fips": "059",
+    "gnis_id": "974128"
+  },
+  "parent_id": "us/ny",
+  "admin_level": 2,
+  "local_code": "059"
+}

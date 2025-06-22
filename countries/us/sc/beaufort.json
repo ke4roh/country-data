@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Beaufort County"
+  },
+  "alternate_names": [
+    "Beaufort County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "45013",
+    "state_fips": "45",
+    "county_fips": "013",
+    "gnis_id": "1247984"
+  },
+  "parent_id": "us/sc",
+  "admin_level": 2,
+  "local_code": "013"
+}

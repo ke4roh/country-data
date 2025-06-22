@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Douglas County"
+  },
+  "alternate_names": [
+    "Douglas County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "32005",
+    "state_fips": "32",
+    "county_fips": "005",
+    "gnis_id": "858643"
+  },
+  "parent_id": "us/nv",
+  "admin_level": 2,
+  "local_code": "005"
+}

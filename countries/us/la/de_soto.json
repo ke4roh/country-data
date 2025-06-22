@@ -1,0 +1,20 @@
+{
+  "type": "parish",
+  "name": {
+    "en": "De Soto Parish"
+  },
+  "alternate_names": [
+    "De Soto Parish"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "22031",
+    "state_fips": "22",
+    "county_fips": "031",
+    "gnis_id": "558521"
+  },
+  "parent_id": "us/la",
+  "admin_level": 2,
+  "local_code": "031"
+}

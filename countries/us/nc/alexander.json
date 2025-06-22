@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Alexander County"
+  },
+  "alternate_names": [
+    "Alexander County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37003",
+    "state_fips": "37",
+    "county_fips": "003",
+    "gnis_id": "1008532"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "003"
+}

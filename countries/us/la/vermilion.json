@@ -1,0 +1,20 @@
+{
+  "type": "parish",
+  "name": {
+    "en": "Vermilion Parish"
+  },
+  "alternate_names": [
+    "Vermilion Parish"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "22113",
+    "state_fips": "22",
+    "county_fips": "113",
+    "gnis_id": "559538"
+  },
+  "parent_id": "us/la",
+  "admin_level": 2,
+  "local_code": "113"
+}

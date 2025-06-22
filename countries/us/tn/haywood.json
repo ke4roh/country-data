@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Haywood County"
+  },
+  "alternate_names": [
+    "Haywood County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47075",
+    "state_fips": "47",
+    "county_fips": "075",
+    "gnis_id": "1639753"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "075"
+}

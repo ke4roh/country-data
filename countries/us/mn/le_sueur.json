@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Le Sueur County"
+  },
+  "alternate_names": [
+    "Le Sueur County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27079",
+    "state_fips": "27",
+    "county_fips": "079",
+    "gnis_id": "659485"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "079"
+}

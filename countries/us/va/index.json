@@ -1,0 +1,15 @@
+{
+  "type": "state",
+  "name": {
+    "en": "Virginia"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51",
+    "gnis_id": "1779803"
+  },
+  "parent_id": "us",
+  "admin_level": 1
+}

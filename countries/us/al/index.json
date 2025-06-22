@@ -1,0 +1,15 @@
+{
+  "type": "state",
+  "name": {
+    "en": "Alabama"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "01",
+    "gnis_id": "1779775"
+  },
+  "parent_id": "us",
+  "admin_level": 1
+}

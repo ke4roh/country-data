@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Cherokee County"
+  },
+  "alternate_names": [
+    "Cherokee County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37039",
+    "state_fips": "37",
+    "county_fips": "039",
+    "gnis_id": "1008545"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "039"
+}

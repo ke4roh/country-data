@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Spink County"
+  },
+  "alternate_names": [
+    "Spink County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46115",
+    "state_fips": "46",
+    "county_fips": "115",
+    "gnis_id": "1266987"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "115"
+}

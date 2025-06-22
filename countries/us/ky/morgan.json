@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Morgan County"
+  },
+  "alternate_names": [
+    "Morgan County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21175",
+    "state_fips": "21",
+    "county_fips": "175",
+    "gnis_id": "516934"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "175"
+}

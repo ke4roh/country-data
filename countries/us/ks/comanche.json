@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Comanche County"
+  },
+  "alternate_names": [
+    "Comanche County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20033",
+    "state_fips": "20",
+    "county_fips": "033",
+    "gnis_id": "484986"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "033"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Quebradillas Municipio"
+  },
+  "alternate_names": [
+    "Quebradillas Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72115",
+    "state_fips": "72",
+    "county_fips": "115",
+    "gnis_id": "1804538"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "115"
+}

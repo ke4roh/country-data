@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Houghton County"
+  },
+  "alternate_names": [
+    "Houghton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26061",
+    "state_fips": "26",
+    "county_fips": "061",
+    "gnis_id": "1622973"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "061"
+}

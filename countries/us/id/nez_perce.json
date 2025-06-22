@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Nez Perce County"
+  },
+  "alternate_names": [
+    "Nez Perce County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "16069",
+    "state_fips": "16",
+    "county_fips": "069",
+    "gnis_id": "399394"
+  },
+  "parent_id": "us/id",
+  "admin_level": 2,
+  "local_code": "069"
+}

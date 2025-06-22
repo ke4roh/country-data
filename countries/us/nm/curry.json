@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Curry County"
+  },
+  "alternate_names": [
+    "Curry County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "35009",
+    "state_fips": "35",
+    "county_fips": "009",
+    "gnis_id": "933053"
+  },
+  "parent_id": "us/nm",
+  "admin_level": 2,
+  "local_code": "009"
+}

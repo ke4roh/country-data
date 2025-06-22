@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Louisa County"
+  },
+  "alternate_names": [
+    "Louisa County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51109",
+    "state_fips": "51",
+    "county_fips": "109",
+    "gnis_id": "1494707"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "109"
+}

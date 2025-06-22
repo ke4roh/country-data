@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Berkshire County"
+  },
+  "alternate_names": [
+    "Berkshire County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "25003",
+    "state_fips": "25",
+    "county_fips": "003",
+    "gnis_id": "606928"
+  },
+  "parent_id": "us/ma",
+  "admin_level": 2,
+  "local_code": "003"
+}

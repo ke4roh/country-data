@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Cocke County"
+  },
+  "alternate_names": [
+    "Cocke County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47029",
+    "state_fips": "47",
+    "county_fips": "029",
+    "gnis_id": "1639734"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "029"
+}

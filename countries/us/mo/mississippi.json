@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Mississippi County"
+  },
+  "alternate_names": [
+    "Mississippi County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29133",
+    "state_fips": "29",
+    "county_fips": "133",
+    "gnis_id": "758521"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "133"
+}

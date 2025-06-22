@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Fairbanks North Star Borough"
+  },
+  "alternate_names": [
+    "Fairbanks North Star Borough"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02090",
+    "state_fips": "02",
+    "county_fips": "090",
+    "gnis_id": "1419969"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "090"
+}

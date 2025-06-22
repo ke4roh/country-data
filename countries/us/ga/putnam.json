@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Putnam County"
+  },
+  "alternate_names": [
+    "Putnam County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13237",
+    "state_fips": "13",
+    "county_fips": "237",
+    "gnis_id": "347246"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "237"
+}

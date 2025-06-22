@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Sioux County"
+  },
+  "alternate_names": [
+    "Sioux County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31165",
+    "state_fips": "31",
+    "county_fips": "165",
+    "gnis_id": "835904"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "165"
+}

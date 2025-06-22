@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Alexandria (city) County"
+  },
+  "alternate_names": [
+    "City of Alexandria"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51510",
+    "state_fips": "51",
+    "county_fips": "510",
+    "gnis_id": "1498415"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "510"
+}

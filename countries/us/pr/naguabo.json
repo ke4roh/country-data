@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Naguabo Municipio"
+  },
+  "alternate_names": [
+    "Naguabo Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72103",
+    "state_fips": "72",
+    "county_fips": "103",
+    "gnis_id": "1804532"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "103"
+}

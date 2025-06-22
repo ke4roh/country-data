@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Union County"
+  },
+  "alternate_names": [
+    "Union County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "34039",
+    "state_fips": "34",
+    "county_fips": "039",
+    "gnis_id": "882235"
+  },
+  "parent_id": "us/nj",
+  "admin_level": 2,
+  "local_code": "039"
+}

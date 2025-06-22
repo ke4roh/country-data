@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Marshall County"
+  },
+  "alternate_names": [
+    "Marshall County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18099",
+    "state_fips": "18",
+    "county_fips": "099",
+    "gnis_id": "450372"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "099"
+}

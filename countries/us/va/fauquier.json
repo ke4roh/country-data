@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Fauquier County"
+  },
+  "alternate_names": [
+    "Fauquier County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51061",
+    "state_fips": "51",
+    "county_fips": "061",
+    "gnis_id": "1480120"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "061"
+}

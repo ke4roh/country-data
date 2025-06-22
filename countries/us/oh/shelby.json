@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Shelby County"
+  },
+  "alternate_names": [
+    "Shelby County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39149",
+    "state_fips": "39",
+    "county_fips": "149",
+    "gnis_id": "1074087"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "149"
+}

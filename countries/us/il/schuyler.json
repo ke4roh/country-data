@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Schuyler County"
+  },
+  "alternate_names": [
+    "Schuyler County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17169",
+    "state_fips": "17",
+    "county_fips": "169",
+    "gnis_id": "1785037"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "169"
+}

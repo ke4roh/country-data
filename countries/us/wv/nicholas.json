@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Nicholas County"
+  },
+  "alternate_names": [
+    "Nicholas County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "54067",
+    "state_fips": "54",
+    "county_fips": "067",
+    "gnis_id": "1550040"
+  },
+  "parent_id": "us/wv",
+  "admin_level": 2,
+  "local_code": "067"
+}

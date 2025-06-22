@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Barrow County"
+  },
+  "alternate_names": [
+    "Barrow County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13013",
+    "state_fips": "13",
+    "county_fips": "013",
+    "gnis_id": "356976"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "013"
+}

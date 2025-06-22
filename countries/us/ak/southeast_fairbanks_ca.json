@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Southeast Fairbanks (CA) Borough"
+  },
+  "alternate_names": [
+    "Southeast Fairbanks Census Area"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02240",
+    "state_fips": "02",
+    "county_fips": "240",
+    "gnis_id": "1419983"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "240"
+}

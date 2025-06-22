@@ -1,0 +1,20 @@
+{
+  "type": "area",
+  "name": {
+    "en": "Johnston Atoll Area"
+  },
+  "alternate_names": [
+    "Johnston Atoll"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "74200",
+    "state_fips": "74",
+    "county_fips": "200",
+    "gnis_id": "1802707"
+  },
+  "parent_id": "us/um",
+  "admin_level": 2,
+  "local_code": "200"
+}

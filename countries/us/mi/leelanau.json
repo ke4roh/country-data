@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Leelanau County"
+  },
+  "alternate_names": [
+    "Leelanau County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26089",
+    "state_fips": "26",
+    "county_fips": "089",
+    "gnis_id": "1622987"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "089"
+}

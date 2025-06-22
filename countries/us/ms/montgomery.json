@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Montgomery County"
+  },
+  "alternate_names": [
+    "Montgomery County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28097",
+    "state_fips": "28",
+    "county_fips": "097",
+    "gnis_id": "711757"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "097"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pierce County"
+  },
+  "alternate_names": [
+    "Pierce County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38069",
+    "state_fips": "38",
+    "county_fips": "069",
+    "gnis_id": "1034230"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "069"
+}

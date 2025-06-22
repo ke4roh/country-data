@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Covington County"
+  },
+  "alternate_names": [
+    "Covington County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "01039",
+    "state_fips": "01",
+    "county_fips": "039",
+    "gnis_id": "161545"
+  },
+  "parent_id": "us/al",
+  "admin_level": 2,
+  "local_code": "039"
+}

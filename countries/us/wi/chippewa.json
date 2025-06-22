@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Chippewa County"
+  },
+  "alternate_names": [
+    "Chippewa County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55017",
+    "state_fips": "55",
+    "county_fips": "017",
+    "gnis_id": "1581068"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "017"
+}

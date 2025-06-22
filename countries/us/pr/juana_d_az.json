@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Juana Díaz Municipio"
+  },
+  "alternate_names": [
+    "Juana Díaz Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72075",
+    "state_fips": "72",
+    "county_fips": "075",
+    "gnis_id": "1804518"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "075"
+}

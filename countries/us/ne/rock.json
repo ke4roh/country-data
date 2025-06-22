@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Rock County"
+  },
+  "alternate_names": [
+    "Rock County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31149",
+    "state_fips": "31",
+    "county_fips": "149",
+    "gnis_id": "835896"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "149"
+}

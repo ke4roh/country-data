@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Giles County"
+  },
+  "alternate_names": [
+    "Giles County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47055",
+    "state_fips": "47",
+    "county_fips": "055",
+    "gnis_id": "1639746"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "055"
+}

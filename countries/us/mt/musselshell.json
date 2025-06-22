@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Musselshell County"
+  },
+  "alternate_names": [
+    "Musselshell County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "30065",
+    "state_fips": "30",
+    "county_fips": "065",
+    "gnis_id": "1719593"
+  },
+  "parent_id": "us/mt",
+  "admin_level": 2,
+  "local_code": "065"
+}

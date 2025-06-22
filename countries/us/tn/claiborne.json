@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Claiborne County"
+  },
+  "alternate_names": [
+    "Claiborne County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47025",
+    "state_fips": "47",
+    "county_fips": "025",
+    "gnis_id": "1639733"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "025"
+}

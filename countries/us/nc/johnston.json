@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Johnston County"
+  },
+  "alternate_names": [
+    "Johnston County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37101",
+    "state_fips": "37",
+    "county_fips": "101",
+    "gnis_id": "1026327"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "101"
+}

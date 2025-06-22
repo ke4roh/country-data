@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Taylor County"
+  },
+  "alternate_names": [
+    "Taylor County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "19173",
+    "state_fips": "19",
+    "county_fips": "173",
+    "gnis_id": "465275"
+  },
+  "parent_id": "us/ia",
+  "admin_level": 2,
+  "local_code": "173"
+}

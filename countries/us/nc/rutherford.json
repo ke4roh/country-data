@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Rutherford County"
+  },
+  "alternate_names": [
+    "Rutherford County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "37161",
+    "state_fips": "37",
+    "county_fips": "161",
+    "gnis_id": "1008584"
+  },
+  "parent_id": "us/nc",
+  "admin_level": 2,
+  "local_code": "161"
+}

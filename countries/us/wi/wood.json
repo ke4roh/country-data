@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wood County"
+  },
+  "alternate_names": [
+    "Wood County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55141",
+    "state_fips": "55",
+    "county_fips": "141",
+    "gnis_id": "1581130"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "141"
+}

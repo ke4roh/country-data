@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Morrow County"
+  },
+  "alternate_names": [
+    "Morrow County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39117",
+    "state_fips": "39",
+    "county_fips": "117",
+    "gnis_id": "1074071"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "117"
+}

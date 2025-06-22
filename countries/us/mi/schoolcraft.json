@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Schoolcraft County"
+  },
+  "alternate_names": [
+    "Schoolcraft County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26153",
+    "state_fips": "26",
+    "county_fips": "153",
+    "gnis_id": "1623017"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "153"
+}

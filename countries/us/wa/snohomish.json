@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Snohomish County"
+  },
+  "alternate_names": [
+    "Snohomish County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "53061",
+    "state_fips": "53",
+    "county_fips": "061",
+    "gnis_id": "1529222"
+  },
+  "parent_id": "us/wa",
+  "admin_level": 2,
+  "local_code": "061"
+}

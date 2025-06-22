@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Chambers County"
+  },
+  "alternate_names": [
+    "Chambers County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "01017",
+    "state_fips": "01",
+    "county_fips": "017",
+    "gnis_id": "161534"
+  },
+  "parent_id": "us/al",
+  "admin_level": 2,
+  "local_code": "017"
+}

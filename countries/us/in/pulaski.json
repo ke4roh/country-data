@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pulaski County"
+  },
+  "alternate_names": [
+    "Pulaski County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18131",
+    "state_fips": "18",
+    "county_fips": "131",
+    "gnis_id": "446852"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "131"
+}

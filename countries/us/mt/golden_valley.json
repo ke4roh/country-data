@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Golden Valley County"
+  },
+  "alternate_names": [
+    "Golden Valley County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "30037",
+    "state_fips": "30",
+    "county_fips": "037",
+    "gnis_id": "1723078"
+  },
+  "parent_id": "us/mt",
+  "admin_level": 2,
+  "local_code": "037"
+}

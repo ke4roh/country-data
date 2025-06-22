@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Buchanan County"
+  },
+  "alternate_names": [
+    "Buchanan County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29021",
+    "state_fips": "29",
+    "county_fips": "021",
+    "gnis_id": "758465"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "021"
+}

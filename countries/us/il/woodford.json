@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Woodford County"
+  },
+  "alternate_names": [
+    "Woodford County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17203",
+    "state_fips": "17",
+    "county_fips": "203",
+    "gnis_id": "1785231"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "203"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Bottineau County"
+  },
+  "alternate_names": [
+    "Bottineau County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38009",
+    "state_fips": "38",
+    "county_fips": "009",
+    "gnis_id": "1034227"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "009"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Ottawa County"
+  },
+  "alternate_names": [
+    "Ottawa County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26139",
+    "state_fips": "26",
+    "county_fips": "139",
+    "gnis_id": "1623012"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "139"
+}

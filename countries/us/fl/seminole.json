@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Seminole County"
+  },
+  "alternate_names": [
+    "Seminole County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12117",
+    "state_fips": "12",
+    "county_fips": "117",
+    "gnis_id": "303665"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "117"
+}

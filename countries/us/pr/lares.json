@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Lares Municipio"
+  },
+  "alternate_names": [
+    "Lares Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72081",
+    "state_fips": "72",
+    "county_fips": "081",
+    "gnis_id": "1804521"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "081"
+}

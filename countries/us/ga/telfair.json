@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Telfair County"
+  },
+  "alternate_names": [
+    "Telfair County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13271",
+    "state_fips": "13",
+    "county_fips": "271",
+    "gnis_id": "356958"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "271"
+}

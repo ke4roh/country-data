@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Okmulgee County"
+  },
+  "alternate_names": [
+    "Okmulgee County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "40111",
+    "state_fips": "40",
+    "county_fips": "111",
+    "gnis_id": "1101843"
+  },
+  "parent_id": "us/ok",
+  "admin_level": 2,
+  "local_code": "111"
+}

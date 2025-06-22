@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Belknap County"
+  },
+  "alternate_names": [
+    "Belknap County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "33001",
+    "state_fips": "33",
+    "county_fips": "001",
+    "gnis_id": "873174"
+  },
+  "parent_id": "us/nh",
+  "admin_level": 2,
+  "local_code": "001"
+}

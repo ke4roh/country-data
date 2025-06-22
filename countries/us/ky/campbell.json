@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Campbell County"
+  },
+  "alternate_names": [
+    "Campbell County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21037",
+    "state_fips": "21",
+    "county_fips": "037",
+    "gnis_id": "516865"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "037"
+}

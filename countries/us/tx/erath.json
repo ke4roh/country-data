@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Erath County"
+  },
+  "alternate_names": [
+    "Erath County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48143",
+    "state_fips": "48",
+    "county_fips": "143",
+    "gnis_id": "1383857"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "143"
+}

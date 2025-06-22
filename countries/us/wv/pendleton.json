@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pendleton County"
+  },
+  "alternate_names": [
+    "Pendleton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "54071",
+    "state_fips": "54",
+    "county_fips": "071",
+    "gnis_id": "1550042"
+  },
+  "parent_id": "us/wv",
+  "admin_level": 2,
+  "local_code": "071"
+}

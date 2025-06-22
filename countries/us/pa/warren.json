@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Warren County"
+  },
+  "alternate_names": [
+    "Warren County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "42123",
+    "state_fips": "42",
+    "county_fips": "123",
+    "gnis_id": "1213691"
+  },
+  "parent_id": "us/pa",
+  "admin_level": 2,
+  "local_code": "123"
+}

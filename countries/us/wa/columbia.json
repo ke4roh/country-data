@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Columbia County"
+  },
+  "alternate_names": [
+    "Columbia County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "53013",
+    "state_fips": "53",
+    "county_fips": "013",
+    "gnis_id": "1513273"
+  },
+  "parent_id": "us/wa",
+  "admin_level": 2,
+  "local_code": "013"
+}

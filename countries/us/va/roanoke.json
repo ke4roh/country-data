@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Roanoke County"
+  },
+  "alternate_names": [
+    "Roanoke County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51161",
+    "state_fips": "51",
+    "county_fips": "161",
+    "gnis_id": "1480165"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "161"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Gove County"
+  },
+  "alternate_names": [
+    "Gove County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20063",
+    "state_fips": "20",
+    "county_fips": "063",
+    "gnis_id": "485000"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "063"
+}

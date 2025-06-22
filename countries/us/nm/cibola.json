@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Cibola County"
+  },
+  "alternate_names": [
+    "Cibola County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "35006",
+    "state_fips": "35",
+    "county_fips": "006",
+    "gnis_id": "933051"
+  },
+  "parent_id": "us/nm",
+  "admin_level": 2,
+  "local_code": "006"
+}

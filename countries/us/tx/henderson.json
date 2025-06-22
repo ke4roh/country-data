@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Henderson County"
+  },
+  "alternate_names": [
+    "Henderson County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48213",
+    "state_fips": "48",
+    "county_fips": "213",
+    "gnis_id": "1383892"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "213"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Somervell County"
+  },
+  "alternate_names": [
+    "Somervell County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48425",
+    "state_fips": "48",
+    "county_fips": "425",
+    "gnis_id": "1383998"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "425"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Mitchell County"
+  },
+  "alternate_names": [
+    "Mitchell County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20123",
+    "state_fips": "20",
+    "county_fips": "123",
+    "gnis_id": "485026"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "123"
+}

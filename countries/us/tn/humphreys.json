@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Humphreys County"
+  },
+  "alternate_names": [
+    "Humphreys County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47085",
+    "state_fips": "47",
+    "county_fips": "085",
+    "gnis_id": "1639757"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "085"
+}

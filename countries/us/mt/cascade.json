@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Cascade County"
+  },
+  "alternate_names": [
+    "Cascade County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "30013",
+    "state_fips": "30",
+    "county_fips": "013",
+    "gnis_id": "1719622"
+  },
+  "parent_id": "us/mt",
+  "admin_level": 2,
+  "local_code": "013"
+}

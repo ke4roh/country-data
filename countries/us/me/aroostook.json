@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Aroostook County"
+  },
+  "alternate_names": [
+    "Aroostook County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "23003",
+    "state_fips": "23",
+    "county_fips": "003",
+    "gnis_id": "581287"
+  },
+  "parent_id": "us/me",
+  "admin_level": 2,
+  "local_code": "003"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Worth County"
+  },
+  "alternate_names": [
+    "Worth County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13321",
+    "state_fips": "13",
+    "county_fips": "321",
+    "gnis_id": "343365"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "321"
+}

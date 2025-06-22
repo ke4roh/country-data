@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Turner County"
+  },
+  "alternate_names": [
+    "Turner County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13287",
+    "state_fips": "13",
+    "county_fips": "287",
+    "gnis_id": "343238"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "287"
+}

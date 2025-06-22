@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Deuel County"
+  },
+  "alternate_names": [
+    "Deuel County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "46039",
+    "state_fips": "46",
+    "county_fips": "039",
+    "gnis_id": "1265781"
+  },
+  "parent_id": "us/sd",
+  "admin_level": 2,
+  "local_code": "039"
+}

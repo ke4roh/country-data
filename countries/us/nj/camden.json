@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Camden County"
+  },
+  "alternate_names": [
+    "Camden County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "34007",
+    "state_fips": "34",
+    "county_fips": "007",
+    "gnis_id": "882273"
+  },
+  "parent_id": "us/nj",
+  "admin_level": 2,
+  "local_code": "007"
+}

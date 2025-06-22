@@ -1,0 +1,15 @@
+{
+  "type": "state",
+  "name": {
+    "en": "Nevada"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "32",
+    "gnis_id": "1779793"
+  },
+  "parent_id": "us",
+  "admin_level": 1
+}

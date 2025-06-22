@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Clay County"
+  },
+  "alternate_names": [
+    "Clay County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13061",
+    "state_fips": "13",
+    "county_fips": "061",
+    "gnis_id": "344805"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "061"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Rhea County"
+  },
+  "alternate_names": [
+    "Rhea County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47143",
+    "state_fips": "47",
+    "county_fips": "143",
+    "gnis_id": "1639784"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "143"
+}

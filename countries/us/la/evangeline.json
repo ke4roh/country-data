@@ -1,0 +1,20 @@
+{
+  "type": "parish",
+  "name": {
+    "en": "Evangeline Parish"
+  },
+  "alternate_names": [
+    "Evangeline Parish"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "22039",
+    "state_fips": "22",
+    "county_fips": "039",
+    "gnis_id": "558551"
+  },
+  "parent_id": "us/la",
+  "admin_level": 2,
+  "local_code": "039"
+}

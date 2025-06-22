@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Clinton County"
+  },
+  "alternate_names": [
+    "Clinton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "42035",
+    "state_fips": "42",
+    "county_fips": "035",
+    "gnis_id": "1214721"
+  },
+  "parent_id": "us/pa",
+  "admin_level": 2,
+  "local_code": "035"
+}

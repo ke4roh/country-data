@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Polk County"
+  },
+  "alternate_names": [
+    "Polk County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "19153",
+    "state_fips": "19",
+    "county_fips": "153",
+    "gnis_id": "465265"
+  },
+  "parent_id": "us/ia",
+  "admin_level": 2,
+  "local_code": "153"
+}

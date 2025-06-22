@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Muscogee County"
+  },
+  "alternate_names": [
+    "Muscogee County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13215",
+    "state_fips": "13",
+    "county_fips": "215",
+    "gnis_id": "357428"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "215"
+}

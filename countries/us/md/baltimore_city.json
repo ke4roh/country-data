@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Baltimore (city) County"
+  },
+  "alternate_names": [
+    "City of Baltimore"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "24510",
+    "state_fips": "24",
+    "county_fips": "510",
+    "gnis_id": "1702381"
+  },
+  "parent_id": "us/md",
+  "admin_level": 2,
+  "local_code": "510"
+}

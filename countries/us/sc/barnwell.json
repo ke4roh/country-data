@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Barnwell County"
+  },
+  "alternate_names": [
+    "Barnwell County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "45011",
+    "state_fips": "45",
+    "county_fips": "011",
+    "gnis_id": "1247983"
+  },
+  "parent_id": "us/sc",
+  "admin_level": 2,
+  "local_code": "011"
+}

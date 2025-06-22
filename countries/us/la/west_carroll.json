@@ -1,0 +1,20 @@
+{
+  "type": "parish",
+  "name": {
+    "en": "West Carroll Parish"
+  },
+  "alternate_names": [
+    "West Carroll Parish"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "22123",
+    "state_fips": "22",
+    "county_fips": "123",
+    "gnis_id": "559578"
+  },
+  "parent_id": "us/la",
+  "admin_level": 2,
+  "local_code": "123"
+}

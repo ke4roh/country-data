@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Osceola County"
+  },
+  "alternate_names": [
+    "Osceola County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12097",
+    "state_fips": "12",
+    "county_fips": "097",
+    "gnis_id": "295748"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "097"
+}

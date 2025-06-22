@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pennington County"
+  },
+  "alternate_names": [
+    "Pennington County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27113",
+    "state_fips": "27",
+    "county_fips": "113",
+    "gnis_id": "659502"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "113"
+}

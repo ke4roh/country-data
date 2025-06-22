@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Knox County"
+  },
+  "alternate_names": [
+    "Knox County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39083",
+    "state_fips": "39",
+    "county_fips": "083",
+    "gnis_id": "1074054"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "083"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Tippecanoe County"
+  },
+  "alternate_names": [
+    "Tippecanoe County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18157",
+    "state_fips": "18",
+    "county_fips": "157",
+    "gnis_id": "450393"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "157"
+}

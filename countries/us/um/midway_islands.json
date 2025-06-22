@@ -1,0 +1,20 @@
+{
+  "type": "area",
+  "name": {
+    "en": "Midway Islands Area"
+  },
+  "alternate_names": [
+    "Midway Islands"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "74300",
+    "state_fips": "74",
+    "county_fips": "300",
+    "gnis_id": "1802699"
+  },
+  "parent_id": "us/um",
+  "admin_level": 2,
+  "local_code": "300"
+}

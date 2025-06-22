@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Rockland County"
+  },
+  "alternate_names": [
+    "Rockland County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36087",
+    "state_fips": "36",
+    "county_fips": "087",
+    "gnis_id": "974142"
+  },
+  "parent_id": "us/ny",
+  "admin_level": 2,
+  "local_code": "087"
+}

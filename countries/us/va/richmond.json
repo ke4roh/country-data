@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Richmond County"
+  },
+  "alternate_names": [
+    "Richmond County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51159",
+    "state_fips": "51",
+    "county_fips": "159",
+    "gnis_id": "1480164"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "159"
+}

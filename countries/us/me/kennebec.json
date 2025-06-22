@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Kennebec County"
+  },
+  "alternate_names": [
+    "Kennebec County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "23011",
+    "state_fips": "23",
+    "county_fips": "011",
+    "gnis_id": "581291"
+  },
+  "parent_id": "us/me",
+  "admin_level": 2,
+  "local_code": "011"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Dunn County"
+  },
+  "alternate_names": [
+    "Dunn County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38025",
+    "state_fips": "38",
+    "county_fips": "025",
+    "gnis_id": "1035623"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "025"
+}

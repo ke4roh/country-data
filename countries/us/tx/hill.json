@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hill County"
+  },
+  "alternate_names": [
+    "Hill County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48217",
+    "state_fips": "48",
+    "county_fips": "217",
+    "gnis_id": "1383894"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "217"
+}

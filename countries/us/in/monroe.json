@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Monroe County"
+  },
+  "alternate_names": [
+    "Monroe County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18105",
+    "state_fips": "18",
+    "county_fips": "105",
+    "gnis_id": "451680"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "105"
+}

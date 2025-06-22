@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Bryan County"
+  },
+  "alternate_names": [
+    "Bryan County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "40013",
+    "state_fips": "40",
+    "county_fips": "013",
+    "gnis_id": "1101794"
+  },
+  "parent_id": "us/ok",
+  "admin_level": 2,
+  "local_code": "013"
+}

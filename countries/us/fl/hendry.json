@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hendry County"
+  },
+  "alternate_names": [
+    "Hendry County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12051",
+    "state_fips": "12",
+    "county_fips": "051",
+    "gnis_id": "307626"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "051"
+}

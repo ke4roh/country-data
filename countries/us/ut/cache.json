@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Cache County"
+  },
+  "alternate_names": [
+    "Cache County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "49005",
+    "state_fips": "49",
+    "county_fips": "005",
+    "gnis_id": "1448017"
+  },
+  "parent_id": "us/ut",
+  "admin_level": 2,
+  "local_code": "005"
+}

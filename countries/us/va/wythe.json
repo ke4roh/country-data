@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Wythe County"
+  },
+  "alternate_names": [
+    "Wythe County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51197",
+    "state_fips": "51",
+    "county_fips": "197",
+    "gnis_id": "1501379"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "197"
+}

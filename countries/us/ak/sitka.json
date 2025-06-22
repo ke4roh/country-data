@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Sitka Borough"
+  },
+  "alternate_names": [
+    "Sitka City and Borough"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02220",
+    "state_fips": "02",
+    "county_fips": "220",
+    "gnis_id": "1419981"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "220"
+}

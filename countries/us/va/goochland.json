@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Goochland County"
+  },
+  "alternate_names": [
+    "Goochland County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51075",
+    "state_fips": "51",
+    "county_fips": "075",
+    "gnis_id": "1674271"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "075"
+}

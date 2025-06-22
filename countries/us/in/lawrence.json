@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lawrence County"
+  },
+  "alternate_names": [
+    "Lawrence County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18093",
+    "state_fips": "18",
+    "county_fips": "093",
+    "gnis_id": "451703"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "093"
+}

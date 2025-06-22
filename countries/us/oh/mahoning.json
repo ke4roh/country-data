@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Mahoning County"
+  },
+  "alternate_names": [
+    "Mahoning County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39099",
+    "state_fips": "39",
+    "county_fips": "099",
+    "gnis_id": "1074062"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "099"
+}

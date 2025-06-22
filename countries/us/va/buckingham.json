@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Buckingham County"
+  },
+  "alternate_names": [
+    "Buckingham County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51029",
+    "state_fips": "51",
+    "county_fips": "029",
+    "gnis_id": "1501502"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "029"
+}

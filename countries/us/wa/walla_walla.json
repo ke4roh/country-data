@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Walla Walla County"
+  },
+  "alternate_names": [
+    "Walla Walla County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "53071",
+    "state_fips": "53",
+    "county_fips": "071",
+    "gnis_id": "1531819"
+  },
+  "parent_id": "us/wa",
+  "admin_level": 2,
+  "local_code": "071"
+}

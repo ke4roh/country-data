@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Iron County"
+  },
+  "alternate_names": [
+    "Iron County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "49021",
+    "state_fips": "49",
+    "county_fips": "021",
+    "gnis_id": "1448025"
+  },
+  "parent_id": "us/ut",
+  "admin_level": 2,
+  "local_code": "021"
+}

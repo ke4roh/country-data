@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Plymouth County"
+  },
+  "alternate_names": [
+    "Plymouth County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "25023",
+    "state_fips": "25",
+    "county_fips": "023",
+    "gnis_id": "606938"
+  },
+  "parent_id": "us/ma",
+  "admin_level": 2,
+  "local_code": "023"
+}

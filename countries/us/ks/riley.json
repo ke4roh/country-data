@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Riley County"
+  },
+  "alternate_names": [
+    "Riley County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20161",
+    "state_fips": "20",
+    "county_fips": "161",
+    "gnis_id": "485044"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "161"
+}

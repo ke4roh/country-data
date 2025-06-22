@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Fremont County"
+  },
+  "alternate_names": [
+    "Fremont County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "08043",
+    "state_fips": "08",
+    "county_fips": "043",
+    "gnis_id": "198137"
+  },
+  "parent_id": "us/co",
+  "admin_level": 2,
+  "local_code": "043"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Butler County"
+  },
+  "alternate_names": [
+    "Butler County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39017",
+    "state_fips": "39",
+    "county_fips": "017",
+    "gnis_id": "1074021"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "017"
+}

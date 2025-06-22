@@ -1,0 +1,20 @@
+{
+  "type": "parish",
+  "name": {
+    "en": "Webster Parish"
+  },
+  "alternate_names": [
+    "Webster Parish"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "22119",
+    "state_fips": "22",
+    "county_fips": "119",
+    "gnis_id": "559567"
+  },
+  "parent_id": "us/la",
+  "admin_level": 2,
+  "local_code": "119"
+}

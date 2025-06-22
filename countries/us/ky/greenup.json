@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Greenup County"
+  },
+  "alternate_names": [
+    "Greenup County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21089",
+    "state_fips": "21",
+    "county_fips": "089",
+    "gnis_id": "516891"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "089"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Barry County"
+  },
+  "alternate_names": [
+    "Barry County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26015",
+    "state_fips": "26",
+    "county_fips": "015",
+    "gnis_id": "1622950"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "015"
+}

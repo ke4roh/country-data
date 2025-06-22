@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Steuben County"
+  },
+  "alternate_names": [
+    "Steuben County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36101",
+    "state_fips": "36",
+    "county_fips": "101",
+    "gnis_id": "974148"
+  },
+  "parent_id": "us/ny",
+  "admin_level": 2,
+  "local_code": "101"
+}

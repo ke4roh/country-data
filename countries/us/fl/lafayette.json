@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lafayette County"
+  },
+  "alternate_names": [
+    "Lafayette County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12067",
+    "state_fips": "12",
+    "county_fips": "067",
+    "gnis_id": "295732"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "067"
+}

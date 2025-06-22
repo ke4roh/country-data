@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Gunnison County"
+  },
+  "alternate_names": [
+    "Gunnison County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "08051",
+    "state_fips": "08",
+    "county_fips": "051",
+    "gnis_id": "198141"
+  },
+  "parent_id": "us/co",
+  "admin_level": 2,
+  "local_code": "051"
+}

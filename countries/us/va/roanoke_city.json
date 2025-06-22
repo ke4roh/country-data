@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Roanoke (city) County"
+  },
+  "alternate_names": [
+    "City of Roanoke"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51770",
+    "state_fips": "51",
+    "county_fips": "770",
+    "gnis_id": "1498439"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "770"
+}

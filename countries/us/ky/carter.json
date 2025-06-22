@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Carter County"
+  },
+  "alternate_names": [
+    "Carter County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "21043",
+    "state_fips": "21",
+    "county_fips": "043",
+    "gnis_id": "516868"
+  },
+  "parent_id": "us/ky",
+  "admin_level": 2,
+  "local_code": "043"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pittsylvania County"
+  },
+  "alternate_names": [
+    "Pittsylvania County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51143",
+    "state_fips": "51",
+    "county_fips": "143",
+    "gnis_id": "1480157"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "143"
+}

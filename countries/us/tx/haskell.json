@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Haskell County"
+  },
+  "alternate_names": [
+    "Haskell County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48207",
+    "state_fips": "48",
+    "county_fips": "207",
+    "gnis_id": "1383889"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "207"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Sherman County"
+  },
+  "alternate_names": [
+    "Sherman County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20181",
+    "state_fips": "20",
+    "county_fips": "181",
+    "gnis_id": "485053"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "181"
+}

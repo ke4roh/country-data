@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Titus County"
+  },
+  "alternate_names": [
+    "Titus County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "48449",
+    "state_fips": "48",
+    "county_fips": "449",
+    "gnis_id": "1384010"
+  },
+  "parent_id": "us/tx",
+  "admin_level": 2,
+  "local_code": "449"
+}

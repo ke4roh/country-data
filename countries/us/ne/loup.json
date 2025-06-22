@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Loup County"
+  },
+  "alternate_names": [
+    "Loup County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31115",
+    "state_fips": "31",
+    "county_fips": "115",
+    "gnis_id": "835879"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "115"
+}

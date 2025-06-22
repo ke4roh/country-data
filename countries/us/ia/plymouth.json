@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Plymouth County"
+  },
+  "alternate_names": [
+    "Plymouth County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "19149",
+    "state_fips": "19",
+    "county_fips": "149",
+    "gnis_id": "465263"
+  },
+  "parent_id": "us/ia",
+  "admin_level": 2,
+  "local_code": "149"
+}

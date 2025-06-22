@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "St. Louis County"
+  },
+  "alternate_names": [
+    "Saint Louis County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "27137",
+    "state_fips": "27",
+    "county_fips": "137",
+    "gnis_id": "662850"
+  },
+  "parent_id": "us/mn",
+  "admin_level": 2,
+  "local_code": "137"
+}

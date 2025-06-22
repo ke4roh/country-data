@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Cook County"
+  },
+  "alternate_names": [
+    "Cook County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "17031",
+    "state_fips": "17",
+    "county_fips": "031",
+    "gnis_id": "1784766"
+  },
+  "parent_id": "us/il",
+  "admin_level": 2,
+  "local_code": "031"
+}

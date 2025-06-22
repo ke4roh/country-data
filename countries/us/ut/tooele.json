@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Tooele County"
+  },
+  "alternate_names": [
+    "Tooele County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "49045",
+    "state_fips": "49",
+    "county_fips": "045",
+    "gnis_id": "1448036"
+  },
+  "parent_id": "us/ut",
+  "admin_level": 2,
+  "local_code": "045"
+}

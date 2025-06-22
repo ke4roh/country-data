@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Carroll County"
+  },
+  "alternate_names": [
+    "Carroll County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29033",
+    "state_fips": "29",
+    "county_fips": "033",
+    "gnis_id": "758471"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "033"
+}

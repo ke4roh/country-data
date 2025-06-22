@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Williams County"
+  },
+  "alternate_names": [
+    "Williams County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39171",
+    "state_fips": "39",
+    "county_fips": "171",
+    "gnis_id": "1074097"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "171"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Tallahatchie County"
+  },
+  "alternate_names": [
+    "Tallahatchie County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28135",
+    "state_fips": "28",
+    "county_fips": "135",
+    "gnis_id": "695788"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "135"
+}

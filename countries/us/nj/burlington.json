@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Burlington County"
+  },
+  "alternate_names": [
+    "Burlington County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "34005",
+    "state_fips": "34",
+    "county_fips": "005",
+    "gnis_id": "882272"
+  },
+  "parent_id": "us/nj",
+  "admin_level": 2,
+  "local_code": "005"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Maries County"
+  },
+  "alternate_names": [
+    "Maries County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29125",
+    "state_fips": "29",
+    "county_fips": "125",
+    "gnis_id": "758516"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "125"
+}

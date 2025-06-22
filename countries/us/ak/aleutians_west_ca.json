@@ -1,0 +1,20 @@
+{
+  "type": "borough",
+  "name": {
+    "en": "Aleutians West (CA) Borough"
+  },
+  "alternate_names": [
+    "Aleutians West Census Area"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "02016",
+    "state_fips": "02",
+    "county_fips": "016",
+    "gnis_id": "1419965"
+  },
+  "parent_id": "us/ak",
+  "admin_level": 2,
+  "local_code": "016"
+}

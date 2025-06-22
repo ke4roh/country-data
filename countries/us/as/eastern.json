@@ -1,0 +1,20 @@
+{
+  "type": "district",
+  "name": {
+    "en": "Eastern District"
+  },
+  "alternate_names": [
+    "Eastern District"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "60010",
+    "state_fips": "60",
+    "county_fips": "010",
+    "gnis_id": "1805240"
+  },
+  "parent_id": "us/as",
+  "admin_level": 2,
+  "local_code": "010"
+}

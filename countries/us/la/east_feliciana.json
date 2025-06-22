@@ -1,0 +1,20 @@
+{
+  "type": "parish",
+  "name": {
+    "en": "East Feliciana Parish"
+  },
+  "alternate_names": [
+    "East Feliciana Parish"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "22037",
+    "state_fips": "22",
+    "county_fips": "037",
+    "gnis_id": "558542"
+  },
+  "parent_id": "us/la",
+  "admin_level": 2,
+  "local_code": "037"
+}

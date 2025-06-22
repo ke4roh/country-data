@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Flagler County"
+  },
+  "alternate_names": [
+    "Flagler County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12035",
+    "state_fips": "12",
+    "county_fips": "035",
+    "gnis_id": "308547"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "035"
+}

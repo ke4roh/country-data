@@ -1,0 +1,20 @@
+{
+  "type": "parish",
+  "name": {
+    "en": "West Baton Rouge Parish"
+  },
+  "alternate_names": [
+    "West Baton Rouge Parish"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "22121",
+    "state_fips": "22",
+    "county_fips": "121",
+    "gnis_id": "559570"
+  },
+  "parent_id": "us/la",
+  "admin_level": 2,
+  "local_code": "121"
+}

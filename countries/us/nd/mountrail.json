@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Mountrail County"
+  },
+  "alternate_names": [
+    "Mountrail County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38061",
+    "state_fips": "38",
+    "county_fips": "061",
+    "gnis_id": "1035307"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "061"
+}

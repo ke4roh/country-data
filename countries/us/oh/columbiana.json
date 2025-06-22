@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Columbiana County"
+  },
+  "alternate_names": [
+    "Columbiana County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39029",
+    "state_fips": "39",
+    "county_fips": "029",
+    "gnis_id": "1074027"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "029"
+}

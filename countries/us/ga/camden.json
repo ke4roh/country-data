@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Camden County"
+  },
+  "alternate_names": [
+    "Camden County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13039",
+    "state_fips": "13",
+    "county_fips": "039",
+    "gnis_id": "1671316"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "039"
+}

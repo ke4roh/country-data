@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Scott County"
+  },
+  "alternate_names": [
+    "Scott County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20171",
+    "state_fips": "20",
+    "county_fips": "171",
+    "gnis_id": "485048"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "171"
+}

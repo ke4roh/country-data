@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hampton County"
+  },
+  "alternate_names": [
+    "Hampton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "45049",
+    "state_fips": "45",
+    "county_fips": "049",
+    "gnis_id": "1248004"
+  },
+  "parent_id": "us/sc",
+  "admin_level": 2,
+  "local_code": "049"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lucas County"
+  },
+  "alternate_names": [
+    "Lucas County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "39095",
+    "state_fips": "39",
+    "county_fips": "095",
+    "gnis_id": "1074060"
+  },
+  "parent_id": "us/oh",
+  "admin_level": 2,
+  "local_code": "095"
+}

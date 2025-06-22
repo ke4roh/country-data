@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Decatur County"
+  },
+  "alternate_names": [
+    "Decatur County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "19053",
+    "state_fips": "19",
+    "county_fips": "053",
+    "gnis_id": "465215"
+  },
+  "parent_id": "us/ia",
+  "admin_level": 2,
+  "local_code": "053"
+}

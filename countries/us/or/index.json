@@ -1,0 +1,15 @@
+{
+  "type": "state",
+  "name": {
+    "en": "Oregon"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "41",
+    "gnis_id": "1155107"
+  },
+  "parent_id": "us",
+  "admin_level": 1
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Craig County"
+  },
+  "alternate_names": [
+    "Craig County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51045",
+    "state_fips": "51",
+    "county_fips": "045",
+    "gnis_id": "1673664"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "045"
+}

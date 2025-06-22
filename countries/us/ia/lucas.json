@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lucas County"
+  },
+  "alternate_names": [
+    "Lucas County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "19117",
+    "state_fips": "19",
+    "county_fips": "117",
+    "gnis_id": "465247"
+  },
+  "parent_id": "us/ia",
+  "admin_level": 2,
+  "local_code": "117"
+}

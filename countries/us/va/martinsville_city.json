@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Martinsville (city) County"
+  },
+  "alternate_names": [
+    "City of Martinsville"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51690",
+    "state_fips": "51",
+    "county_fips": "690",
+    "gnis_id": "1789072"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "690"
+}

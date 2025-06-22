@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "St. Joseph County"
+  },
+  "alternate_names": [
+    "Saint Joseph County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26149",
+    "state_fips": "26",
+    "county_fips": "149",
+    "gnis_id": "1625034"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "149"
+}

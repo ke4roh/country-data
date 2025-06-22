@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Glynn County"
+  },
+  "alternate_names": [
+    "Glynn County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13127",
+    "state_fips": "13",
+    "county_fips": "127",
+    "gnis_id": "1671513"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "127"
+}

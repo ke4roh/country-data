@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Manitowoc County"
+  },
+  "alternate_names": [
+    "Manitowoc County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55071",
+    "state_fips": "55",
+    "county_fips": "071",
+    "gnis_id": "1581095"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "071"
+}

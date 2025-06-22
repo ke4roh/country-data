@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Maury County"
+  },
+  "alternate_names": [
+    "Maury County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "47119",
+    "state_fips": "47",
+    "county_fips": "119",
+    "gnis_id": "1639772"
+  },
+  "parent_id": "us/tn",
+  "admin_level": 2,
+  "local_code": "119"
+}

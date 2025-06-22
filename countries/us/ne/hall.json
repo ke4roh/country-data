@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Hall County"
+  },
+  "alternate_names": [
+    "Hall County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "31079",
+    "state_fips": "31",
+    "county_fips": "079",
+    "gnis_id": "835861"
+  },
+  "parent_id": "us/ne",
+  "admin_level": 2,
+  "local_code": "079"
+}

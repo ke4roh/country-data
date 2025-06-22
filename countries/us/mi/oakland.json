@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Oakland County"
+  },
+  "alternate_names": [
+    "Oakland County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "26125",
+    "state_fips": "26",
+    "county_fips": "125",
+    "gnis_id": "1623005"
+  },
+  "parent_id": "us/mi",
+  "admin_level": 2,
+  "local_code": "125"
+}

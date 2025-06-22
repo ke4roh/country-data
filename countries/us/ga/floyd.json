@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Floyd County"
+  },
+  "alternate_names": [
+    "Floyd County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13115",
+    "state_fips": "13",
+    "county_fips": "115",
+    "gnis_id": "353665"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "115"
+}

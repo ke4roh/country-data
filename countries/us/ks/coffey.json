@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Coffey County"
+  },
+  "alternate_names": [
+    "Coffey County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20031",
+    "state_fips": "20",
+    "county_fips": "031",
+    "gnis_id": "484985"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "031"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Petroleum County"
+  },
+  "alternate_names": [
+    "Petroleum County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "30069",
+    "state_fips": "30",
+    "county_fips": "069",
+    "gnis_id": "1719590"
+  },
+  "parent_id": "us/mt",
+  "admin_level": 2,
+  "local_code": "069"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "municipio",
+  "name": {
+    "en": "Culebra Municipio"
+  },
+  "alternate_names": [
+    "Culebra Municipio"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "72049",
+    "state_fips": "72",
+    "county_fips": "049",
+    "gnis_id": "1804504"
+  },
+  "parent_id": "us/pr",
+  "admin_level": 2,
+  "local_code": "049"
+}

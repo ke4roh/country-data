@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Marshall County"
+  },
+  "alternate_names": [
+    "Marshall County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20117",
+    "state_fips": "20",
+    "county_fips": "117",
+    "gnis_id": "485023"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "117"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Harney County"
+  },
+  "alternate_names": [
+    "Harney County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "41025",
+    "state_fips": "41",
+    "county_fips": "025",
+    "gnis_id": "1135852"
+  },
+  "parent_id": "us/or",
+  "admin_level": 2,
+  "local_code": "025"
+}

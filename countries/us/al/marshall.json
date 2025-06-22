@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Marshall County"
+  },
+  "alternate_names": [
+    "Marshall County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "01095",
+    "state_fips": "01",
+    "county_fips": "095",
+    "gnis_id": "161574"
+  },
+  "parent_id": "us/al",
+  "admin_level": 2,
+  "local_code": "095"
+}

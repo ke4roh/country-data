@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Douglas County"
+  },
+  "alternate_names": [
+    "Douglas County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "20045",
+    "state_fips": "20",
+    "county_fips": "045",
+    "gnis_id": "484992"
+  },
+  "parent_id": "us/ks",
+  "admin_level": 2,
+  "local_code": "045"
+}

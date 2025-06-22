@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Bear Lake County"
+  },
+  "alternate_names": [
+    "Bear Lake County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "16007",
+    "state_fips": "16",
+    "county_fips": "007",
+    "gnis_id": "395090"
+  },
+  "parent_id": "us/id",
+  "admin_level": 2,
+  "local_code": "007"
+}

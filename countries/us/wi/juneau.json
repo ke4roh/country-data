@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Juneau County"
+  },
+  "alternate_names": [
+    "Juneau County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "55057",
+    "state_fips": "55",
+    "county_fips": "057",
+    "gnis_id": "1581088"
+  },
+  "parent_id": "us/wi",
+  "admin_level": 2,
+  "local_code": "057"
+}

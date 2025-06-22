@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Tift County"
+  },
+  "alternate_names": [
+    "Tift County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13277",
+    "state_fips": "13",
+    "county_fips": "277",
+    "gnis_id": "344090"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "277"
+}

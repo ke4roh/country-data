@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Prairie County"
+  },
+  "alternate_names": [
+    "Prairie County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05117",
+    "state_fips": "05",
+    "county_fips": "117",
+    "gnis_id": "69176"
+  },
+  "parent_id": "us/ar",
+  "admin_level": 2,
+  "local_code": "117"
+}

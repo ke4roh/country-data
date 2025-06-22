@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Calhoun County"
+  },
+  "alternate_names": [
+    "Calhoun County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "54013",
+    "state_fips": "54",
+    "county_fips": "013",
+    "gnis_id": "1696945"
+  },
+  "parent_id": "us/wv",
+  "admin_level": 2,
+  "local_code": "013"
+}

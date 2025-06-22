@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Crawford County"
+  },
+  "alternate_names": [
+    "Crawford County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "05033",
+    "state_fips": "05",
+    "county_fips": "033",
+    "gnis_id": "69161"
+  },
+  "parent_id": "us/ar",
+  "admin_level": 2,
+  "local_code": "033"
+}

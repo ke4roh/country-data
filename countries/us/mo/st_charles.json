@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "St. Charles County"
+  },
+  "alternate_names": [
+    "Saint Charles County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "29183",
+    "state_fips": "29",
+    "county_fips": "183",
+    "gnis_id": "758546"
+  },
+  "parent_id": "us/mo",
+  "admin_level": 2,
+  "local_code": "183"
+}

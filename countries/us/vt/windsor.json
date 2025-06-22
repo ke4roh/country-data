@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Windsor County"
+  },
+  "alternate_names": [
+    "Windsor County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "50027",
+    "state_fips": "50",
+    "county_fips": "027",
+    "gnis_id": "1461770"
+  },
+  "parent_id": "us/vt",
+  "admin_level": 2,
+  "local_code": "027"
+}

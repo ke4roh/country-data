@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Clarke County"
+  },
+  "alternate_names": [
+    "Clarke County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28023",
+    "state_fips": "28",
+    "county_fips": "023",
+    "gnis_id": "695736"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "023"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Fulton County"
+  },
+  "alternate_names": [
+    "Fulton County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36035",
+    "state_fips": "36",
+    "county_fips": "035",
+    "gnis_id": "974116"
+  },
+  "parent_id": "us/ny",
+  "admin_level": 2,
+  "local_code": "035"
+}

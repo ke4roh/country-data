@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Saratoga County"
+  },
+  "alternate_names": [
+    "Saratoga County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "36091",
+    "state_fips": "36",
+    "county_fips": "091",
+    "gnis_id": "974143"
+  },
+  "parent_id": "us/ny",
+  "admin_level": 2,
+  "local_code": "091"
+}

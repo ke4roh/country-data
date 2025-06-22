@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Tazewell County"
+  },
+  "alternate_names": [
+    "Tazewell County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51185",
+    "state_fips": "51",
+    "county_fips": "185",
+    "gnis_id": "1497748"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "185"
+}

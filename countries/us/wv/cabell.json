@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Cabell County"
+  },
+  "alternate_names": [
+    "Cabell County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "54011",
+    "state_fips": "54",
+    "county_fips": "011",
+    "gnis_id": "1550012"
+  },
+  "parent_id": "us/wv",
+  "admin_level": 2,
+  "local_code": "011"
+}

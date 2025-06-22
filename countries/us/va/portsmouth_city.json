@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Portsmouth (city) County"
+  },
+  "alternate_names": [
+    "City of Portsmouth"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "51740",
+    "state_fips": "51",
+    "county_fips": "740",
+    "gnis_id": "1498556"
+  },
+  "parent_id": "us/va",
+  "admin_level": 2,
+  "local_code": "740"
+}

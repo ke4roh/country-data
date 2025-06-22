@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Vanderburgh County"
+  },
+  "alternate_names": [
+    "Vanderburgh County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "18163",
+    "state_fips": "18",
+    "county_fips": "163",
+    "gnis_id": "450396"
+  },
+  "parent_id": "us/in",
+  "admin_level": 2,
+  "local_code": "163"
+}

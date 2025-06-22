@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Dixie County"
+  },
+  "alternate_names": [
+    "Dixie County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "12029",
+    "state_fips": "12",
+    "county_fips": "029",
+    "gnis_id": "295725"
+  },
+  "parent_id": "us/fl",
+  "admin_level": 2,
+  "local_code": "029"
+}

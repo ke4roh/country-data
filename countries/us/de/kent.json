@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Kent County"
+  },
+  "alternate_names": [
+    "Kent County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "10001",
+    "state_fips": "10",
+    "county_fips": "001",
+    "gnis_id": "217271"
+  },
+  "parent_id": "us/de",
+  "admin_level": 2,
+  "local_code": "001"
+}

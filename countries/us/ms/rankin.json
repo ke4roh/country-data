@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Rankin County"
+  },
+  "alternate_names": [
+    "Rankin County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "28121",
+    "state_fips": "28",
+    "county_fips": "121",
+    "gnis_id": "695781"
+  },
+  "parent_id": "us/ms",
+  "admin_level": 2,
+  "local_code": "121"
+}

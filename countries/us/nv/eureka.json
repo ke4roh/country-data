@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Eureka County"
+  },
+  "alternate_names": [
+    "Eureka County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "32011",
+    "state_fips": "32",
+    "county_fips": "011",
+    "gnis_id": "858640"
+  },
+  "parent_id": "us/nv",
+  "admin_level": 2,
+  "local_code": "011"
+}

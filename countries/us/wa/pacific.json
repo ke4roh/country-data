@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Pacific County"
+  },
+  "alternate_names": [
+    "Pacific County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "53049",
+    "state_fips": "53",
+    "county_fips": "049",
+    "gnis_id": "1513274"
+  },
+  "parent_id": "us/wa",
+  "admin_level": 2,
+  "local_code": "049"
+}

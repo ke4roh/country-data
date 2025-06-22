@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Meriwether County"
+  },
+  "alternate_names": [
+    "Meriwether County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "13199",
+    "state_fips": "13",
+    "county_fips": "199",
+    "gnis_id": "346892"
+  },
+  "parent_id": "us/ga",
+  "admin_level": 2,
+  "local_code": "199"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Lower Connecticut River Valley County"
+  },
+  "alternate_names": [
+    "Lower Connecticut River Valley Planning Region"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "09130",
+    "state_fips": "09",
+    "county_fips": "130",
+    "gnis_id": "2830246"
+  },
+  "parent_id": "us/ct",
+  "admin_level": 2,
+  "local_code": "130"
+}

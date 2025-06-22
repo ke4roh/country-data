@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Stutsman County"
+  },
+  "alternate_names": [
+    "Stutsman County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "38093",
+    "state_fips": "38",
+    "county_fips": "093",
+    "gnis_id": "1034224"
+  },
+  "parent_id": "us/nd",
+  "admin_level": 2,
+  "local_code": "093"
+}

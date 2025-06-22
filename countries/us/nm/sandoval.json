@@ -1,0 +1,20 @@
+{
+  "type": "county",
+  "name": {
+    "en": "Sandoval County"
+  },
+  "alternate_names": [
+    "Sandoval County"
+  ],
+  "valid_from": null,
+  "valid_to": null,
+  "meta": {
+    "fips": "35043",
+    "state_fips": "35",
+    "county_fips": "043",
+    "gnis_id": "929113"
+  },
+  "parent_id": "us/nm",
+  "admin_level": 2,
+  "local_code": "043"
+}
