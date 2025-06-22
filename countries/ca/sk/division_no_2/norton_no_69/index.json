@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Norton No. 69",
+    "fr": "Norton No. 69"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/sk/division_no_2",
+  "admin_level": 4,
+  "local_code": "4702052",
+  "meta": {
+    "sgc_province": "47"
+  }
+}

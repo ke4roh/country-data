@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Sables-Spanish Rivers",
+    "fr": "Sables-Spanish Rivers"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/on/sudbury",
+  "admin_level": 4,
+  "local_code": "3552023",
+  "meta": {
+    "sgc_province": "35"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Ristigouche-Partie-Sud-Est",
+    "fr": "Ristigouche-Partie-Sud-Est"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/qc/avignon",
+  "admin_level": 4,
+  "local_code": "2406035",
+  "meta": {
+    "sgc_province": "24"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Rivière-Saint-Jean",
+    "fr": "Rivière-Saint-Jean"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/qc/minganie--le_golfe-du-saint-laurent",
+  "admin_level": 4,
+  "local_code": "2498050",
+  "meta": {
+    "sgc_province": "24"
+  }
+}

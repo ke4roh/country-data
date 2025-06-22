@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Riverside-Albert",
+    "fr": "Riverside-Albert"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/nb/albert",
+  "admin_level": 4,
+  "local_code": "1306003",
+  "meta": {
+    "sgc_province": "13"
+  }
+}

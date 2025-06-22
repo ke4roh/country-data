@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Puckatholetchin 11",
+    "fr": "Puckatholetchin 11"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/bc/fraser_valley",
+  "admin_level": 4,
+  "local_code": "5909808",
+  "meta": {
+    "sgc_province": "59"
+  }
+}

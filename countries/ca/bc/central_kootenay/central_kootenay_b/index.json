@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Central Kootenay B",
+    "fr": "Central Kootenay B"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/bc/central_kootenay",
+  "admin_level": 4,
+  "local_code": "5903013",
+  "meta": {
+    "sgc_province": "59"
+  }
+}

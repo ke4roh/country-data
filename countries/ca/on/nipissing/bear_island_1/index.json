@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Bear Island 1",
+    "fr": "Bear Island 1"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/on/nipissing",
+  "admin_level": 4,
+  "local_code": "3548072",
+  "meta": {
+    "sgc_province": "35"
+  }
+}

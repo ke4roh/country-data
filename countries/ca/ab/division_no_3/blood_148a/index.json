@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Blood 148A",
+    "fr": "Blood 148A"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/ab/division_no_3",
+  "admin_level": 4,
+  "local_code": "4803803",
+  "meta": {
+    "sgc_province": "48"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Hopetown 10A",
+    "fr": "Hopetown 10A"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/bc/mount_waddington",
+  "admin_level": 4,
+  "local_code": "5943809",
+  "meta": {
+    "sgc_province": "59"
+  }
+}

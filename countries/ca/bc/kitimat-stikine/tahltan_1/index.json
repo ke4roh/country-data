@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Tahltan 1",
+    "fr": "Tahltan 1"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/bc/kitimat-stikine",
+  "admin_level": 4,
+  "local_code": "5949846",
+  "meta": {
+    "sgc_province": "59"
+  }
+}

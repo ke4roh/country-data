@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Richibucto",
+    "fr": "Richibucto"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/nb/kent",
+  "admin_level": 4,
+  "local_code": "1308018",
+  "meta": {
+    "sgc_province": "13"
+  }
+}

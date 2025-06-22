@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Ochapowace 71-10",
+    "fr": "Ochapowace 71-10"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/sk/division_no_5",
+  "admin_level": 4,
+  "local_code": "4705814",
+  "meta": {
+    "sgc_province": "47"
+  }
+}

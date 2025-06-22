@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Kinoosao-Thomas Clark 204",
+    "fr": "Kinoosao-Thomas Clark 204"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/sk/division_no_18",
+  "admin_level": 4,
+  "local_code": "4718854",
+  "meta": {
+    "sgc_province": "47"
+  }
+}

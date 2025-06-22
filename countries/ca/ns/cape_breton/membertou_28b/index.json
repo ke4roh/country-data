@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Membertou 28B",
+    "fr": "Membertou 28B"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/ns/cape_breton",
+  "admin_level": 4,
+  "local_code": "1217008",
+  "meta": {
+    "sgc_province": "12"
+  }
+}

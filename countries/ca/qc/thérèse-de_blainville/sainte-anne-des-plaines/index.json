@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Sainte-Anne-des-Plaines",
+    "fr": "Sainte-Anne-des-Plaines"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/qc/thérèse-de_blainville",
+  "admin_level": 4,
+  "local_code": "2473035",
+  "meta": {
+    "sgc_province": "24"
+  }
+}

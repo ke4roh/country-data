@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Willner No. 253",
+    "fr": "Willner No. 253"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/sk/division_no_11",
+  "admin_level": 4,
+  "local_code": "4711016",
+  "meta": {
+    "sgc_province": "47"
+  }
+}

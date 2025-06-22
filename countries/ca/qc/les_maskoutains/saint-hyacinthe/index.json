@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Saint-Hyacinthe",
+    "fr": "Saint-Hyacinthe"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/qc/les_maskoutains",
+  "admin_level": 4,
+  "local_code": "2454048",
+  "meta": {
+    "sgc_province": "24"
+  }
+}

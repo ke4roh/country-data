@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Joly",
+    "fr": "Joly"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/on/parry_sound",
+  "admin_level": 4,
+  "local_code": "3549051",
+  "meta": {
+    "sgc_province": "35"
+  }
+}

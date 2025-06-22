@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Fort Vermilion 173B",
+    "fr": "Fort Vermilion 173B"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/ab/division_no_17",
+  "admin_level": 4,
+  "local_code": "4817859",
+  "meta": {
+    "sgc_province": "48"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "North Coast D",
+    "fr": "North Coast D"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/bc/skeena-queen_charlotte",
+  "admin_level": 4,
+  "local_code": "5947027",
+  "meta": {
+    "sgc_province": "59"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Lac-Lenôtre",
+    "fr": "Lac-Lenôtre"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/qc/la_vallée-de-la-gatineau",
+  "admin_level": 4,
+  "local_code": "2483906",
+  "meta": {
+    "sgc_province": "24"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Cranbrook",
+    "fr": "Cranbrook"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/bc/east_kootenay",
+  "admin_level": 4,
+  "local_code": "5901022",
+  "meta": {
+    "sgc_province": "59"
+  }
+}

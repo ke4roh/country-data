@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "West St. Paul",
+    "fr": "West St. Paul"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/mb/division_no_13",
+  "admin_level": 4,
+  "local_code": "4613037",
+  "meta": {
+    "sgc_province": "46"
+  }
+}

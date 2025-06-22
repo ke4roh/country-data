@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Moose Range No. 486",
+    "fr": "Moose Range No. 486"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/sk/division_no_14",
+  "admin_level": 4,
+  "local_code": "4714067",
+  "meta": {
+    "sgc_province": "47"
+  }
+}

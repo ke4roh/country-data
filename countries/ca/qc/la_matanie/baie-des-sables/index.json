@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Baie-des-Sables",
+    "fr": "Baie-des-Sables"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/qc/la_matanie",
+  "admin_level": 4,
+  "local_code": "2408080",
+  "meta": {
+    "sgc_province": "24"
+  }
+}

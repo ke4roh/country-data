@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Gibsons",
+    "fr": "Gibsons"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/bc/sunshine_coast",
+  "admin_level": 4,
+  "local_code": "5929005",
+  "meta": {
+    "sgc_province": "59"
+  }
+}

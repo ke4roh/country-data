@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Oujé-Bougoumou",
+    "fr": "Oujé-Bougoumou"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/qc/nord-du-québec",
+  "admin_level": 4,
+  "local_code": "2499818",
+  "meta": {
+    "sgc_province": "24"
+  }
+}

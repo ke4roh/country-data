@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Glooscap 35",
+    "fr": "Glooscap 35"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/ns/kings",
+  "admin_level": 4,
+  "local_code": "1207027",
+  "meta": {
+    "sgc_province": "12"
+  }
+}

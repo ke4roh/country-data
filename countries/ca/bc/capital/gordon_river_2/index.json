@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Gordon River 2",
+    "fr": "Gordon River 2"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/bc/capital",
+  "admin_level": 4,
+  "local_code": "5917815",
+  "meta": {
+    "sgc_province": "59"
+  }
+}

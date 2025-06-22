@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Beardy's and Okemasis 96 & 97C",
+    "fr": "Beardy's and Okemasis 96 & 97C"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/sk/division_no_16",
+  "admin_level": 4,
+  "local_code": "4716840",
+  "meta": {
+    "sgc_province": "47"
+  }
+}

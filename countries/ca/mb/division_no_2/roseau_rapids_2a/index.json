@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Roseau Rapids 2A",
+    "fr": "Roseau Rapids 2A"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/mb/division_no_2",
+  "admin_level": 4,
+  "local_code": "4602026",
+  "meta": {
+    "sgc_province": "46"
+  }
+}

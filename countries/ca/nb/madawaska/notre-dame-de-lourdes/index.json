@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Notre-Dame-de-Lourdes",
+    "fr": "Notre-Dame-de-Lourdes"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/nb/madawaska",
+  "admin_level": 4,
+  "local_code": "1313008",
+  "meta": {
+    "sgc_province": "13"
+  }
+}

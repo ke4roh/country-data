@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Saint-Joseph-du-Lac",
+    "fr": "Saint-Joseph-du-Lac"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/qc/deux-montagnes",
+  "admin_level": 4,
+  "local_code": "2472025",
+  "meta": {
+    "sgc_province": "24"
+  }
+}

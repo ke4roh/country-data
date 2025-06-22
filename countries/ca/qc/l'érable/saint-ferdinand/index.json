@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Saint-Ferdinand",
+    "fr": "Saint-Ferdinand"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/qc/l'érable",
+  "admin_level": 4,
+  "local_code": "2432013",
+  "meta": {
+    "sgc_province": "24"
+  }
+}

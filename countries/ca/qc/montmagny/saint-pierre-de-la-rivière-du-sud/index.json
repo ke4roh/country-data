@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Saint-Pierre-de-la-Rivière-du-Sud",
+    "fr": "Saint-Pierre-de-la-Rivière-du-Sud"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/qc/montmagny",
+  "admin_level": 4,
+  "local_code": "2418055",
+  "meta": {
+    "sgc_province": "24"
+  }
+}

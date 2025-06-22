@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Coquitlam 2",
+    "fr": "Coquitlam 2"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/bc/greater_vancouver",
+  "admin_level": 4,
+  "local_code": "5915804",
+  "meta": {
+    "sgc_province": "59"
+  }
+}

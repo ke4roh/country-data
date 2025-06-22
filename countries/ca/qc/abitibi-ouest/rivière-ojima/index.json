@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Rivière-Ojima",
+    "fr": "Rivière-Ojima"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/qc/abitibi-ouest",
+  "admin_level": 4,
+  "local_code": "2487904",
+  "meta": {
+    "sgc_province": "24"
+  }
+}

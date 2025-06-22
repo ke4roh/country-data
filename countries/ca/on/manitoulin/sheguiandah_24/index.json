@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Sheguiandah 24",
+    "fr": "Sheguiandah 24"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/on/manitoulin",
+  "admin_level": 4,
+  "local_code": "3551042",
+  "meta": {
+    "sgc_province": "35"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Kakisa",
+    "fr": "Kakisa"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/nt/region_4",
+  "admin_level": 4,
+  "local_code": "6104005",
+  "meta": {
+    "sgc_province": "61"
+  }
+}

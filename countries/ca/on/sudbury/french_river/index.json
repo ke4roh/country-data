@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "French River",
+    "fr": "Rivière des Français"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/on/sudbury",
+  "admin_level": 4,
+  "local_code": "3552001",
+  "meta": {
+    "sgc_province": "35"
+  }
+}

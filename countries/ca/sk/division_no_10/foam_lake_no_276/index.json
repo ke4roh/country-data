@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Foam Lake No. 276",
+    "fr": "Foam Lake No. 276"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/sk/division_no_10",
+  "admin_level": 4,
+  "local_code": "4710036",
+  "meta": {
+    "sgc_province": "47"
+  }
+}

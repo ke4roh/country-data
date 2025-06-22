@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Matachewan 72",
+    "fr": "Matachewan 72"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/on/timiskaming",
+  "admin_level": 4,
+  "local_code": "3554057",
+  "meta": {
+    "sgc_province": "35"
+  }
+}

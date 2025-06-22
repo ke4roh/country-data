@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Clare",
+    "fr": "Clare"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/ns/digby",
+  "admin_level": 4,
+  "local_code": "1203001",
+  "meta": {
+    "sgc_province": "12"
+  }
+}

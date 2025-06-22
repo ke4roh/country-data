@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Sainte-Sophie-d'Halifax",
+    "fr": "Sainte-Sophie-d'Halifax"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/qc/l'érable",
+  "admin_level": 4,
+  "local_code": "2432023",
+  "meta": {
+    "sgc_province": "24"
+  }
+}

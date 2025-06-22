@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Chesterfield No. 261",
+    "fr": "Chesterfield No. 261"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/sk/division_no_8",
+  "admin_level": 4,
+  "local_code": "4708065",
+  "meta": {
+    "sgc_province": "47"
+  }
+}

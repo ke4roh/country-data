@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Charley Boy's Meadow 3",
+    "fr": "Charley Boy's Meadow 3"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/bc/cariboo",
+  "admin_level": 4,
+  "local_code": "5941827",
+  "meta": {
+    "sgc_province": "59"
+  }
+}

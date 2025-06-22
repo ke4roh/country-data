@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "La Pêche",
+    "fr": "La Pêche"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/qc/les_collines-de-l'outaouais",
+  "admin_level": 4,
+  "local_code": "2482035",
+  "meta": {
+    "sgc_province": "24"
+  }
+}

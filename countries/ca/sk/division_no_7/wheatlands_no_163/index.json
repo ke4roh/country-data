@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Wheatlands No. 163",
+    "fr": "Wheatlands No. 163"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/sk/division_no_7",
+  "admin_level": 4,
+  "local_code": "4707032",
+  "meta": {
+    "sgc_province": "47"
+  }
+}

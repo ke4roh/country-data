@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Big Hole Tract 8 (North Half)",
+    "fr": "Big Hole Tract 8 (North Half)"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/nb/northumberland",
+  "admin_level": 4,
+  "local_code": "1309033",
+  "meta": {
+    "sgc_province": "13"
+  }
+}

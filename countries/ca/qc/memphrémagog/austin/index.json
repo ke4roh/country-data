@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Austin",
+    "fr": "Austin"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/qc/memphrémagog",
+  "admin_level": 4,
+  "local_code": "2445085",
+  "meta": {
+    "sgc_province": "24"
+  }
+}

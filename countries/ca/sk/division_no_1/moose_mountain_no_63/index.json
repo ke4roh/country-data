@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Moose Mountain No. 63",
+    "fr": "Moose Mountain No. 63"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/sk/division_no_1",
+  "admin_level": 4,
+  "local_code": "4701053",
+  "meta": {
+    "sgc_province": "47"
+  }
+}

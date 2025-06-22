@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "Yukon",
+    "fr": "Yukon"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/yt",
+  "admin_level": 3,
+  "local_code": "6001",
+  "meta": {
+    "sgc_province": "60"
+  }
+}

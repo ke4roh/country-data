@@ -1,0 +1,16 @@
+{
+  "type": "census_subdivision",
+  "name": {
+    "en": "East Moberly Lake 169",
+    "fr": "East Moberly Lake 169"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "ca/bc/peace_river",
+  "admin_level": 4,
+  "local_code": "5955801",
+  "meta": {
+    "sgc_province": "59"
+  }
+}
