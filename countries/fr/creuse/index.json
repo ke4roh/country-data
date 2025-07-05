@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "en": "Creuse",
+    "fr": "Creuse"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr",
+  "admin_level": 1,
+  "local_code": "23",
+  "meta": {
+    "insee": "23"
+  }
+}

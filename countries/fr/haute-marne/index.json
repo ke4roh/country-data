@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "en": "Haute-Marne",
+    "fr": "Haute-Marne"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr",
+  "admin_level": 1,
+  "local_code": "52",
+  "meta": {
+    "insee": "52"
+  }
+}

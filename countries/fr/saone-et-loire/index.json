@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "en": "Saône-et-Loire",
+    "fr": "Saône-et-Loire"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr",
+  "admin_level": 1,
+  "local_code": "71",
+  "meta": {
+    "insee": "71"
+  }
+}

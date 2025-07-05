@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "en": "Eure-et-Loir",
+    "fr": "Eure-et-Loir"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr",
+  "admin_level": 1,
+  "local_code": "28",
+  "meta": {
+    "insee": "28"
+  }
+}

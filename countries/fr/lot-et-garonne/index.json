@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "en": "Lot-et-Garonne",
+    "fr": "Lot-et-Garonne"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr",
+  "admin_level": 1,
+  "local_code": "47",
+  "meta": {
+    "insee": "47"
+  }
+}

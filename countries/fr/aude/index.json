@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "en": "Aude",
+    "fr": "Aude"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr",
+  "admin_level": 1,
+  "local_code": "11",
+  "meta": {
+    "insee": "11"
+  }
+}

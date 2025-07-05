@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "en": "Haute-Savoie",
+    "fr": "Haute-Savoie"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr",
+  "admin_level": 1,
+  "local_code": "74",
+  "meta": {
+    "insee": "74"
+  }
+}
