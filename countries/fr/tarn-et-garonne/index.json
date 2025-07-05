@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "en": "Tarn-et-Garonne",
+    "fr": "Tarn-et-Garonne"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr",
+  "admin_level": 1,
+  "local_code": "82",
+  "meta": {
+    "insee": "82"
+  }
+}

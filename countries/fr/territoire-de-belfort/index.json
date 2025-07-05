@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "en": "Territoire de Belfort",
+    "fr": "Territoire de Belfort"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr",
+  "admin_level": 1,
+  "local_code": "90",
+  "meta": {
+    "insee": "90"
+  }
+}

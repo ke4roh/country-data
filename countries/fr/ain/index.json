@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "en": "Ain",
+    "fr": "Ain"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr",
+  "admin_level": 1,
+  "local_code": "01",
+  "meta": {
+    "insee": "01"
+  }
+}

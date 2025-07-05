@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "en": "Loir-et-Cher",
+    "fr": "Loir-et-Cher"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr",
+  "admin_level": 1,
+  "local_code": "41",
+  "meta": {
+    "insee": "41"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "en": "La Réunion",
+    "fr": "La Réunion"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr",
+  "admin_level": 1,
+  "local_code": "974",
+  "meta": {
+    "insee": "974"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "en": "Drôme",
+    "fr": "Drôme"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr",
+  "admin_level": 1,
+  "local_code": "26",
+  "meta": {
+    "insee": "26"
+  }
+}

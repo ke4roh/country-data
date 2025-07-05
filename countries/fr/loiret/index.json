@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "en": "Loiret",
+    "fr": "Loiret"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr",
+  "admin_level": 1,
+  "local_code": "45",
+  "meta": {
+    "insee": "45"
+  }
+}

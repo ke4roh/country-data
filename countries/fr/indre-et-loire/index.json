@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "en": "Indre-et-Loire",
+    "fr": "Indre-et-Loire"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr",
+  "admin_level": 1,
+  "local_code": "37",
+  "meta": {
+    "insee": "37"
+  }
+}

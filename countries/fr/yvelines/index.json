@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "en": "Yvelines",
+    "fr": "Yvelines"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr",
+  "admin_level": 1,
+  "local_code": "78",
+  "meta": {
+    "insee": "78"
+  }
+}

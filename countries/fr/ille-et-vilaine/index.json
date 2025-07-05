@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "en": "Ille-et-Vilaine",
+    "fr": "Ille-et-Vilaine"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr",
+  "admin_level": 1,
+  "local_code": "35",
+  "meta": {
+    "insee": "35"
+  }
+}
