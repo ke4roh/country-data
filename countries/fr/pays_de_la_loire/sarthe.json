@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "fr": "Sarthe",
+    "en": "Sarthe"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr/pays_de_la_loire",
+  "admin_level": 2,
+  "local_code": "72",
+  "meta": {
+    "region_code": "52"
+  }
+}

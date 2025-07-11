@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "fr": "Charente-Maritime",
+    "en": "Charente-Maritime"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr/nouvelle_aquitaine",
+  "admin_level": 2,
+  "local_code": "17",
+  "meta": {
+    "region_code": "75"
+  }
+}

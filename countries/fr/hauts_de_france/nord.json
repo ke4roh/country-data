@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "fr": "Nord",
+    "en": "Nord"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr/hauts_de_france",
+  "admin_level": 2,
+  "local_code": "59",
+  "meta": {
+    "region_code": "32"
+  }
+}

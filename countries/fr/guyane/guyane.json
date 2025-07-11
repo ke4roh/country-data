@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "fr": "Guyane",
+    "en": "Guyane"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr/guyane",
+  "admin_level": 2,
+  "local_code": "973",
+  "meta": {
+    "region_code": "03"
+  }
+}

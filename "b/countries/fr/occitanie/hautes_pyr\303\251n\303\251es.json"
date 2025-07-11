@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "fr": "Hautes-Pyrénées",
+    "en": "Hautes-Pyrénées"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr/occitanie",
+  "admin_level": 2,
+  "local_code": "65",
+  "meta": {
+    "region_code": "76"
+  }
+}

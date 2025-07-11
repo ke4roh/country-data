@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "fr": "Martinique",
+    "en": "Martinique"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr/martinique",
+  "admin_level": 2,
+  "local_code": "972",
+  "meta": {
+    "region_code": "02"
+  }
+}

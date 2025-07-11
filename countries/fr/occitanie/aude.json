@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "fr": "Aude",
+    "en": "Aude"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr/occitanie",
+  "admin_level": 2,
+  "local_code": "11",
+  "meta": {
+    "region_code": "76"
+  }
+}

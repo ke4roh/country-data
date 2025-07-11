@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "fr": "Moselle",
+    "en": "Moselle"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr/grand_est",
+  "admin_level": 2,
+  "local_code": "57",
+  "meta": {
+    "region_code": "44"
+  }
+}

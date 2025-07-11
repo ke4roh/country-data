@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "fr": "Bouches-du-Rhône",
+    "en": "Bouches-du-Rhône"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr/provence_alpes_côte_dazur",
+  "admin_level": 2,
+  "local_code": "13",
+  "meta": {
+    "region_code": "93"
+  }
+}
