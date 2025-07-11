@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "fr": "Nièvre",
+    "en": "Nièvre"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr/bourgogne_franche_comté",
+  "admin_level": 2,
+  "local_code": "58",
+  "meta": {
+    "region_code": "27"
+  }
+}

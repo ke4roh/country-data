@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "fr": "Val-de-Marne",
+    "en": "Val-de-Marne"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr/île_de_france",
+  "admin_level": 2,
+  "local_code": "94",
+  "meta": {
+    "region_code": "11"
+  }
+}

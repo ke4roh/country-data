@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "fr": "Indre-et-Loire",
+    "en": "Indre-et-Loire"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr/centre_val_de_loire",
+  "admin_level": 2,
+  "local_code": "37",
+  "meta": {
+    "region_code": "24"
+  }
+}

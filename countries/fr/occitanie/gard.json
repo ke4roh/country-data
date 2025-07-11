@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "fr": "Gard",
+    "en": "Gard"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr/occitanie",
+  "admin_level": 2,
+  "local_code": "30",
+  "meta": {
+    "region_code": "76"
+  }
+}

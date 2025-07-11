@@ -1,0 +1,14 @@
+{
+  "type": "region",
+  "name": {
+    "fr": "Bourgogne-Franche-Comté",
+    "en": "Bourgogne-Franche-Comté"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr",
+  "admin_level": 1,
+  "local_code": "27",
+  "meta": {}
+}

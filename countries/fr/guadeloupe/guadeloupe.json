@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "fr": "Guadeloupe",
+    "en": "Guadeloupe"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr/guadeloupe",
+  "admin_level": 2,
+  "local_code": "971",
+  "meta": {
+    "region_code": "01"
+  }
+}

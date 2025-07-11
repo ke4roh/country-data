@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "fr": "Mayenne",
+    "en": "Mayenne"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr/pays_de_la_loire",
+  "admin_level": 2,
+  "local_code": "53",
+  "meta": {
+    "region_code": "52"
+  }
+}

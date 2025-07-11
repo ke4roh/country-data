@@ -1,0 +1,16 @@
+{
+  "type": "department",
+  "name": {
+    "fr": "Savoie",
+    "en": "Savoie"
+  },
+  "alternate_names": [],
+  "valid_from": null,
+  "valid_to": null,
+  "parent_id": "fr/auvergne_rhône_alpes",
+  "admin_level": 2,
+  "local_code": "73",
+  "meta": {
+    "region_code": "84"
+  }
+}
